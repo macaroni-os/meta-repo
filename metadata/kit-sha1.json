@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "050b94b9fe59e36aeb0910097c3ca58a62e26ea3"
+        "next": "5e49e34c7da2508e0096c927fc7192c69d28460d"
     },
     "core-gl-kit": {
         "next": "35df104b87165d7633888800ee128b6d22265c4b"
@@ -9,7 +9,7 @@
         "next": "d6d457112bdd26f1c0588c601bc288e219c6e439"
     },
     "core-kit": {
-        "next": "a2c2ad4352ade0b0958afc9dfc5bc5bb8afe2adb"
+        "next": "de74d2be4aab9d9f35869415288b7eb1134c3393"
     },
     "core-server-kit": {
         "next": "aca74908555b142e87a81473535496de5ac6f740"
@@ -18,10 +18,10 @@
         "next": "618026985afa1a0c6dc070a11f71683d249be2af"
     },
     "dev-kit": {
-        "next": "aca326bb1f003fc79a77d063c261c8975a6c72bf"
+        "next": "30079234ebb084095822cc991a8ab84c4ac341c8"
     },
     "editors-kit": {
-        "next": "1a6185ef53a45cd6eff7f3406008f77fe44f3c42"
+        "next": "50f612f1fe4095d1d3b55fe3a212c46a5f52d862"
     },
     "games-kit": {
         "next": "aa01e04e4dafc62415237c0d29d9b39568567bbc"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "c77c6158ccaef67df60be7642b4ca7525200aa9d"
+        "next": "4f4379131a9ef79453f8ff009cc007aedfdeb7b5"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
