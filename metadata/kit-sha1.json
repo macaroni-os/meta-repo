@@ -18,7 +18,7 @@
         "next": "ecb17f0364b8fd5133674c31f63f435eeb8c1291"
     },
     "dev-kit": {
-        "next": "efe7c1f7772200b4ee6652ee756bb83ccd75f57e"
+        "next": "33391636350eb696f9b120cacae8c03271265bd0"
     },
     "editors-kit": {
         "next": "4e966263679695d5db93d96d42e484b29bd05a59"
@@ -42,7 +42,7 @@
         "next/5.27-release": "c2407ed0fae769e8ed478ddbcf721eb57dd3b8a7"
     },
     "lang-kit": {
-        "next": "48eed1c494b47f5132933a24d5635408b6835a9f"
+        "next": "78cfc9facf5c0a5b071eaf89b41ac3e7ced8862d"
     },
     "lisp-scheme-kit": {
         "next": "028a122ec4abe46d9cb4461f087d73cb4afd25b8"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "bf69c8a6a381a14cdf2fe5131dd762bc91055932"
+        "next": "32e1164c874140068ecd8839729e9982281735a2"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -69,7 +69,7 @@
         "next": "9aad2803c63ce84c9ba543c825d7e4a96c0bb01c"
     },
     "python-modules-kit": {
-        "next": "175ed347c1007ed4e1a0a150d444cf386961034b"
+        "next": "60f9456545a628a8864e334f62f08ee707d3b099"
     },
     "qt-kit": {
         "next-5.15.2-release": "fe2520d2b6d4577fe94c8c4d95372baa08861b86"
