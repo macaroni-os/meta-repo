@@ -34,275 +34,275 @@
     "kit_settings": {
         "browser-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "core-gl-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "core-hw-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "core-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "core-server-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "desktop-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "dev-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "editors-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "games-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "gnome-kit": {
             "stability": {
-                "next-3.36-prime": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "haskell-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "i18n-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "java-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "kde-kit": {
             "stability": {
-                "next/5.27-release": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "lang-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "lisp-scheme-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "llvm-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "mate-kit": {
             "stability": {
-                "next/1.26-prime": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "media-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "ml-lang-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "net-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "perl-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "python-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "python-modules-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "qt-kit": {
             "stability": {
-                "next-5.15.2-release": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "ruby-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "science-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "security-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "text-kit": {
             "stability": {
-                "next": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         },
         "xfce-kit": {
             "stability": {
-                "next-4.16-release": "prime"
+                "mark-testing": "prime"
             },
             "type": "auto"
         }
     },
     "release_defs": {
         "browser-kit": [
-            "next"
+            "mark-testing"
         ],
         "core-gl-kit": [
-            "next"
+            "mark-testing"
         ],
         "core-hw-kit": [
-            "next"
+            "mark-testing"
         ],
         "core-kit": [
-            "next"
+            "mark-testing"
         ],
         "core-server-kit": [
-            "next"
+            "mark-testing"
         ],
         "desktop-kit": [
-            "next"
+            "mark-testing"
         ],
         "dev-kit": [
-            "next"
+            "mark-testing"
         ],
         "editors-kit": [
-            "next"
+            "mark-testing"
         ],
         "games-kit": [
-            "next"
+            "mark-testing"
         ],
         "gnome-kit": [
-            "next-3.36-prime"
+            "mark-testing"
         ],
         "haskell-kit": [
-            "next"
+            "mark-testing"
         ],
         "i18n-kit": [
-            "next"
+            "mark-testing"
         ],
         "java-kit": [
-            "next"
+            "mark-testing"
         ],
         "kde-kit": [
-            "next/5.27-release"
+            "mark-testing"
         ],
         "lang-kit": [
-            "next"
+            "mark-testing"
         ],
         "lisp-scheme-kit": [
-            "next"
+            "mark-testing"
         ],
         "llvm-kit": [
-            "next"
+            "mark-testing"
         ],
         "mate-kit": [
-            "next/1.26-prime"
+            "mark-testing"
         ],
         "media-kit": [
-            "next"
+            "mark-testing"
         ],
         "ml-lang-kit": [
-            "next"
+            "mark-testing"
         ],
         "net-kit": [
-            "next"
+            "mark-testing"
         ],
         "perl-kit": [
-            "next"
+            "mark-testing"
         ],
         "python-kit": [
-            "next"
+            "mark-testing"
         ],
         "python-modules-kit": [
-            "next"
+            "mark-testing"
         ],
         "qt-kit": [
-            "next-5.15.2-release"
+            "mark-testing"
         ],
         "ruby-kit": [
-            "next"
+            "mark-testing"
         ],
         "science-kit": [
-            "next"
+            "mark-testing"
         ],
         "security-kit": [
-            "next"
+            "mark-testing"
         ],
         "text-kit": [
-            "next"
+            "mark-testing"
         ],
         "xfce-kit": [
-            "next-4.16-release"
+            "mark-testing"
         ]
     },
     "release_info": {
