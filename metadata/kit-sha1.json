@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "e11c9fa33f159b1cfc879f7f44b908aba0920de1"
+        "mark-testing": "8e3f307e471e4f30ad72b2789a0a2e4956dbd619"
     },
     "core-gl-kit": {
         "mark-testing": "7b859267c9f38194e6c03e608476e359ef802c83"
@@ -9,16 +9,16 @@
         "mark-testing": "e837dcc13b3d981543a87a8ee43e205eb47de0ab"
     },
     "core-kit": {
-        "mark-testing": "84f97f8cdcba9aedf3e03c6e6041811880aafb28"
+        "mark-testing": "3d814c4509521e5409a72b6d4bb5170f723d77fa"
     },
     "core-server-kit": {
-        "mark-testing": "41023f86e18d57495b890afaa41497af1639d588"
+        "mark-testing": "19da3052db91b80a223287f5848e94df933871bb"
     },
     "desktop-kit": {
         "mark-testing": "e998c169b9034dbcad90f7edda6c6c40ba6fb7a3"
     },
     "dev-kit": {
-        "mark-testing": "dbd407993d08cbf0e9d6dea3578c6a121ca41ea0"
+        "mark-testing": "8a7618e17e10cebad7353e73fdcbe4af7c0a8bec"
     },
     "editors-kit": {
         "mark-testing": "590b6695212f5d5fef09c21ed22203f874ddd2fe"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "8d2dd4df04d0fd49c33666680822358dea7adebf"
+        "mark-testing": "eb65bed994b6746a387a399840ed19089064bbbc"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,7 +69,7 @@
         "mark-testing": "398809f551762cfec59d062cea597495301725a4"
     },
     "python-modules-kit": {
-        "mark-testing": "5235fbf5502613c28e571c3a8081c2e96e8acb97"
+        "mark-testing": "8a5f8e2e50ffd6674cc2bbe535d7f4804c099900"
     },
     "qt-kit": {
         "mark-testing": "4941ab3266d0ce3dac9937c935536d3e0e3b1987"
@@ -84,7 +84,7 @@
         "mark-testing": "b32f1b7dd9b92f58e441b22c49fbc2849e6c6398"
     },
     "text-kit": {
-        "mark-testing": "4ca548055978333d4bb411231a2b0b696ea81e65"
+        "mark-testing": "733d01d73714ada755458ae1e5afbc7cb9a8c9a9"
     },
     "xfce-kit": {
         "mark-testing": "b73f3a865dbbc6b3c00d4ec394a6a287f303d63b"
