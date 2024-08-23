@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "b2e96441292f4db9d3c99dc245292f940ad9e2ff"
+        "mark-testing": "84da2e67955879d0904617aa5569699c2f7e4f56"
     },
     "core-gl-kit": {
         "mark-testing": "7b859267c9f38194e6c03e608476e359ef802c83"
@@ -12,16 +12,16 @@
         "mark-testing": "c52802ba25ba5ae43843b6c4b018031d40c98839"
     },
     "core-server-kit": {
-        "mark-testing": "214812acb57d810b2fd9e9d25864abc6bbba2051"
+        "mark-testing": "c4bdbde93735c04c1b6a3c8c5bafa321ac7bff9d"
     },
     "desktop-kit": {
         "mark-testing": "b3de7dcd38814056d0a27d741a67b2a5e47e94c9"
     },
     "dev-kit": {
-        "mark-testing": "13cc6aee3a8b261a2d71a69075a2bbf8d9c58944"
+        "mark-testing": "c519ad8ae6f6d9db23eeab0c8d52857fafe03ac3"
     },
     "editors-kit": {
-        "mark-testing": "590b6695212f5d5fef09c21ed22203f874ddd2fe"
+        "mark-testing": "f124b2d1390dd1474323bf627c825382830ab456"
     },
     "games-kit": {
         "mark-testing": "1a3f72a59006d8e9515c7fae3f6cd59da6ff91b2"
@@ -42,7 +42,7 @@
         "mark-testing": "4098a0068159c359569e7bad72b39fde4fb53908"
     },
     "lang-kit": {
-        "mark-testing": "6f878ca2ef2ff33aa4f0b40f0875e2e9e5fc0de1"
+        "mark-testing": "4aa14968db023be77472a51ae20b9e0c61cc05a8"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "c847b07e15f9a0b2d230e285d99e75df3c771761"
+        "mark-testing": "f5c94c16f4cab28a403653b30a297d570358a499"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,7 +69,7 @@
         "mark-testing": "398809f551762cfec59d062cea597495301725a4"
     },
     "python-modules-kit": {
-        "mark-testing": "2d791f0578e2429f679b0709421a863eddbf51fb"
+        "mark-testing": "3ce599a07cdbf8ac17d4ef0a7404132b7842f71f"
     },
     "qt-kit": {
         "mark-testing": "4941ab3266d0ce3dac9937c935536d3e0e3b1987"
