@@ -12,16 +12,16 @@
         "mark-testing": "0ecd74468be3233f0629d1c46d292a001e8848ed"
     },
     "core-server-kit": {
-        "mark-testing": "f69a5ea08d65da3a8d3edd5ff6906fe68eb9ab8c"
+        "mark-testing": "a376f6377b664e79f5ad0dfae8c9208ff954b561"
     },
     "desktop-kit": {
-        "mark-testing": "b022ffb698856bef21142ae174fd94cda7c869a8"
+        "mark-testing": "54056b8cdeccdf4827b2f7800a7399dd4a479395"
     },
     "dev-kit": {
-        "mark-testing": "97f4cdde1408170ad2c521d6bd89b9ad789360a0"
+        "mark-testing": "f9d96d6019049556fe67229fb2c0fe5311989b2a"
     },
     "editors-kit": {
-        "mark-testing": "f124b2d1390dd1474323bf627c825382830ab456"
+        "mark-testing": "eabb02619e28deb8dd5627b5d8d6d99de2e0669a"
     },
     "games-kit": {
         "mark-testing": "522b9812a44e1b4e80c8c0f5ccc189f22c49d692"
@@ -54,13 +54,13 @@
         "mark-testing": "e99b5d2f43ef154c9e9a45b1eb629edc708dbc9e"
     },
     "media-kit": {
-        "mark-testing": "6dc1484befb319a94c9c49dc3a2d886fe844b5c1"
+        "mark-testing": "00d150397be9d1370d3e81cb324f797644cace21"
     },
     "ml-lang-kit": {
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "c391bc28f35188c9da22ec21b952f24950109dba"
+        "mark-testing": "eee506c6be6e47f47a76ca1345062b48de32152a"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
