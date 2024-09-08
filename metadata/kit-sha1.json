@@ -9,7 +9,7 @@
         "mark-testing": "e8039e1360d1f1678244b112ea8eb0ff8fc8a789"
     },
     "core-kit": {
-        "mark-testing": "b12262d3ecfdee7cfd8920f16878dcfd5bb611a4"
+        "mark-testing": "5fcfc874082332b4ee3c5cb60106c6db471cf886"
     },
     "core-server-kit": {
         "mark-testing": "69f7579be0516a237e0857f55914a3d64d7c7eae"
@@ -18,7 +18,7 @@
         "mark-testing": "2b35b6b2b6c4d2e9c96819e98f64432df5bb1840"
     },
     "dev-kit": {
-        "mark-testing": "c13c96809e30f640f8a829618c2af7c9dcda53b4"
+        "mark-testing": "4f514c12cc1a23ed47a3e714d3cc2670e157077f"
     },
     "editors-kit": {
         "mark-testing": "90dcabdb9cca028ea8081a4992056f2247c5c28f"
@@ -33,7 +33,7 @@
         "mark-testing": "3ab2d8a04d07c5895f19b042c3ff0d33fa4f9620"
     },
     "i18n-kit": {
-        "mark-testing": "4d57b845b0477eb8c5b5bca9e685948482bf4477"
+        "mark-testing": "f61379a23994b1f87e5433f0dcae50506f2ac4bd"
     },
     "java-kit": {
         "mark-testing": "50c64a62a88941260339c6b2e1f5cea64168174b"
@@ -42,7 +42,7 @@
         "mark-testing": "4098a0068159c359569e7bad72b39fde4fb53908"
     },
     "lang-kit": {
-        "mark-testing": "d56a95d5e0aba04852d1492b945a6e28e4e5f2c5"
+        "mark-testing": "bc54d5831bc5fdb48a14ca6a77093b3c34c82d9e"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "0aa21b77612c51b2d2b8812f1ed970db303a89bc"
+        "mark-testing": "ea37c5a5a165b6320814a65793666848833091e3"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,7 +69,7 @@
         "mark-testing": "338f7005dc9fa73abf13d0291ea33affffe71757"
     },
     "python-modules-kit": {
-        "mark-testing": "b28d408a55f0cee16c16aae676efea53e5d9f196"
+        "mark-testing": "0534123df4b6aea646f959e33354a1c732ddcd89"
     },
     "qt-kit": {
         "mark-testing": "4941ab3266d0ce3dac9937c935536d3e0e3b1987"
