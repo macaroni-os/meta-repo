@@ -18,7 +18,7 @@
         "mark-testing": "2b35b6b2b6c4d2e9c96819e98f64432df5bb1840"
     },
     "dev-kit": {
-        "mark-testing": "9b06cb33c5155e615281a24c705069fac3b614b9"
+        "mark-testing": "12799af385126de6aa9dd6efa74b730fda1ce483"
     },
     "editors-kit": {
         "mark-testing": "90dcabdb9cca028ea8081a4992056f2247c5c28f"
@@ -54,13 +54,13 @@
         "mark-testing": "e99b5d2f43ef154c9e9a45b1eb629edc708dbc9e"
     },
     "media-kit": {
-        "mark-testing": "77717305c9afb5609e28fc24bd20cc7565c73fea"
+        "mark-testing": "7f9c691f2ca4a610fa714e5fc544bff67130ed95"
     },
     "ml-lang-kit": {
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "afc9b15bc3ed0b22298390384d906203c9618393"
+        "mark-testing": "7b3969a720178bcb505e47a21954f048e9cc798b"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -84,7 +84,7 @@
         "mark-testing": "421d7fb1106c7e22a5cb6be405a372cc2452f9e9"
     },
     "text-kit": {
-        "mark-testing": "733d01d73714ada755458ae1e5afbc7cb9a8c9a9"
+        "mark-testing": "35e9d05e32ce16a3c175acbeec612b5d1a7a1bea"
     },
     "xfce-kit": {
         "mark-testing": "b73f3a865dbbc6b3c00d4ec394a6a287f303d63b"
