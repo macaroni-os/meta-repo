@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "0387ffaa8a6499f1ae833575e28e2134a055189a"
+        "mark-testing": "0c8b745a3e804f47624c21635bdfbb2f4aaceebc"
     },
     "core-gl-kit": {
         "mark-testing": "2315013ec34819ea264673f74af1e5caec2f6761"
@@ -12,13 +12,13 @@
         "mark-testing": "b323979d0f95c7a6b402efa1da4266c07923061e"
     },
     "core-server-kit": {
-        "mark-testing": "36763bafc971a678f56a80642116061b1069112a"
+        "mark-testing": "62a6b7a81e5afc290e4da26e99b9f14193c93bb8"
     },
     "desktop-kit": {
         "mark-testing": "ee94d169b541a1ecb230a2a6f74cc3eddcac0122"
     },
     "dev-kit": {
-        "mark-testing": "6de1eb9653c40fab2bdd6123a0c570d37bf925dd"
+        "mark-testing": "e922142e6287b3a70e2522f528a4cf02dc6fdfe3"
     },
     "editors-kit": {
         "mark-testing": "f993e725037863667bbe59a69ef935fa73f21973"
@@ -33,7 +33,7 @@
         "mark-testing": "3ab2d8a04d07c5895f19b042c3ff0d33fa4f9620"
     },
     "i18n-kit": {
-        "mark-testing": "79f74d81916beb8502c4364bbba1ed420dec40d3"
+        "mark-testing": "a5c73c09382a22051d401f0533a0cd8a1d1e7fec"
     },
     "java-kit": {
         "mark-testing": "50c64a62a88941260339c6b2e1f5cea64168174b"
@@ -42,7 +42,7 @@
         "mark-testing": "4098a0068159c359569e7bad72b39fde4fb53908"
     },
     "lang-kit": {
-        "mark-testing": "999affe16549c93e642e6f7b07932072815ae68b"
+        "mark-testing": "262eab65b9d4037d548f77173d8cfe6f4377305a"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "570b6960a3bdf0d51cb752e6d1124dd4d29c0212"
+        "mark-testing": "9460525dd6ea4173cfb6ebc17af8dbe86d179ea1"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -72,7 +72,7 @@
         "mark-testing": "32f48c5341619e7587f8fa2fb465f0e2d9431cd5"
     },
     "qt-kit": {
-        "mark-testing": "4941ab3266d0ce3dac9937c935536d3e0e3b1987"
+        "mark-testing": "217fdd3d2d13e1474bff2ebe06a4c90837f5669d"
     },
     "ruby-kit": {
         "mark-testing": "617145bac842502a16807ed74559835d41f25971"
