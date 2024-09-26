@@ -3,7 +3,7 @@
         "next": "1d1332415975bc705c4557b00a61159c1df4acc6"
     },
     "core-gl-kit": {
-        "next": "fa550f901b494b9bb99b61ae216a02492d9c741a"
+        "next": "03fb71e139e8c186af7f4e2b3e4dce4add39b7a0"
     },
     "core-hw-kit": {
         "next": "25e51efafa6033f1e55c4d33828d95e0f587d779"
@@ -12,13 +12,13 @@
         "next": "3be334087c14d193f0fd7a53d039d7f916042bab"
     },
     "core-server-kit": {
-        "next": "46f3032d1e610b5806d15ade9d498bd3d7c9e407"
+        "next": "d5a08ed78fd7003a9ce1620dcf61329519d28019"
     },
     "desktop-kit": {
         "next": "f930c1996c9f254d73f860f215e2b5fc7a00fd0d"
     },
     "dev-kit": {
-        "next": "2d7eb7cc2bc88217c003c11a12058121be07ead3"
+        "next": "7497327aeb5cd731edb3cc83d1507fedab9f8cd3"
     },
     "editors-kit": {
         "next": "97bcb7bb21cab0c24ce6e538c56bb399b26febcf"
@@ -42,7 +42,7 @@
         "next/5.27-release": "c2407ed0fae769e8ed478ddbcf721eb57dd3b8a7"
     },
     "lang-kit": {
-        "next": "f508fcc0e5ea6af4a6392dfb41d6d4201f79c6b9"
+        "next": "f70203c4f13662ff82c84e7db2f03bde76c2b0d4"
     },
     "lisp-scheme-kit": {
         "next": "028a122ec4abe46d9cb4461f087d73cb4afd25b8"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "a3827451cca8995ca7e2cd77debceda614fa65b0"
+        "next": "425f191eddcde1ad13218086270e959ac1c836b5"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -69,13 +69,13 @@
         "next": "daa20f44da8a4c6cfa47708c68c2a643d983d064"
     },
     "python-modules-kit": {
-        "next": "3fbeba5f0282886f5480c1dddc3fad8656aa1be3"
+        "next": "62925832f54952f572809bf2d0581d63ad8ad9c9"
     },
     "qt-kit": {
         "next-5.15.2-release": "6a72807874a688aa3ef6ec81c4efc2835498758d"
     },
     "ruby-kit": {
-        "next": "6eac6403a390dc8a7734162c79119a2e571d4652"
+        "next": "af6f9be5ab98d48e821a69be368c8ad3556d1386"
     },
     "science-kit": {
         "next": "c9a128e87094be1f079c85c69cef79ec6e2b7d39"
