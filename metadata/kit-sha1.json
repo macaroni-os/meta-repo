@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "d5dd1d5e6b091ae0467b42a4f060d6c5b402dae5"
+        "mark-testing": "28e2d75cb435ed45e00ea381c782ce3052250c44"
     },
     "core-gl-kit": {
         "mark-testing": "ae2b7550a55dbbf12a96bd4b48ceb8e9b47b79ed"
@@ -9,16 +9,16 @@
         "mark-testing": "c7bf4233dbbabffcce60dc9600a48bd9f387a93e"
     },
     "core-kit": {
-        "mark-testing": "839264f2aad8403d1cc67d8b32d1ad5b4325dba7"
+        "mark-testing": "8c9d29329eb4cec1d4d53a9d8fb9aff2f778ab84"
     },
     "core-server-kit": {
         "mark-testing": "c6627249e57d893f9161a81c39ce13e72becc562"
     },
     "desktop-kit": {
-        "mark-testing": "0f2515772c5324624159fdc461190394ffcd564c"
+        "mark-testing": "fff3aac6aa0b815a9e1e47000d5c6054d4c21936"
     },
     "dev-kit": {
-        "mark-testing": "bb0dc714f6f6b5525fd79f973791ffe05fcde3a6"
+        "mark-testing": "7d9d289a88baa0a12678c7ecb1d85abb24e098ac"
     },
     "editors-kit": {
         "mark-testing": "ccb272b475aa108d0a87701774999627f2626ec8"
@@ -42,7 +42,7 @@
         "mark-testing": "4098a0068159c359569e7bad72b39fde4fb53908"
     },
     "lang-kit": {
-        "mark-testing": "42572866948be9b9d2c04e97c6b0724cb60421e5"
+        "mark-testing": "93e683db4a51d4a1f2f7fdf76a6bd2223348dcb0"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "da739036706764d2ff5e5b14252c0515bb46161c"
+        "mark-testing": "d868c5d45757c5e8eee705689851c8d91c3af4d7"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,7 +69,7 @@
         "mark-testing": "338f7005dc9fa73abf13d0291ea33affffe71757"
     },
     "python-modules-kit": {
-        "mark-testing": "13a8621ba397f301a50946e13134b8f01355b061"
+        "mark-testing": "f17f426c90a779a75f615eccb07948b3f8ac6be1"
     },
     "qt-kit": {
         "mark-testing": "217fdd3d2d13e1474bff2ebe06a4c90837f5669d"
@@ -84,7 +84,7 @@
         "mark-testing": "aaf5b9516872cf7d9804790860971a78c7918621"
     },
     "text-kit": {
-        "mark-testing": "beeedcee58f05a5940961e079bb8475eab309e41"
+        "mark-testing": "2b30d34a6e5492006ea5200074d0e4476018bc14"
     },
     "xfce-kit": {
         "mark-testing": "b73f3a865dbbc6b3c00d4ec394a6a287f303d63b"
