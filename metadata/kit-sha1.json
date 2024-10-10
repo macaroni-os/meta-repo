@@ -18,7 +18,7 @@
         "mark-testing": "4b2d2480e050994df545ba969f8f4d6ca8d96f42"
     },
     "dev-kit": {
-        "mark-testing": "f39a856012f57460b168bac5986dca44570c6a9c"
+        "mark-testing": "38badecef7f18d18b582b1dae668d972c980284e"
     },
     "editors-kit": {
         "mark-testing": "80e3d30041e11026a7b43103917fb0b7ed74d3b8"
@@ -33,7 +33,7 @@
         "mark-testing": "3ab2d8a04d07c5895f19b042c3ff0d33fa4f9620"
     },
     "i18n-kit": {
-        "mark-testing": "97deaecbb3f9c87a68ba5770c1b945ac67dbfe46"
+        "mark-testing": "c1dbf7a5c7db9792f0c9efcfb8b3ffb335a75d7f"
     },
     "java-kit": {
         "mark-testing": "50c64a62a88941260339c6b2e1f5cea64168174b"
@@ -42,7 +42,7 @@
         "mark-testing": "4098a0068159c359569e7bad72b39fde4fb53908"
     },
     "lang-kit": {
-        "mark-testing": "629c5c8cebacbbf2130a65b9be8b016ce8c86e4b"
+        "mark-testing": "61dff65249fef84e5bafb51e18d798d4e5b50d93"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -54,13 +54,13 @@
         "mark-testing": "e99b5d2f43ef154c9e9a45b1eb629edc708dbc9e"
     },
     "media-kit": {
-        "mark-testing": "6c49efdf00594f3010a1a4764edc678ebe34ebf6"
+        "mark-testing": "d16ed0bdf643d3ab31f8bdb4b82a4f167c737f6f"
     },
     "ml-lang-kit": {
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "580acdbfbe247180fddf105d9ada9cdd940db956"
+        "mark-testing": "d626016b779b1b09b676c1f75525ea4823a162c1"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,7 +69,7 @@
         "mark-testing": "338f7005dc9fa73abf13d0291ea33affffe71757"
     },
     "python-modules-kit": {
-        "mark-testing": "65e139274d5131a2b0ee31e756a6b350b3739621"
+        "mark-testing": "907099950f4745bf676b296094a76a330db1272a"
     },
     "qt-kit": {
         "mark-testing": "70f9d8717b5a8578e4f5251d7c539a4494fe57e1"
@@ -81,7 +81,7 @@
         "mark-testing": "ab34b93c9971cbc5edfa9e2ffbeb81694fe81b44"
     },
     "security-kit": {
-        "mark-testing": "aaf5b9516872cf7d9804790860971a78c7918621"
+        "mark-testing": "afb169fefe636fb07a8b70bc8108b5e3e0bef208"
     },
     "text-kit": {
         "mark-testing": "2b30d34a6e5492006ea5200074d0e4476018bc14"
