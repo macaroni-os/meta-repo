@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "cf825d50a009f34305e916c46e04ec7ea32fbec8"
+        "next": "f17951e368ac8ce2dfb92e138899fd44fe32a5b7"
     },
     "core-gl-kit": {
         "next": "d977c84ae2a6506c22f3ad7fccfeee36885c9cb4"
@@ -12,16 +12,16 @@
         "next": "0811fe5d14055b9eb34f79c5bcef0b7b70a0ba8e"
     },
     "core-server-kit": {
-        "next": "e8da9892a4a292edafa6f2f73dc9bd72b32ce164"
+        "next": "cc509d5479b3e2d3efd1b4aa285270e1c9f6ade2"
     },
     "desktop-kit": {
         "next": "8461605ec1f068dcc9aac53120cb90ba8d3a23d7"
     },
     "dev-kit": {
-        "next": "a7d2124257f60dfbac66e9957401f91fbbc439e1"
+        "next": "1cad61fc2be319196a14b1babe2ca36e7c72b5f9"
     },
     "editors-kit": {
-        "next": "7b4f6ceb1cf28a5481f18953659cd51c0ada0701"
+        "next": "f7ed448f0c1ccf434d2d374295aeecd58315068b"
     },
     "games-kit": {
         "next": "62539b1cf1b3e0e049bd7d77f6d4cbc3cb9b4f87"
@@ -42,7 +42,7 @@
         "next/5.27-release": "c2407ed0fae769e8ed478ddbcf721eb57dd3b8a7"
     },
     "lang-kit": {
-        "next": "c1c858446e686f37dcab2fabba1b5aa01ef3714c"
+        "next": "a4a8f8214287b6ee65065ae0fa4bd82b3856d2e5"
     },
     "lisp-scheme-kit": {
         "next": "028a122ec4abe46d9cb4461f087d73cb4afd25b8"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "ac053b7174b6900c338bfb4804848622f3469be5"
     },
     "media-kit": {
-        "next": "49c6fc32ddfbfbb00683e55ea5e30aefda691ea4"
+        "next": "44d6cd710da38ff829f4cef1f4b980905d5b3d68"
     },
     "ml-lang-kit": {
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "ee03b05c89a749cf62e3a637d991aaf0be4c4b02"
+        "next": "fbe615097d9e19b20a8b9df165e7eb9b2a4852ed"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -69,7 +69,7 @@
         "next": "daa20f44da8a4c6cfa47708c68c2a643d983d064"
     },
     "python-modules-kit": {
-        "next": "bab6502ad80fec907dfe8ea49e40d9bb93e3a58b"
+        "next": "01ddc183c5e9577ff529bd75f5c21b78da78961a"
     },
     "qt-kit": {
         "next-5.15.2-release": "192511330d7d7d3dbcf43ea0ff0aff36e4624c8e"
