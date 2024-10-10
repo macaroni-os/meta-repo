@@ -6,22 +6,22 @@
         "mark-testing": "ae2b7550a55dbbf12a96bd4b48ceb8e9b47b79ed"
     },
     "core-hw-kit": {
-        "mark-testing": "8d09bc206cf66bea4fcff144a520a6303e654672"
+        "mark-testing": "c9181a27aa47bf712b81008622dbd95bdb77b97d"
     },
     "core-kit": {
-        "mark-testing": "ef92aa5d3279545edc2aa5e19e9fe9a05f4e6416"
+        "mark-testing": "2b5b6503506a78f62b53a8b21f72305acda61dfd"
     },
     "core-server-kit": {
-        "mark-testing": "73963a45013710dfa43e4a68637b415963b0f7a6"
+        "mark-testing": "13f0e1993bc0898434e3a7d355785d5207e1d7c0"
     },
     "desktop-kit": {
         "mark-testing": "4b2d2480e050994df545ba969f8f4d6ca8d96f42"
     },
     "dev-kit": {
-        "mark-testing": "38badecef7f18d18b582b1dae668d972c980284e"
+        "mark-testing": "e0d4e189a564e186cb7337aa040e4df518fab897"
     },
     "editors-kit": {
-        "mark-testing": "80e3d30041e11026a7b43103917fb0b7ed74d3b8"
+        "mark-testing": "9e31eeb193a36517fb19d357ba6bf0aeb75c2b47"
     },
     "games-kit": {
         "mark-testing": "638db1c4057a4e6927dc1d76f8d67720fac94dc4"
@@ -42,7 +42,7 @@
         "mark-testing": "4098a0068159c359569e7bad72b39fde4fb53908"
     },
     "lang-kit": {
-        "mark-testing": "61dff65249fef84e5bafb51e18d798d4e5b50d93"
+        "mark-testing": "5d29c29ccdc146c8eb8a443512709f4d753cb7fb"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "d626016b779b1b09b676c1f75525ea4823a162c1"
+        "mark-testing": "fe53479c3f27680e1fc3d124f8d1ebd57e4e5c5d"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,7 +69,7 @@
         "mark-testing": "338f7005dc9fa73abf13d0291ea33affffe71757"
     },
     "python-modules-kit": {
-        "mark-testing": "907099950f4745bf676b296094a76a330db1272a"
+        "mark-testing": "b11a370985e4aca1bbb1b91f7dfc676e76ce2a52"
     },
     "qt-kit": {
         "mark-testing": "70f9d8717b5a8578e4f5251d7c539a4494fe57e1"
@@ -78,7 +78,7 @@
         "mark-testing": "15e0d900ce5e719215bae24486b1b3db0456d598"
     },
     "science-kit": {
-        "mark-testing": "ab34b93c9971cbc5edfa9e2ffbeb81694fe81b44"
+        "mark-testing": "749294eaf454e45e9feac6c0ac62106dc0755a8e"
     },
     "security-kit": {
         "mark-testing": "afb169fefe636fb07a8b70bc8108b5e3e0bef208"
