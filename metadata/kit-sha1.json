@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "next": "4fb2e3d2bd892a7b06de9aeba4df04ebf9494608"
+        "next": "5427df800ae08a6e6beb8aad3d9e59f1854037eb"
     },
     "core-gl-kit": {
-        "next": "6e986c499a17a174783fed79f93030090293f577"
+        "next": "507bc637a18c5889e3369723c0f6453a293fbcfd"
     },
     "core-hw-kit": {
         "next": "67121f778fc4d486b309b8038159bae1f6027ed8"
@@ -18,10 +18,10 @@
         "next": "8461605ec1f068dcc9aac53120cb90ba8d3a23d7"
     },
     "dev-kit": {
-        "next": "b3297d07d7c142e195bb88f796069537e332bd8d"
+        "next": "b0840267d4bb748aae1af244c8634fce4e382bba"
     },
     "editors-kit": {
-        "next": "3cb0cf82341d2eb50b6356d1b4a527b164c40f32"
+        "next": "1f9c28f8cdba523e731e96b75a5d8969ef3ab2ff"
     },
     "games-kit": {
         "next": "7571b1c08cc0ff68743e2709f02935e7eee94a02"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "ffe30c26398d38385e8a093c1baa920ab726053d"
+        "next": "a9e991d2863728a1cf2d5f30139f265ab7dc988b"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -69,7 +69,7 @@
         "next": "daa20f44da8a4c6cfa47708c68c2a643d983d064"
     },
     "python-modules-kit": {
-        "next": "98a4a60068f903013ed1258ba009131f64f7be2d"
+        "next": "c2c277a8a3ff33d6838e811e9dfd7cbbc2fdac3b"
     },
     "qt-kit": {
         "next-5.15.2-release": "192511330d7d7d3dbcf43ea0ff0aff36e4624c8e"
