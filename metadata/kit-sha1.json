@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "2c0cf6f52276f0ff043fd7f74f0915a31d3605f1"
+        "next": "7dc05bcb141f1769a6a2f0c8606dd180b9b06507"
     },
     "core-gl-kit": {
         "next": "4ce0fee7713bdf958a2f2a472ae154cbce546131"
@@ -9,7 +9,7 @@
         "next": "018c94b0501989a468a441572f98fcea1bf451a9"
     },
     "core-kit": {
-        "next": "b9b9741e5c328d6fbd2041d161240d8482dc2c23"
+        "next": "e6c35467098f7d21376d23852d0b130c9704b3d8"
     },
     "core-server-kit": {
         "next": "3f0cb1c7c1aac9099be1a808a07a3b06f4ce8699"
@@ -18,7 +18,7 @@
         "next": "dc14772a9d0784e872b3ace58313cce4386164fb"
     },
     "dev-kit": {
-        "next": "87bb2e113d99c07adabea3ebe5fa2d13d6af9f1f"
+        "next": "b8d1d0d1fc2869b20d473b5bf5fcdbe0ffd5dc97"
     },
     "editors-kit": {
         "next": "d3989b886ac137af853366943a05a5aa7ed73de6"
@@ -27,13 +27,13 @@
         "next": "4bc821ac5efd3bdc699fc9afc9d9abc7588af807"
     },
     "gnome-kit": {
-        "next-3.36-prime": "a6b54573073724f8173fe91628c3e4d484fdc5a5"
+        "next-3.36-prime": "b2e90360676ee949616b91db32d9f94af73d0b66"
     },
     "haskell-kit": {
         "next": "e63f0177e70649b7e5b1105918da9e43e9a7bb16"
     },
     "i18n-kit": {
-        "next": "9fa2f3d221fb669fe0b65bc45984cf834f9093e0"
+        "next": "a38cb566e48e02fcbc90ee0f8f6c2b7eafc3658b"
     },
     "java-kit": {
         "next": "9635dbcab64025d66baf1f5126401a50416d759a"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "d8128098e7d7feb870496791fe7c88da2f7e1841"
+        "next": "0be86c1aa170f392697d19f4d4a9b7959a19ddd5"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -69,7 +69,7 @@
         "next": "daa20f44da8a4c6cfa47708c68c2a643d983d064"
     },
     "python-modules-kit": {
-        "next": "29a7a6a3e667de28927567d9eefc3e90c0b35c67"
+        "next": "d9a942b0ef14c21357fb46fc55230983bd869896"
     },
     "qt-kit": {
         "next-5.15.2-release": "4e91603de78d9aa9f3b28290fdbf7f5cb0527543"
