@@ -15,10 +15,10 @@
         "next": "c61862ffe06c8c77888c0563f32958cf883eb987"
     },
     "desktop-kit": {
-        "next": "04fa5e913d4713da213cadd37cb447b574b84a5e"
+        "next": "8da1eab18f0738e261300b5dd586f8c28f62ee56"
     },
     "dev-kit": {
-        "next": "939f30c17c8573c6600930f7e5912fb7ae64a80a"
+        "next": "f32abb0ddac241ee45a73a232425ed9314e12dac"
     },
     "editors-kit": {
         "next": "4a76adef6258ab0d7d345fbe75e3ca3cc6619dab"
@@ -42,7 +42,7 @@
         "next/5.27-release": "c2407ed0fae769e8ed478ddbcf721eb57dd3b8a7"
     },
     "lang-kit": {
-        "next": "a8140786b4a42a21ed3c10e313a4ba8b617a05ed"
+        "next": "0abd027e1dc0f2b1458218a450d48893b2aeeb72"
     },
     "lisp-scheme-kit": {
         "next": "028a122ec4abe46d9cb4461f087d73cb4afd25b8"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "ac053b7174b6900c338bfb4804848622f3469be5"
     },
     "media-kit": {
-        "next": "e27b28d07ec1e20a8979ccc0805998d977689c31"
+        "next": "f6fba755bc04892d7cd6ad85e4c7e702ef15dec0"
     },
     "ml-lang-kit": {
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "733243af6fd2a57b788954a73a70c98c6cae0a80"
+        "next": "61bdb9aa5fc0304f5416b6e7ed24120743cac289"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -69,19 +69,19 @@
         "next": "daa20f44da8a4c6cfa47708c68c2a643d983d064"
     },
     "python-modules-kit": {
-        "next": "95c240fc51a77d7861e1ed7b5442d5ccc1d0b29e"
+        "next": "d8a154c605955a4d69ccff9c7f23feda2bbd7b00"
     },
     "qt-kit": {
         "next-5.15.2-release": "4e91603de78d9aa9f3b28290fdbf7f5cb0527543"
     },
     "ruby-kit": {
-        "next": "aa06fe1fb10aee1c69b00470d31242fe4a4da4c2"
+        "next": "3e7606131100ac877e420c6bff7339689cae7d46"
     },
     "science-kit": {
         "next": "a9bad6d109642fc1d2e0d813f60be8b151779a9d"
     },
     "security-kit": {
-        "next": "44752b6515bda8c0fda4792bcc346c3dd16ff36b"
+        "next": "5346a549afbc21a8bda4ae1e02b621875202d025"
     },
     "text-kit": {
         "next": "d6fffe45e63eeb5080c8da97760d1ae8cd580874"
