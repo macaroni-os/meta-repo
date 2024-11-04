@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "db8f14b02a90e7fc9cd73fbb9ae02265255b943a"
+        "next": "da8fa8a0e81086d0d2791b6daf1bc860c7634ef4"
     },
     "core-gl-kit": {
         "next": "ecc4830f2f341af27583a94637f68fc87065835c"
@@ -9,7 +9,7 @@
         "next": "d652d0fd3254c18acfdfe09e08c7abe65098a26e"
     },
     "core-kit": {
-        "next": "0c2e8bc87d1e49a8f5927d546bb164ee1a9d76dd"
+        "next": "1e28b7faa2c11fda3fa0ded26f170dd80b02bd87"
     },
     "core-server-kit": {
         "next": "1cd360b680a7bc86218878da3af98468468167e9"
@@ -18,7 +18,7 @@
         "next": "8da1eab18f0738e261300b5dd586f8c28f62ee56"
     },
     "dev-kit": {
-        "next": "d94d9cbaa64fb748437e01be4cc5f81ce8574359"
+        "next": "96bdb0e2a068e557f2f60feb639f518a79162fe1"
     },
     "editors-kit": {
         "next": "9c126757628b06f9a6209986ac5841bd7853fab9"
@@ -33,7 +33,7 @@
         "next": "e63f0177e70649b7e5b1105918da9e43e9a7bb16"
     },
     "i18n-kit": {
-        "next": "12491d08c40683345861feafe13c8eba1ab93b93"
+        "next": "1d82b67950685173c412fdc14c5bf0a682807425"
     },
     "java-kit": {
         "next": "9635dbcab64025d66baf1f5126401a50416d759a"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "c552bcd07774839cfbfd8efc1bdbf0c5445fbbd7"
+        "next": "618bf7c427aaad9f2aa9d83e0964fb204a8aed7d"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -69,13 +69,13 @@
         "next": "daa20f44da8a4c6cfa47708c68c2a643d983d064"
     },
     "python-modules-kit": {
-        "next": "fbcb882b0d3e7ddb775f6db00540e821ae0229d8"
+        "next": "a3eac70131af17c701ed6e56ff5beaac57bf9894"
     },
     "qt-kit": {
         "next-5.15.2-release": "4e91603de78d9aa9f3b28290fdbf7f5cb0527543"
     },
     "ruby-kit": {
-        "next": "a93bab4f7c9f3cca3aa66409f60719da14c77552"
+        "next": "bc92f80c1d7cf20d358134fc043785b4ced5c77a"
     },
     "science-kit": {
         "next": "a9bad6d109642fc1d2e0d813f60be8b151779a9d"
