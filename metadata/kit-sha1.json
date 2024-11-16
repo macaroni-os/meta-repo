@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "b1b219fecbb175a3d765248152cae598186d1ed6"
+        "mark-testing": "2d557eb81b1825305cc963ca6392315fe8a865a5"
     },
     "core-gl-kit": {
         "mark-testing": "dc207d9949de4032caa67c2ade81084dba44731f"
@@ -9,7 +9,7 @@
         "mark-testing": "c7ce0144a321839962fc3541415d0f8335c7501b"
     },
     "core-kit": {
-        "mark-testing": "03b4e164a5f709f83d36476c12077085210ccf2c"
+        "mark-testing": "4cba24a5cc886cc661d6280061a15b5fc6a94748"
     },
     "core-server-kit": {
         "mark-testing": "e35a12ad7a05178a4792ec707dab4397b0bc9c1c"
@@ -18,10 +18,10 @@
         "mark-testing": "3df4d67c91073aeafe73d3fd346d4f855b4e6987"
     },
     "dev-kit": {
-        "mark-testing": "571342ea72018e25643ec6574763be7128437cbd"
+        "mark-testing": "346f64a368ab25d03ceb2c62e65257d2972a13ba"
     },
     "editors-kit": {
-        "mark-testing": "98be5577e6d41765b2711b6ce2c0a17fa54df512"
+        "mark-testing": "853c2aa0f579e03baa5ba2333014a82080a1e1ae"
     },
     "games-kit": {
         "mark-testing": "f9f29641f4154b0a4b97bb3055f6abb3bbb275a2"
@@ -54,13 +54,13 @@
         "mark-testing": "e99b5d2f43ef154c9e9a45b1eb629edc708dbc9e"
     },
     "media-kit": {
-        "mark-testing": "5c134df8a3158b7f557bb7c3ec01b88575151f34"
+        "mark-testing": "72b77d70fc7252cde651999756051d270e0174ff"
     },
     "ml-lang-kit": {
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "32154b355653a6f97a97cecfc9c16fe73907f79a"
+        "mark-testing": "0e3902c326cbad44eb9685d7f91f47ac4e3a98bc"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,7 +69,7 @@
         "mark-testing": "338f7005dc9fa73abf13d0291ea33affffe71757"
     },
     "python-modules-kit": {
-        "mark-testing": "c14bbf2fbf6a2af2ad06d5826fafe393349f3285"
+        "mark-testing": "5d98b9a2357e6affdf63a00aca61e5cb41e1b8e0"
     },
     "qt-kit": {
         "mark-testing": "5157e914583a8adfd5eca9aa65da645b733ddaca"
