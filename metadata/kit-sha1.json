@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "ab52683eb4eb9a59757cf57d210912426dc5e039"
+        "mark-testing": "67135060732d12702d0eb40b7dc0b48dba553608"
     },
     "core-gl-kit": {
         "mark-testing": "a8499636be07ebeb46144503926c77ee961c184a"
@@ -9,16 +9,16 @@
         "mark-testing": "207a6faf0218a90b726e4c40fd0f7a2e06c89175"
     },
     "core-kit": {
-        "mark-testing": "0abdda147d153f11c0cd4309610683827c3c6fe6"
+        "mark-testing": "a776a35a05a1ef2e8caa49718f089089336bfef0"
     },
     "core-server-kit": {
-        "mark-testing": "1df418b0146592da66a3495eeda6f6af9c20f705"
+        "mark-testing": "26648722e2984efca84eb2b672084ed525d5a4d9"
     },
     "desktop-kit": {
         "mark-testing": "3df4d67c91073aeafe73d3fd346d4f855b4e6987"
     },
     "dev-kit": {
-        "mark-testing": "6c82d602ef24af15a9dfc82bc673cf0000762d63"
+        "mark-testing": "8cb3c5f980e6c08da956505a996c6384b9949527"
     },
     "editors-kit": {
         "mark-testing": "a9f1d2b3dc0f31ae0c755015f1a05a25766e040f"
@@ -42,7 +42,7 @@
         "mark-testing": "02e803e0b9e2d4b9c3de63229664ee1b938104fe"
     },
     "lang-kit": {
-        "mark-testing": "e216fdcff2da5c4fb533bbd0f29e00dc87e202b4"
+        "mark-testing": "5e0193be34212558ef1451ca88895c76cec5eb3f"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "aa4d8dbf8e0ce2fb14d4f1025d8afdb8cd705cf5"
+        "mark-testing": "5564190991b19ef597f5ea32122ad79c5cf9160e"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,7 +69,7 @@
         "mark-testing": "338f7005dc9fa73abf13d0291ea33affffe71757"
     },
     "python-modules-kit": {
-        "mark-testing": "ede1b64642c3f0586c48be4bcc34f2659bb4dbf9"
+        "mark-testing": "309f34bc95da899a5ff4cb1b1c15739cda41ed1c"
     },
     "qt-kit": {
         "mark-testing": "5157e914583a8adfd5eca9aa65da645b733ddaca"
