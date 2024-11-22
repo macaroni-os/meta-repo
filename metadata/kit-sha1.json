@@ -1,27 +1,27 @@
 {
     "browser-kit": {
-        "next": "b31cacde91e9408ceda726ce69b3a0f94b51a866"
+        "next": "a3c0102091d1ed1c2d6deeafd3ffef814c5d2ac2"
     },
     "core-gl-kit": {
-        "next": "595b9830d3422e36a21a207c7ca706a93bd543e0"
+        "next": "c9b7e023e821cc66edea81c7ba0298ded05bfcfa"
     },
     "core-hw-kit": {
         "next": "77f25a9cb1e553372d1eef408344cf1904791652"
     },
     "core-kit": {
-        "next": "6a97b434538eb3aa2558e458ae5efa82107da6c0"
+        "next": "a5e33f19c372310034e7bb753e28c24afeb5c2c7"
     },
     "core-server-kit": {
-        "next": "46e7a51da0250a598b41a0a234710c944a6efa23"
+        "next": "6f872f55af4d164b2e22fed4aa3711e00207d195"
     },
     "desktop-kit": {
         "next": "5d4aa7d0e5a4d3cc6e22841553a473d9b44f0a12"
     },
     "dev-kit": {
-        "next": "275dbcc901d7295f8f5f4dd4190a7e6ce636734d"
+        "next": "b204d58cdef0611f6f3392301fe780c153ecb886"
     },
     "editors-kit": {
-        "next": "0e8ded7127bce43b3c88a8e4ee758796074086bf"
+        "next": "498100eb7effd21210d94b1a34577a477db56424"
     },
     "games-kit": {
         "next": "18ae013747614b0360ff8c3d2e91224f30c66fa5"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "ac053b7174b6900c338bfb4804848622f3469be5"
     },
     "media-kit": {
-        "next": "669afa6c0be044e2b100ce4a5d7d82af78423553"
+        "next": "39e4fd9b3c3118855acc79519aa3c8078ef20548"
     },
     "ml-lang-kit": {
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "6533f98240365cc57e00093cae35dc1f8bbc47e6"
+        "next": "2d11e6e5aed007272f2f45909b5af460b26c2dd4"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -69,7 +69,7 @@
         "next": "daa20f44da8a4c6cfa47708c68c2a643d983d064"
     },
     "python-modules-kit": {
-        "next": "0070f0cb9f2b6f579cf4b7bffe71718d824e0203"
+        "next": "d4c65ca3bb6d8c8e068215d1274f8b24cf689a92"
     },
     "qt-kit": {
         "next-5.15.2-release": "1b8addc60f41f8c1093721ce5bb71d434671756e"
@@ -78,10 +78,10 @@
         "next": "4bfaea88d0633895e54946be37b57179ecfbfd45"
     },
     "science-kit": {
-        "next": "27ef61a6cf8e90db0d0fad4d7b3d5695e32fa632"
+        "next": "ec18960d64a31496b4ef30fd8b9b414837c05fde"
     },
     "security-kit": {
-        "next": "89fdd5d31b3a31af8764f7f7cdb5aba0454c458b"
+        "next": "eca463c87ad88341064b60a113f7ddbfca9caa41"
     },
     "text-kit": {
         "next": "b7c7b23c824cbe51c7edf9539810fd036ab15432"
