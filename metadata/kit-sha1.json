@@ -9,16 +9,16 @@
         "next": "f33a2416ea16c7f2297d367497dddb4322c2abb9"
     },
     "core-kit": {
-        "next": "db7f9096ed6ec8bb66137738ceb2e2b61018d84e"
+        "next": "7f8c11c3a6d93d50f80a59014c92b1a0de6659e0"
     },
     "core-server-kit": {
-        "next": "988b7fe475d1941d128df001628ab40e6f6cab54"
+        "next": "b65c49bb8e341d0b1adbb27091e5227a66bba3af"
     },
     "desktop-kit": {
         "next": "db5c194f2345fc0bb24f5478130154556868daa8"
     },
     "dev-kit": {
-        "next": "f694cb3a0ea4311e3aa262be9d5b8f0dbba4645e"
+        "next": "76bb1a64ec789a0dc124d3649c1166597184b842"
     },
     "editors-kit": {
         "next": "5ecaebf9cdb472c284e432aed83e0700631998a0"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "a7bc2b430483ab6d2034eb365d62b6bb32a4a3d5"
+        "next": "89c394cd8b6c892f15b3d47204c73bd2254704e6"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -84,7 +84,7 @@
         "next": "eca463c87ad88341064b60a113f7ddbfca9caa41"
     },
     "text-kit": {
-        "next": "b7c7b23c824cbe51c7edf9539810fd036ab15432"
+        "next": "90cd11e926fbb50dbee32683116648acae76ef96"
     },
     "xfce-kit": {
         "next-4.16-release": "f9134ed1c2c28fd7b5aac165eb7686a87ef7b8c2"
