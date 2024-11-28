@@ -9,16 +9,16 @@
         "mark-testing": "12d3a088fc11b9d1953bd18195b462e36d162857"
     },
     "core-kit": {
-        "mark-testing": "20ee193e5ade4b761c9a8182ec98660105c2743a"
+        "mark-testing": "7fd5b573f23d43b7e6484fd6c706d27114d517cd"
     },
     "core-server-kit": {
-        "mark-testing": "0c6d538f9e54da23557b6adca74647ddd6a086e9"
+        "mark-testing": "e059415d12161c2cd8b5f5f23840e54c10619d41"
     },
     "desktop-kit": {
         "mark-testing": "cb4f40b5f584e49671a394d1890d088123295e11"
     },
     "dev-kit": {
-        "mark-testing": "382d4d6f5ca57bb4fcc84102599d15084819e308"
+        "mark-testing": "581bd1abf997eee03c0737f4256ddda5d3c42f50"
     },
     "editors-kit": {
         "mark-testing": "bb073afeaf7f22e536899038174d59e87a9302eb"
@@ -42,7 +42,7 @@
         "mark-testing": "02e803e0b9e2d4b9c3de63229664ee1b938104fe"
     },
     "lang-kit": {
-        "mark-testing": "ed5dd139c5902b108cb9a6e38e4c1150d11ff7ea"
+        "mark-testing": "60ddca01760ae191474248034d95a4dec9aa22ad"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "3ffc9684c92117c64dc48c411c392dc30f8b9083"
+        "mark-testing": "c5182d97542b1cea32c659149cd7da6f4c6dce21"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,13 +69,13 @@
         "mark-testing": "338f7005dc9fa73abf13d0291ea33affffe71757"
     },
     "python-modules-kit": {
-        "mark-testing": "77ce3cee144ddedb93d7e3a4b839c0f85f3e430a"
+        "mark-testing": "19ce71a3b7563787fdb219c33aa90f28aac321c8"
     },
     "qt-kit": {
         "mark-testing": "5157e914583a8adfd5eca9aa65da645b733ddaca"
     },
     "ruby-kit": {
-        "mark-testing": "5c52df0e5b4105b521fd503e6e73bb2a75386580"
+        "mark-testing": "da8a48c0d72eaabd2dbe461523db2972630f6901"
     },
     "science-kit": {
         "mark-testing": "044427100e017659e8135bbc7dba392add0b3e19"
