@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "c9a1ae6f42c52051968ea9636caf32fa6055c3c2"
+        "mark-testing": "e1c6840f6b01811841222b1b18dc4c28ae08698e"
     },
     "core-gl-kit": {
         "mark-testing": "a8499636be07ebeb46144503926c77ee961c184a"
@@ -9,16 +9,16 @@
         "mark-testing": "12d3a088fc11b9d1953bd18195b462e36d162857"
     },
     "core-kit": {
-        "mark-testing": "7336b6661d9fa27249e00c32753ba8759c7b90b4"
+        "mark-testing": "e8735a65bc31f4af9c7a7c2c8f3b308a54f4e46e"
     },
     "core-server-kit": {
-        "mark-testing": "97c154797ef7fc9ebc4062923bd9c49ec0f17ceb"
+        "mark-testing": "7c1ff84dc44a365301564f3c35cb6ae7a5fc46b1"
     },
     "desktop-kit": {
         "mark-testing": "66859d11d527871d284ff4b6e1a6e6776f5d7696"
     },
     "dev-kit": {
-        "mark-testing": "57a8c89019f4b8ae7e76740daa2b4d8df2961f40"
+        "mark-testing": "5d09db11fe9f1d633eceebd99d3e25751c7cc73e"
     },
     "editors-kit": {
         "mark-testing": "bb073afeaf7f22e536899038174d59e87a9302eb"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "bf27a875b70df815352d7592660210885a9d6e0e"
+        "mark-testing": "6c0a8ba974793ab0df4a61d2663dca6a7caf4dfa"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,7 +69,7 @@
         "mark-testing": "338f7005dc9fa73abf13d0291ea33affffe71757"
     },
     "python-modules-kit": {
-        "mark-testing": "cd194d9bcaa5505090643543dc1df2a6f4068c1d"
+        "mark-testing": "87427d37ddfdf9164ddccc4f982aa5944ad532db"
     },
     "qt-kit": {
         "mark-testing": "5157e914583a8adfd5eca9aa65da645b733ddaca"
@@ -84,7 +84,7 @@
         "mark-testing": "b5c80a8ff0e2697b127d904aa7fdd3d4461f64c0"
     },
     "text-kit": {
-        "mark-testing": "f210e6e2530fb68d679efd6c5fe3ee44017897b8"
+        "mark-testing": "901430ebf713950bbeef6969487c3da229b2f295"
     },
     "xfce-kit": {
         "mark-testing": "e9df93bfce1982c61ff1390833bb6061119af12a"
