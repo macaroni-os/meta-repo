@@ -18,10 +18,10 @@
         "next": "8f63f7a9e3b3ae562016ecc0663bb5a397174adb"
     },
     "dev-kit": {
-        "next": "763cb1c2e4239279fef409e216e854442d0f91a8"
+        "next": "f6d93855c2a17e865f111bc0a0feab7a78048536"
     },
     "editors-kit": {
-        "next": "a83c768f7e8fd8a03fdc6501b7cb5e7c4a47bb39"
+        "next": "15bd3e2bc42e7323bb65d7e0723491b28e8129a5"
     },
     "games-kit": {
         "next": "437c138a9bf46c3ad309effb2f82a0e71b9848cf"
@@ -42,7 +42,7 @@
         "next/5.27-release": "bdc1bb2d0490575013c4dec898a61691ee84f81a"
     },
     "lang-kit": {
-        "next": "13b0cd93aa526da91d61c6ca4cf73bbbe15d9f09"
+        "next": "10f938914d89c5f9124e19a74bf85c0cd77a5df5"
     },
     "lisp-scheme-kit": {
         "next": "028a122ec4abe46d9cb4461f087d73cb4afd25b8"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "748d03bd9d59cda64cdbaf351d4bc5aa15f8bb3b"
+        "next": "90f54bf305fed8780d87b3413e763b8882cbd7ec"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
