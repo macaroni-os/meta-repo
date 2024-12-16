@@ -9,16 +9,16 @@
         "mark-testing": "54c9d3a2c0b7093e73ea1c687a4178b1d13a9018"
     },
     "core-kit": {
-        "mark-testing": "29e7b7e7a68277c0a4cb0f59940750d0b280187e"
+        "mark-testing": "f0e730b37a02cda4c3662adc802c9dc2328b2fb1"
     },
     "core-server-kit": {
-        "mark-testing": "19054d9a332cd01326e919bbec150c1bf11adc05"
+        "mark-testing": "7ec0235a1ab4f9292ed393bb19599de9edb51a39"
     },
     "desktop-kit": {
-        "mark-testing": "41505fb4144e32718a58dbbad4948a632736af1f"
+        "mark-testing": "4d6e6bebcf19030e1ddec9e6e1d245e98c4f7fb4"
     },
     "dev-kit": {
-        "mark-testing": "1760bb96e5fd5005403a1a3a6040ecea7a7a6a19"
+        "mark-testing": "aedd0f47051a9b6482ce3cdc581cfeb242940b4d"
     },
     "editors-kit": {
         "mark-testing": "a9e91d0acd68cba7a71dbddd9edbbd66deae7805"
@@ -42,7 +42,7 @@
         "mark-testing": "02e803e0b9e2d4b9c3de63229664ee1b938104fe"
     },
     "lang-kit": {
-        "mark-testing": "2a43268d700ccb09aee427c7cf7b74b94ef900ac"
+        "mark-testing": "8295fc80b1b3d212178c694a2ca1decc4fc64c72"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "841a853fcd72629af43f0a0a462b7ff9c5d95adc"
+        "mark-testing": "8befd3cbd25e5153f2162811999e5df35c3dda78"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -69,10 +69,10 @@
         "mark-testing": "bd4b990b631be39695d5228fe2116919f090b0a4"
     },
     "python-modules-kit": {
-        "mark-testing": "d6c735d2cded8f08ddbe9f1320086c1d13b67618"
+        "mark-testing": "c774945e784331a43a82f306605841f50809041f"
     },
     "qt-kit": {
-        "mark-testing": "b1f0744fce74368fada29f98cad424deb3fb920d"
+        "mark-testing": "46543fed705535ced1fe1af7c2b7e976e4b9d765"
     },
     "ruby-kit": {
         "mark-testing": "6db7614a1adb6905d3d0cd6d35d4368d37cf2972"
