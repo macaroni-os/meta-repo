@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "mark-testing": "73463cd68499f7d45d8e4940ace45b5e841a0bd9"
+        "mark-testing": "7bd16fc2422f6fc12ad33a5b29daaf68d29a318e"
     },
     "core-gl-kit": {
         "mark-testing": "50590f3bccbfac3c85119a12393214edfb1450c4"
@@ -12,16 +12,16 @@
         "mark-testing": "75e478a432fd735fcb1edae39e5f834ca83e1cf7"
     },
     "core-server-kit": {
-        "mark-testing": "6b0aabe5e85d0a294a814a519d6cc4b37140bb89"
+        "mark-testing": "bdd2eb93bb4d08afdef81920ac5ccefb5a88f856"
     },
     "desktop-kit": {
         "mark-testing": "836df81353e77e8723fa0b15ec9d59a6cb618796"
     },
     "dev-kit": {
-        "mark-testing": "b814d3aca92c13144288f7db3b49357cc42d1981"
+        "mark-testing": "db6ba2a36ce4dfd3fce591bd31dfd15d1baa0401"
     },
     "editors-kit": {
-        "mark-testing": "75dad417569eecbe676cbcc80ba7a2ad2e21b33a"
+        "mark-testing": "4bff42a20ac503daf946d6a555989133893cf664"
     },
     "games-kit": {
         "mark-testing": "a5e546d509c6dc6fd87838ae0f6373544c336386"
@@ -42,7 +42,7 @@
         "mark-testing": "02e803e0b9e2d4b9c3de63229664ee1b938104fe"
     },
     "lang-kit": {
-        "mark-testing": "672847714e9f58f6fe2b61bfc3bda9a1622a8c89"
+        "mark-testing": "f1fd28ab91801c3cc8fa8f8b3da5f2c5f4a936c7"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,7 +60,7 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "b8e0435bb34e0134449a67ed6cc54a480ceee8b0"
+        "mark-testing": "be274fe32493dd979270f5ecd35760ebcdf73433"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
@@ -75,7 +75,7 @@
         "mark-testing": "46543fed705535ced1fe1af7c2b7e976e4b9d765"
     },
     "ruby-kit": {
-        "mark-testing": "be92400938c4e29041f50d11a4ba48f9216a4d60"
+        "mark-testing": "9b2d487e6aa174f0fb3035131a484713c9bafaf6"
     },
     "science-kit": {
         "mark-testing": "d2f91b96d76ccd4b4c58475a95ae50a09c822a6b"
