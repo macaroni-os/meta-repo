@@ -3,13 +3,13 @@
         "mark-testing": "4428f26bc564a99d1926a498e70881857d2cea57"
     },
     "core-gl-kit": {
-        "mark-testing": "50590f3bccbfac3c85119a12393214edfb1450c4"
+        "mark-testing": "11b2d4b5dac2ce5d6edc434c056826558ddd5278"
     },
     "core-hw-kit": {
         "mark-testing": "5eac46a051640b39e15f9cb23874c818d01c0ed2"
     },
     "core-kit": {
-        "mark-testing": "fae36d30658e8d14d9634b5227e7bd0da5a7d912"
+        "mark-testing": "f611709890e1708a2c90685b9689cf32ff01482c"
     },
     "core-server-kit": {
         "mark-testing": "ecf20bcacce82e947e3c2da56795172a180cfeda"
@@ -18,7 +18,7 @@
         "mark-testing": "836df81353e77e8723fa0b15ec9d59a6cb618796"
     },
     "dev-kit": {
-        "mark-testing": "125f79be8f40ea37969ab3a405b0e9c2d933cc7b"
+        "mark-testing": "59003d3e7425d7d2c34eebc2b261cc33897e8af3"
     },
     "editors-kit": {
         "mark-testing": "8ea22755536d7fde4558828ad78e313b2ba8a902"
@@ -42,7 +42,7 @@
         "mark-testing": "02e803e0b9e2d4b9c3de63229664ee1b938104fe"
     },
     "lang-kit": {
-        "mark-testing": "b36427f5e50d6354380150e773e28458f47f439a"
+        "mark-testing": "ce2f1217f3c70b822dc0de0d8042de78bd6c454a"
     },
     "lisp-scheme-kit": {
         "mark-testing": "3b970c683f7ae55d92e280c524fe99adec7b835b"
@@ -60,16 +60,16 @@
         "mark-testing": "a07531bfe9bc288645d978a9f12da6db891091a3"
     },
     "net-kit": {
-        "mark-testing": "68037e27ad6885d22fd8614eda2b4cfb54a5887f"
+        "mark-testing": "d9f317f147e8577a5c36429a3b04686c16cc7905"
     },
     "perl-kit": {
         "mark-testing": "7f53f3df4f60a6ece99eb9c9b47be7dd7343f0cb"
     },
     "python-kit": {
-        "mark-testing": "bd4b990b631be39695d5228fe2116919f090b0a4"
+        "mark-testing": "29ca18731786c6bf1753cb5022b34958385ec293"
     },
     "python-modules-kit": {
-        "mark-testing": "2573a608b389afd18f078cbf81f8af971b9d5faa"
+        "mark-testing": "562e746704b66b7f75587909d51deec1375af61f"
     },
     "qt-kit": {
         "mark-testing": "46543fed705535ced1fe1af7c2b7e976e4b9d765"
