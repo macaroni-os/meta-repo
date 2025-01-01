@@ -1,6 +1,7 @@
 {
   "kit_order": [
     "core-kit",
+    "mark-kit",
     "core-server-kit",
     "core-hw-kit",
     "dev-kit",
@@ -62,6 +63,12 @@
       "type": "auto"
     },
     "llvm-kit": {
+      "stability": {
+        "mark-xl": "prime"
+      },
+      "type": "auto"
+    },
+    "mark-kit": {
       "stability": {
         "mark-xl": "prime"
       },
@@ -145,6 +152,9 @@
       "mark-xl"
     ],
     "llvm-kit": [
+      "mark-xl"
+    ],
+    "mark-kit": [
       "mark-xl"
     ],
     "net-kit": [
