@@ -12,19 +12,19 @@
         "mark-testing": "9567d10b65ff1dbf5f3382d5c9b1ee5e1af1733c"
     },
     "core-server-kit": {
-        "mark-testing": "690884a85bfee18c1d547edb82d14d3e980dd8c0"
+        "mark-testing": "0f283ac2e879d9ec6efec338e769ce5da37d0993"
     },
     "desktop-kit": {
-        "mark-testing": "81775a4fd0dd27149019a359ad154357721cac81"
+        "mark-testing": "e3b35f8d25a60462134a7e6b8c2a61be0437984d"
     },
     "dev-kit": {
-        "mark-testing": "bd570166c39790e1a4e0c245b4608fef1636808d"
+        "mark-testing": "7506b29f95c3e979f3f95ad788fef1916e06b09c"
     },
     "editors-kit": {
         "mark-testing": "c8fa5578ddd25418be3f7c404d4a5839fe9c4de4"
     },
     "games-kit": {
-        "mark-testing": "2717836ff25e867bb3089dbd9f3eac7d12ee4247"
+        "mark-testing": "9e618ad91cc2acf0044af2c4e142f8b00dcd0c3d"
     },
     "gnome-kit": {
         "mark-testing": "6c328c745858b5cd9a84c5877797c25d75a8bea3"
@@ -42,7 +42,7 @@
         "mark-testing": "fb8b67ed39eb97a26f26f9c58d717cca24957932"
     },
     "lang-kit": {
-        "mark-testing": "ee5a2d8b9956fd4b6d83d7df3030ce3c3bd249c8"
+        "mark-testing": "a98e99bb3e1bad554956af1108632801b740c4f5"
     },
     "lisp-scheme-kit": {
         "mark-testing": "e4728ab45222da2c62e33ddea58f07b0a7c95cd9"
@@ -54,13 +54,13 @@
         "mark-testing": "2d9ca3782fedb3b35398dc371fadf4dbc10c5b14"
     },
     "media-kit": {
-        "mark-testing": "f70cc5effd07012a325d8eeba46c3d81df386914"
+        "mark-testing": "fc9f7fc59fac0949b4eddf9b528d6d1cad2ac03c"
     },
     "ml-lang-kit": {
         "mark-testing": "ee52b18f792c1e5122604ac553b292b58d3883d4"
     },
     "net-kit": {
-        "mark-testing": "cb3367c7f9c32615a7f1072b2c94a6dc6e175332"
+        "mark-testing": "177f23d5e6f0c0d39d754f4fe34368bf9f46e1ff"
     },
     "perl-kit": {
         "mark-testing": "0199feec9940bf2c436a980e98deb454fbf177a5"
@@ -69,7 +69,7 @@
         "mark-testing": "1c4f21b983e74a6b50c199fabbc6dc7b0ed195ab"
     },
     "python-modules-kit": {
-        "mark-testing": "e5f33110c9227dcdf09c09016bee0cb4b4797151"
+        "mark-testing": "76d369f3c968a915e29d1559d530c9640a918396"
     },
     "qt-kit": {
         "mark-testing": "5d70fb2f5c6e72615d603780b9b3698d1164d68c"
