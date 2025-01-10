@@ -17,7 +17,8 @@
     "science-kit",
     "xorg-kit",
     "text-kit",
-    "llvm-kit"
+    "llvm-kit",
+    "ruby-kit"
   ],
   "kit_settings": {
     "core-hw-kit": {
@@ -104,6 +105,12 @@
       },
       "type": "auto"
     },
+    "ruby-kit": {
+      "stability": {
+        "mark-xl": "prime"
+      },
+      "type": "auto"
+    },
     "science-kit": {
       "stability": {
         "mark-xl": "prime"
@@ -170,6 +177,9 @@
       "mark-xl"
     ],
     "python-modules-kit": [
+      "mark-xl"
+    ],
+    "ruby-kit": [
       "mark-xl"
     ],
     "science-kit": [
