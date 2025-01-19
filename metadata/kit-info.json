@@ -1,0 +1,196 @@
+{
+  "kit_order": [
+    "core-kit",
+    "mark-kit",
+    "core-server-kit",
+    "core-hw-kit",
+    "dev-kit",
+    "lang-kit",
+    "editors-kit",
+    "perl-kit",
+    "python-kit",
+    "python-modules-kit",
+    "portage-kit",
+    "net-kit",
+    "kernel-kit",
+    "security-kit",
+    "science-kit",
+    "text-kit",
+    "llvm-kit",
+    "ruby-kit"
+  ],
+  "kit_settings": {
+    "core-hw-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "core-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "core-server-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "dev-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "editors-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "kernel-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "lang-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "llvm-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "mark-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "net-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "perl-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "portage-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "python-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "python-modules-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "ruby-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "science-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "security-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "text-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    }
+  },
+  "release_defs": {
+    "core-hw-kit": [
+      "mark-unstable"
+    ],
+    "core-kit": [
+      "mark-unstable"
+    ],
+    "core-server-kit": [
+      "mark-unstable"
+    ],
+    "dev-kit": [
+      "mark-unstable"
+    ],
+    "editors-kit": [
+      "mark-unstable"
+    ],
+    "kernel-kit": [
+      "mark-unstable"
+    ],
+    "lang-kit": [
+      "mark-unstable"
+    ],
+    "llvm-kit": [
+      "mark-unstable"
+    ],
+    "mark-kit": [
+      "mark-unstable"
+    ],
+    "net-kit": [
+      "mark-unstable"
+    ],
+    "perl-kit": [
+      "mark-unstable"
+    ],
+    "portage-kit": [
+      "mark-unstable"
+    ],
+    "python-kit": [
+      "mark-unstable"
+    ],
+    "python-modules-kit": [
+      "mark-unstable"
+    ],
+    "ruby-kit": [
+      "mark-unstable"
+    ],
+    "science-kit": [
+      "mark-unstable"
+    ],
+    "security-kit": [
+      "mark-unstable"
+    ],
+    "text-kit": [
+      "mark-unstable"
+    ]
+  },
+  "release_info": {
+    "required": [
+      {
+        "ego": "2.7.2"
+      }
+    ],
+    "version": 11
+  }
+}
