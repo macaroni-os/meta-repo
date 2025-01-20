@@ -1,196 +1,316 @@
 {
-  "kit_order": [
-    "core-kit",
-    "mark-kit",
-    "core-server-kit",
-    "core-hw-kit",
-    "dev-kit",
-    "lang-kit",
-    "editors-kit",
-    "perl-kit",
-    "python-kit",
-    "python-modules-kit",
-    "portage-kit",
-    "net-kit",
-    "kernel-kit",
-    "security-kit",
-    "science-kit",
-    "text-kit",
-    "llvm-kit",
-    "ruby-kit"
-  ],
-  "kit_settings": {
-    "core-hw-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
+    "kit_order": [
+        "browser-kit",
+        "core-gl-kit",
+        "core-hw-kit",
+        "core-kit",
+        "core-server-kit",
+        "desktop-kit",
+        "dev-kit",
+        "editors-kit",
+        "games-kit",
+        "gnome-kit",
+        "haskell-kit",
+        "i18n-kit",
+        "java-kit",
+        "kde-kit",
+        "lang-kit",
+        "lisp-scheme-kit",
+        "llvm-kit",
+        "mate-kit",
+        "media-kit",
+        "ml-lang-kit",
+        "net-kit",
+        "perl-kit",
+        "python-kit",
+        "python-modules-kit",
+        "qt-kit",
+        "ruby-kit",
+        "science-kit",
+        "security-kit",
+        "text-kit",
+        "xfce-kit"
+    ],
+    "kit_settings": {
+        "browser-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "core-gl-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "core-hw-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "core-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "core-server-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "desktop-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "dev-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "editors-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "games-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "gnome-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "haskell-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "i18n-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "java-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "kde-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "lang-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "lisp-scheme-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "llvm-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "mate-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "media-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "ml-lang-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "net-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "perl-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "python-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "python-modules-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "qt-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "ruby-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "science-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "security-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "text-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        },
+        "xfce-kit": {
+            "stability": {
+                "mark-testing": "prime"
+            },
+            "type": "auto"
+        }
     },
-    "core-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
+    "release_defs": {
+        "browser-kit": [
+            "mark-testing"
+        ],
+        "core-gl-kit": [
+            "mark-testing"
+        ],
+        "core-hw-kit": [
+            "mark-testing"
+        ],
+        "core-kit": [
+            "mark-testing"
+        ],
+        "core-server-kit": [
+            "mark-testing"
+        ],
+        "desktop-kit": [
+            "mark-testing"
+        ],
+        "dev-kit": [
+            "mark-testing"
+        ],
+        "editors-kit": [
+            "mark-testing"
+        ],
+        "games-kit": [
+            "mark-testing"
+        ],
+        "gnome-kit": [
+            "mark-testing"
+        ],
+        "haskell-kit": [
+            "mark-testing"
+        ],
+        "i18n-kit": [
+            "mark-testing"
+        ],
+        "java-kit": [
+            "mark-testing"
+        ],
+        "kde-kit": [
+            "mark-testing"
+        ],
+        "lang-kit": [
+            "mark-testing"
+        ],
+        "lisp-scheme-kit": [
+            "mark-testing"
+        ],
+        "llvm-kit": [
+            "mark-testing"
+        ],
+        "mate-kit": [
+            "mark-testing"
+        ],
+        "media-kit": [
+            "mark-testing"
+        ],
+        "ml-lang-kit": [
+            "mark-testing"
+        ],
+        "net-kit": [
+            "mark-testing"
+        ],
+        "perl-kit": [
+            "mark-testing"
+        ],
+        "python-kit": [
+            "mark-testing"
+        ],
+        "python-modules-kit": [
+            "mark-testing"
+        ],
+        "qt-kit": [
+            "mark-testing"
+        ],
+        "ruby-kit": [
+            "mark-testing"
+        ],
+        "science-kit": [
+            "mark-testing"
+        ],
+        "security-kit": [
+            "mark-testing"
+        ],
+        "text-kit": [
+            "mark-testing"
+        ],
+        "xfce-kit": [
+            "mark-testing"
+        ]
     },
-    "core-server-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "dev-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "editors-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "kernel-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "lang-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "llvm-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "mark-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "net-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "perl-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "portage-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "python-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "python-modules-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "ruby-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "science-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "security-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
-    },
-    "text-kit": {
-      "stability": {
-        "mark-unstable": "prime"
-      },
-      "type": "auto"
+    "release_info": {
+        "required": [
+            {
+                "ego": "2.7.2"
+            }
+        ],
+        "version": 11
     }
-  },
-  "release_defs": {
-    "core-hw-kit": [
-      "mark-unstable"
-    ],
-    "core-kit": [
-      "mark-unstable"
-    ],
-    "core-server-kit": [
-      "mark-unstable"
-    ],
-    "dev-kit": [
-      "mark-unstable"
-    ],
-    "editors-kit": [
-      "mark-unstable"
-    ],
-    "kernel-kit": [
-      "mark-unstable"
-    ],
-    "lang-kit": [
-      "mark-unstable"
-    ],
-    "llvm-kit": [
-      "mark-unstable"
-    ],
-    "mark-kit": [
-      "mark-unstable"
-    ],
-    "net-kit": [
-      "mark-unstable"
-    ],
-    "perl-kit": [
-      "mark-unstable"
-    ],
-    "portage-kit": [
-      "mark-unstable"
-    ],
-    "python-kit": [
-      "mark-unstable"
-    ],
-    "python-modules-kit": [
-      "mark-unstable"
-    ],
-    "ruby-kit": [
-      "mark-unstable"
-    ],
-    "science-kit": [
-      "mark-unstable"
-    ],
-    "security-kit": [
-      "mark-unstable"
-    ],
-    "text-kit": [
-      "mark-unstable"
-    ]
-  },
-  "release_info": {
-    "required": [
-      {
-        "ego": "2.7.2"
-      }
-    ],
-    "version": 11
-  }
 }
