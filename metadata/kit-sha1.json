@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "mark-testing": "12472f3c64de1f0a9829172fe34baf7aa8f84938"
+        "mark-testing": "9c62f79809bba9dd4837447c2fddcb50c8bae8a5"
     },
     "core-gl-kit": {
-        "mark-testing": "91d41231843d366f916af79c676e839d1c63bd31"
+        "mark-testing": "0f330335109c6e0e71fbd3dd932b1646c2cfd3b3"
     },
     "core-hw-kit": {
         "mark-testing": "4b662a778e81aa7b8462ed5b6de4aeaf1528a6c6"
@@ -12,13 +12,13 @@
         "mark-testing": "f59cfd322d12b9fcfedd96c81526702a6cbab4b8"
     },
     "core-server-kit": {
-        "mark-testing": "b93fa12d59b37d619e735649343de6d3c0a0536c"
+        "mark-testing": "a9304dd2d36fe3b25db1d496f9553b367352bdce"
     },
     "desktop-kit": {
         "mark-testing": "1120e7c473260378d9c4727376f88b4bdacc5d7b"
     },
     "dev-kit": {
-        "mark-testing": "bba2e3c13e25ac2f2b381baea79ca6dd18918434"
+        "mark-testing": "225eb1a0d5d57f31a2efaa29a6a76cdd5ad8277e"
     },
     "editors-kit": {
         "mark-testing": "3a4c2a373eeb048f00e8426c055573181114fbd3"
@@ -60,7 +60,7 @@
         "mark-testing": "ee52b18f792c1e5122604ac553b292b58d3883d4"
     },
     "net-kit": {
-        "mark-testing": "57b2b5c452e112dff1cc5214c16eda7d8c780b26"
+        "mark-testing": "edb2c305232350b82e3d6937d1529d653bb6c457"
     },
     "perl-kit": {
         "mark-testing": "0199feec9940bf2c436a980e98deb454fbf177a5"
@@ -69,7 +69,7 @@
         "mark-testing": "1c4f21b983e74a6b50c199fabbc6dc7b0ed195ab"
     },
     "python-modules-kit": {
-        "mark-testing": "9ad055905ae32bf7db7d25ed8063240914cc2b77"
+        "mark-testing": "99da42461cf1b693f30365277da565c0192deec4"
     },
     "qt-kit": {
         "mark-testing": "ce5b044ed1406bed9bfa4d3c78f91e92d8843dab"
@@ -81,7 +81,7 @@
         "mark-testing": "5c9e3f791b41631ff4e95d8e2025a814fce03580"
     },
     "security-kit": {
-        "mark-testing": "19135de6b0f07033cc6b6613a204b4dd3c980894"
+        "mark-testing": "bdba2259c9512d51fde0e61652d25e746d6c0fdd"
     },
     "text-kit": {
         "mark-testing": "9e70413b24566411f93d76d22329508ecdc0ec1c"
