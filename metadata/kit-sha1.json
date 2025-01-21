@@ -12,16 +12,16 @@
         "mark-testing": "f59cfd322d12b9fcfedd96c81526702a6cbab4b8"
     },
     "core-server-kit": {
-        "mark-testing": "98df0929bd98ad2cb1a4499162fc21f494f8305b"
+        "mark-testing": "b93fa12d59b37d619e735649343de6d3c0a0536c"
     },
     "desktop-kit": {
         "mark-testing": "1120e7c473260378d9c4727376f88b4bdacc5d7b"
     },
     "dev-kit": {
-        "mark-testing": "42692f3e99c073f97d8c703cb29b2bb137d52aa1"
+        "mark-testing": "bba2e3c13e25ac2f2b381baea79ca6dd18918434"
     },
     "editors-kit": {
-        "mark-testing": "64d96e0c008d5938d0c97dcc41c547c41b4e530e"
+        "mark-testing": "3a4c2a373eeb048f00e8426c055573181114fbd3"
     },
     "games-kit": {
         "mark-testing": "3a7060c1602b624cfb02f89af8bcd5d4249c787c"
@@ -33,7 +33,7 @@
         "mark-testing": "04de641bf91cb954fae10282bb4cceabe87b48a0"
     },
     "i18n-kit": {
-        "mark-testing": "7cb8cf4007bfb583a0e4383565a9cc87576150e0"
+        "mark-testing": "50abd6230bd462dc2b8c692eb4f978beecef0519"
     },
     "java-kit": {
         "mark-testing": "2cdce2e170d47362a9296f8bbb7ebaa461dba576"
@@ -42,7 +42,7 @@
         "mark-testing": "fb8b67ed39eb97a26f26f9c58d717cca24957932"
     },
     "lang-kit": {
-        "mark-testing": "c0995fead0427db355b179619b1dc86061b6117b"
+        "mark-testing": "ddcddd6bf57811b9eaa177c73b48ebff095d9dc0"
     },
     "lisp-scheme-kit": {
         "mark-testing": "e4728ab45222da2c62e33ddea58f07b0a7c95cd9"
@@ -60,31 +60,31 @@
         "mark-testing": "ee52b18f792c1e5122604ac553b292b58d3883d4"
     },
     "net-kit": {
-        "mark-testing": "4b3ad9b24a942bfa3433587195e558fdc75a6c1f"
+        "mark-testing": "57b2b5c452e112dff1cc5214c16eda7d8c780b26"
     },
     "perl-kit": {
-        "mark-testing": "f21ee2dd7d305dc5284a4cdbe91a6e2b15ee14bd"
+        "mark-testing": "0199feec9940bf2c436a980e98deb454fbf177a5"
     },
     "python-kit": {
-        "mark-testing": "bf46c00a22ad821f68396d09ed34cafbda6c1af9"
+        "mark-testing": "1c4f21b983e74a6b50c199fabbc6dc7b0ed195ab"
     },
     "python-modules-kit": {
-        "mark-testing": "99d490eadd9ed2663489b529ca899d2b7c89a1dd"
+        "mark-testing": "9ad055905ae32bf7db7d25ed8063240914cc2b77"
     },
     "qt-kit": {
         "mark-testing": "ce5b044ed1406bed9bfa4d3c78f91e92d8843dab"
     },
     "ruby-kit": {
-        "mark-testing": "0fc0e16538e8df5ffb81d7858a875509c57d7b51"
+        "mark-testing": "f79bfc0e604445fb78dda5df0c685c835b9a8107"
     },
     "science-kit": {
-        "mark-testing": "3adcf8900040cf99ae4e8b732d819361b4338386"
+        "mark-testing": "5c9e3f791b41631ff4e95d8e2025a814fce03580"
     },
     "security-kit": {
-        "mark-testing": "0b1d010712d6018ebd01387a11a7351f2a6a4b84"
+        "mark-testing": "19135de6b0f07033cc6b6613a204b4dd3c980894"
     },
     "text-kit": {
-        "mark-testing": "c776ee1a82301e9f3f3db9aaecddaea7b19b7d3d"
+        "mark-testing": "9e70413b24566411f93d76d22329508ecdc0ec1c"
     },
     "xfce-kit": {
         "mark-testing": "567167b00d9b6e3ddddeb7cedc42392cbdbca96f"
