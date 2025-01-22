@@ -6,19 +6,19 @@
         "mark-testing": "0f330335109c6e0e71fbd3dd932b1646c2cfd3b3"
     },
     "core-hw-kit": {
-        "mark-testing": "4b662a778e81aa7b8462ed5b6de4aeaf1528a6c6"
+        "mark-testing": "1226e4f68de3555a5a99a51afd885dc0c3a2e566"
     },
     "core-kit": {
-        "mark-testing": "f59cfd322d12b9fcfedd96c81526702a6cbab4b8"
+        "mark-testing": "dfc8a0e2dde993fd7ab02a2f7b5d25eff7d77b02"
     },
     "core-server-kit": {
-        "mark-testing": "a9304dd2d36fe3b25db1d496f9553b367352bdce"
+        "mark-testing": "ca7b04ca1bcfae3a9c9c8be8c3a45c18bac06425"
     },
     "desktop-kit": {
-        "mark-testing": "1120e7c473260378d9c4727376f88b4bdacc5d7b"
+        "mark-testing": "1181286e199e68d75e7b15a4de61355d29ac5936"
     },
     "dev-kit": {
-        "mark-testing": "225eb1a0d5d57f31a2efaa29a6a76cdd5ad8277e"
+        "mark-testing": "29f7863a07549c2525438b5e5e4f1935d1f20af9"
     },
     "editors-kit": {
         "mark-testing": "3a4c2a373eeb048f00e8426c055573181114fbd3"
@@ -54,13 +54,13 @@
         "mark-testing": "2d9ca3782fedb3b35398dc371fadf4dbc10c5b14"
     },
     "media-kit": {
-        "mark-testing": "8faed05c3689e44834ef18092baa9793605ef04f"
+        "mark-testing": "fb4e02b58921ed6050275fe6a8ee19dc327b9715"
     },
     "ml-lang-kit": {
         "mark-testing": "ee52b18f792c1e5122604ac553b292b58d3883d4"
     },
     "net-kit": {
-        "mark-testing": "edb2c305232350b82e3d6937d1529d653bb6c457"
+        "mark-testing": "879f9ebee49d2e2606e5ebeadd669dc40daa1fc9"
     },
     "perl-kit": {
         "mark-testing": "0199feec9940bf2c436a980e98deb454fbf177a5"
@@ -69,13 +69,13 @@
         "mark-testing": "1c4f21b983e74a6b50c199fabbc6dc7b0ed195ab"
     },
     "python-modules-kit": {
-        "mark-testing": "99da42461cf1b693f30365277da565c0192deec4"
+        "mark-testing": "08e02ec27baf6c1bb849252edf6346580b30a790"
     },
     "qt-kit": {
         "mark-testing": "ce5b044ed1406bed9bfa4d3c78f91e92d8843dab"
     },
     "ruby-kit": {
-        "mark-testing": "f79bfc0e604445fb78dda5df0c685c835b9a8107"
+        "mark-testing": "6b166f22006c54ef94a93cba083296737dcb05ac"
     },
     "science-kit": {
         "mark-testing": "5c9e3f791b41631ff4e95d8e2025a814fce03580"
