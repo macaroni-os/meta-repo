@@ -1,0 +1,196 @@
+{
+  "kit_order": [
+    "core-kit",
+    "mark-kit",
+    "core-server-kit",
+    "core-hw-kit",
+    "dev-kit",
+    "lang-kit",
+    "editors-kit",
+    "perl-kit",
+    "python-kit",
+    "python-modules-kit",
+    "portage-kit",
+    "net-kit",
+    "kernel-kit",
+    "security-kit",
+    "science-kit",
+    "text-kit",
+    "llvm-kit",
+    "ruby-kit"
+  ],
+  "kit_settings": {
+    "core-hw-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "core-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "core-server-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "dev-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "editors-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "kernel-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "lang-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "llvm-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "mark-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "net-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "perl-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "portage-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "python-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "python-modules-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "ruby-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "science-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "security-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "text-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    }
+  },
+  "release_defs": {
+    "core-hw-kit": [
+      "mark-iii"
+    ],
+    "core-kit": [
+      "mark-iii"
+    ],
+    "core-server-kit": [
+      "mark-iii"
+    ],
+    "dev-kit": [
+      "mark-iii"
+    ],
+    "editors-kit": [
+      "mark-iii"
+    ],
+    "kernel-kit": [
+      "mark-iii"
+    ],
+    "lang-kit": [
+      "mark-iii"
+    ],
+    "llvm-kit": [
+      "mark-iii"
+    ],
+    "mark-kit": [
+      "mark-iii"
+    ],
+    "net-kit": [
+      "mark-iii"
+    ],
+    "perl-kit": [
+      "mark-iii"
+    ],
+    "portage-kit": [
+      "mark-iii"
+    ],
+    "python-kit": [
+      "mark-iii"
+    ],
+    "python-modules-kit": [
+      "mark-iii"
+    ],
+    "ruby-kit": [
+      "mark-iii"
+    ],
+    "science-kit": [
+      "mark-iii"
+    ],
+    "security-kit": [
+      "mark-iii"
+    ],
+    "text-kit": [
+      "mark-iii"
+    ]
+  },
+  "release_info": {
+    "required": [
+      {
+        "ego": "2.7.2"
+      }
+    ],
+    "version": 11
+  }
+}
