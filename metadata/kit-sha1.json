@@ -12,16 +12,16 @@
         "mark-testing": "6e8fd51346e885a6291c89c716f385ea63c2c9e1"
     },
     "core-server-kit": {
-        "mark-testing": "fd958c15aebfb7e8e64a667c586f2a72479c0cb4"
+        "mark-testing": "d74d9c7363ea82833c13aec0e9f3f8844bc983ad"
     },
     "desktop-kit": {
-        "mark-testing": "f4eae09fecc09324f9cd3264db66052222d09270"
+        "mark-testing": "9498855f9c68f8f96e9ef6829104641c7fe6d19f"
     },
     "dev-kit": {
-        "mark-testing": "8c129f185919b067ff4ee97a1fc360ab1a6bf2ae"
+        "mark-testing": "ad0a33e86e4568734cd86b9f485619b1dae7902c"
     },
     "editors-kit": {
-        "mark-testing": "eede0a93a4def6361fb16cd3fdc95da5e669fee3"
+        "mark-testing": "686770e382bba775976794444074396a3269980e"
     },
     "games-kit": {
         "mark-testing": "a1aa73dc76cd35dbc57c098303d25a175345b771"
@@ -42,7 +42,7 @@
         "mark-testing": "fb8b67ed39eb97a26f26f9c58d717cca24957932"
     },
     "lang-kit": {
-        "mark-testing": "67fbcdff8f868fc887df18390693cfbfbcab6c6a"
+        "mark-testing": "8e0865b44a838882737bb37176ad0d005dd05d46"
     },
     "lisp-scheme-kit": {
         "mark-testing": "e4728ab45222da2c62e33ddea58f07b0a7c95cd9"
@@ -60,31 +60,31 @@
         "mark-testing": "ee52b18f792c1e5122604ac553b292b58d3883d4"
     },
     "net-kit": {
-        "mark-testing": "0cae560b27a9464c40d1ccb46454a112c58ae7d7"
+        "mark-testing": "ee5dc479d7696af5d3a0f1a1ddbdccf7b2757271"
     },
     "perl-kit": {
-        "mark-testing": "0735220e1401ea0aa45ac81a0cd82ca58a06c8be"
+        "mark-testing": "0199feec9940bf2c436a980e98deb454fbf177a5"
     },
     "python-kit": {
-        "mark-testing": "ea4a562b14933561502c52a27de3f380a6ab3fc7"
+        "mark-testing": "1c4f21b983e74a6b50c199fabbc6dc7b0ed195ab"
     },
     "python-modules-kit": {
-        "mark-testing": "604d0e0a3842f97f3cebef0b79f6d3bb33d7d5e4"
+        "mark-testing": "2a32491e87bdda6eabcd50d749d790bf3e4f3d13"
     },
     "qt-kit": {
         "mark-testing": "ce5b044ed1406bed9bfa4d3c78f91e92d8843dab"
     },
     "ruby-kit": {
-        "mark-testing": "ef6cc7fd62f604fbf9f0aad2cde92d4f2bce4a64"
+        "mark-testing": "73155cf803d6e55e059b8eb5e69915b424371456"
     },
     "science-kit": {
-        "mark-testing": "fe3c54296d5c60646414c3e9c6cb2cdbacd47a67"
+        "mark-testing": "5c9e3f791b41631ff4e95d8e2025a814fce03580"
     },
     "security-kit": {
-        "mark-testing": "6845e39e640bac01b7b5a45da6a97ed649473651"
+        "mark-testing": "3c25dd3bb47a6ff25628541c52e2980a76394d81"
     },
     "text-kit": {
-        "mark-testing": "45f0604f5f22ad9ccb488211c7973c9057154ff4"
+        "mark-testing": "0e76cfd38e1edf24ef5eb52d4fe2f8cff80b8e83"
     },
     "xfce-kit": {
         "mark-testing": "567167b00d9b6e3ddddeb7cedc42392cbdbca96f"
