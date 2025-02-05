@@ -3,13 +3,13 @@
   "mark-xl": "e8874ac8eb0d928062b7d82f8ab998f513207a8c"
  },
  "core-kit": {
-  "mark-xl": "00a92c99020f55ff45c897b9fbe6805d6144b9a5"
+  "mark-xl": "b35b081a7ca6336576ed420a60f03f3bcbbc783f"
  },
  "core-server-kit": {
-  "mark-xl": "380037b42819b88a8d9e78cba8294bbc600f0ddf"
+  "mark-xl": "de0e2f6c66f81df9fa435f12d4f95ccda39893e9"
  },
  "dev-kit": {
-  "mark-xl": "b54910aa2416de29b4f43217677fba9b63376f01"
+  "mark-xl": "fa3b2286081cd36e4bf8d30c652474c2e8ac0674"
  },
  "editors-kit": {
   "mark-xl": "23ff8c750620ce387db6bb280d434a8ac760bc95"
@@ -39,7 +39,7 @@
   "mark-xl": "153beb315cb6e4a5254a238da8d65c781b1302c0"
  },
  "python-modules-kit": {
-  "mark-xl": "4711d66e73a05935f92307583d169eb61a36a4e2"
+  "mark-xl": "cf7373abef59a9fed9069a5eb0ce25dc52aa3594"
  },
  "ruby-kit": {
   "mark-xl": "166117ac32d5ebc14a493d9a3d013bd2bbedb23b"
