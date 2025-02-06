@@ -1,25 +1,48 @@
 {
   "kit_order": [
     "core-kit",
+    "browser-kit",
     "mark-kit",
     "core-server-kit",
     "core-hw-kit",
+    "core-gl-kit",
+    "desktop-kit",
     "dev-kit",
     "lang-kit",
     "editors-kit",
+    "gnome-kit",
+    "i18n-kit",
+    "java-kit",
+    "kde-kit",
     "perl-kit",
     "python-kit",
     "python-modules-kit",
     "portage-kit",
+    "media-kit",
     "net-kit",
     "kernel-kit",
     "security-kit",
     "science-kit",
     "text-kit",
     "llvm-kit",
-    "ruby-kit"
+    "ruby-kit",
+    "qt-kit",
+    "xfce-kit",
+    "xorg-kit"
   ],
   "kit_settings": {
+    "browser-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "core-gl-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
     "core-hw-kit": {
       "stability": {
         "mark-iii": "prime"
@@ -38,6 +61,12 @@
       },
       "type": "auto"
     },
+    "desktop-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
     "dev-kit": {
       "stability": {
         "mark-iii": "prime"
@@ -45,6 +74,30 @@
       "type": "auto"
     },
     "editors-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "gnome-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "i18n-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "java-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "kde-kit": {
       "stability": {
         "mark-iii": "prime"
       },
@@ -69,6 +122,12 @@
       "type": "auto"
     },
     "mark-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "media-kit": {
       "stability": {
         "mark-iii": "prime"
       },
@@ -104,6 +163,12 @@
       },
       "type": "auto"
     },
+    "qt-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
     "ruby-kit": {
       "stability": {
         "mark-iii": "prime"
@@ -127,9 +192,27 @@
         "mark-iii": "prime"
       },
       "type": "auto"
+    },
+    "xfce-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "xorg-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
     }
   },
   "release_defs": {
+    "browser-kit": [
+      "mark-iii"
+    ],
+    "core-gl-kit": [
+      "mark-iii"
+    ],
     "core-hw-kit": [
       "mark-iii"
     ],
@@ -139,10 +222,25 @@
     "core-server-kit": [
       "mark-iii"
     ],
+    "desktop-kit": [
+      "mark-iii"
+    ],
     "dev-kit": [
       "mark-iii"
     ],
     "editors-kit": [
+      "mark-iii"
+    ],
+    "gnome-kit": [
+      "mark-iii"
+    ],
+    "i18n-kit": [
+      "mark-iii"
+    ],
+    "java-kit": [
+      "mark-iii"
+    ],
+    "kde-kit": [
       "mark-iii"
     ],
     "kernel-kit": [
@@ -155,6 +253,9 @@
       "mark-iii"
     ],
     "mark-kit": [
+      "mark-iii"
+    ],
+    "media-kit": [
       "mark-iii"
     ],
     "net-kit": [
@@ -172,6 +273,9 @@
     "python-modules-kit": [
       "mark-iii"
     ],
+    "qt-kit": [
+      "mark-iii"
+    ],
     "ruby-kit": [
       "mark-iii"
     ],
@@ -182,6 +286,12 @@
       "mark-iii"
     ],
     "text-kit": [
+      "mark-iii"
+    ],
+    "xfce-kit": [
+      "mark-iii"
+    ],
+    "xorg-kit": [
       "mark-iii"
     ]
   },

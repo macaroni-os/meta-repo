@@ -1,4 +1,10 @@
 {
+ "browser-kit": {
+  "mark-iii": "34cf25532927c95741a71d73bfe93e6e9e279058"
+ },
+ "core-gl-kit": {
+  "mark-iii": "2705ee169cd377a1390729e59f191a811a7b706f"
+ },
  "core-hw-kit": {
   "mark-iii": "7c7fbeba2a53d3bcbe5f76694133ba32eaa5fa9c"
  },
@@ -6,19 +12,34 @@
   "mark-iii": "c143bd93b82b0179a94a29689a9b1d43e4b3d75a"
  },
  "core-server-kit": {
-  "mark-iii": "eb6cbc204041fd990b910e2ada152446d15a9753"
+  "mark-iii": "7e935b0bce30b542edb86958f6944af3aacd338c"
+ },
+ "desktop-kit": {
+  "mark-iii": "fa14f9119ca0d13b0458b8773f4571e5d7345a15"
  },
  "dev-kit": {
-  "mark-iii": "94facf761b507230efc10de3b8499f17bb8cb7e1"
+  "mark-iii": "c1f8d305f51be54e28d35a178e7c175025d9a923"
  },
  "editors-kit": {
   "mark-iii": "58c924748e853ad0f51eef56e11e6046ca340def"
+ },
+ "gnome-kit": {
+  "mark-iii": "0da81d45ba13c89f3f0812a738a3fa303fbf7c82"
+ },
+ "i18n-kit": {
+  "mark-iii": "f3838d96f9cb60e1fd151bd5555690cc298d04d3"
+ },
+ "java-kit": {
+  "mark-iii": "d029c71996ceb005423cefdb5a2b2e8880d01637"
+ },
+ "kde-kit": {
+  "mark-iii": "8d9e04956f5d640b7033feb31c55aa9e14f17f3c"
  },
  "kernel-kit": {
   "mark-iii": "b684748cdd7a13229e2c796acdbca0cccf61afaa"
  },
  "lang-kit": {
-  "mark-iii": "54ee0fd3accd68d3f639e400b07a71a579c34ceb"
+  "mark-iii": "9ebb3f7c2ba73a4787ba73b079628b55a36bb867"
  },
  "llvm-kit": {
   "mark-iii": "1464cec298bbcfe35ce31ae37f6a2c1019cbfc6f"
@@ -26,8 +47,11 @@
  "mark-kit": {
   "mark-iii": "7514dc05ed339e5abeee273e87b82ce5de335c44"
  },
+ "media-kit": {
+  "mark-iii": "2602b4c5ce6e10bf23cce6e9d58e9f2e1e64e1df"
+ },
  "net-kit": {
-  "mark-iii": "bd81cbd8e3f18816328ace3e5e1e17f73c484165"
+  "mark-iii": "6c67afd3abf0fb930d924ba6365653bbc92522ff"
  },
  "perl-kit": {
   "mark-iii": "26722bece86db88293e9824f2a93a6a9836a68ad"
@@ -41,6 +65,9 @@
  "python-modules-kit": {
   "mark-iii": "cbf160008f98dff2946ecc876e6f8094f11aa56a"
  },
+ "qt-kit": {
+  "mark-iii": "1364907343ae654facad359303772c3042187f14"
+ },
  "ruby-kit": {
   "mark-iii": "d68725be473d04a07b5277edaaf2068722f107f3"
  },
@@ -48,9 +75,15 @@
   "mark-iii": "c0f3ba75765535709ea89bc652de81c3a767311c"
  },
  "security-kit": {
-  "mark-iii": "3e4c21fdfffe38a7a17338e65afac2e712d9f4f8"
+  "mark-iii": "4639d9349421850f7ff4b6195118837ca6bc5c32"
  },
  "text-kit": {
   "mark-iii": "8cf8da0fcbe28e19231d916192e54e06dcd73540"
+ },
+ "xfce-kit": {
+  "mark-iii": "610513ec00cd13c43816d61b16166fbd7d391658"
+ },
+ "xorg-kit": {
+  "mark-iii": "f32f6728d42efb3d8790df5853541855418948ab"
  }
 }
