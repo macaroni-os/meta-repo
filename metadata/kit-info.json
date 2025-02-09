@@ -28,7 +28,8 @@
     "ruby-kit",
     "qt-kit",
     "xfce-kit",
-    "xorg-kit"
+    "xorg-kit",
+    "games-kit"
   ],
   "kit_settings": {
     "browser-kit": {
@@ -74,6 +75,12 @@
       "type": "auto"
     },
     "editors-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "games-kit": {
       "stability": {
         "mark-iii": "prime"
       },
@@ -229,6 +236,9 @@
       "mark-iii"
     ],
     "editors-kit": [
+      "mark-iii"
+    ],
+    "games-kit": [
       "mark-iii"
     ],
     "gnome-kit": [
