@@ -12,7 +12,7 @@
   "mark-iii": "dc5983617d120c0d5688fd4d7e9cca4d39351995"
  },
  "core-server-kit": {
-  "mark-iii": "45120ac0f6093dc080dceb4fc596a60b2deea7ee"
+  "mark-iii": "a023f48c92e86ef3216d0d3fffe46d8b8c345953"
  },
  "desktop-kit": {
   "mark-iii": "57cfeb3ce2e4cacf1c2c1bf39612e3a3ecf8a76c"
@@ -24,7 +24,7 @@
   "mark-iii": "5e04afb23163e468d17148224afc1863bd58172f"
  },
  "games-kit": {
-  "mark-iii": "03bea3096d169604837950e0ff5687354d3fb24d"
+  "mark-iii": "a774d299131fe308e6531a649f9c79ee445afa1d"
  },
  "gnome-kit": {
   "mark-iii": "90bf2d1e3bb1997cfd6a41075228e6f5b8596720"
@@ -39,7 +39,7 @@
   "mark-iii": "4bd99eaf7aa57642f82139123c382c225fbf9d35"
  },
  "kernel-kit": {
-  "mark-iii": "27a848910ae452c5a8a9472b05829e230d00dff0"
+  "mark-iii": "d51dd477c00ef4cf1828c8e417c9b919fbeec7e5"
  },
  "lang-kit": {
   "mark-iii": "9ebb3f7c2ba73a4787ba73b079628b55a36bb867"
@@ -66,13 +66,13 @@
   "mark-iii": "7915155f2d16b0906a3f16cf1c6a1a4e642deef7"
  },
  "python-modules-kit": {
-  "mark-iii": "f17a8bc8297cda62723d89b387fc366485498a1f"
+  "mark-iii": "a0ece566bb2e383ba96933ba929fea893d8f6edb"
  },
  "qt-kit": {
   "mark-iii": "2424648773842744ea731e4d63497d195fd93d25"
  },
  "ruby-kit": {
-  "mark-iii": "f3e5d86909579d1de9aaa3c256c6a7156b56d662"
+  "mark-iii": "2e529aeb955b842f1fdc11ceb9bd237ae2ebb3a5"
  },
  "science-kit": {
   "mark-iii": "6b84cf866a2046603ddc809790d06c6234967078"
