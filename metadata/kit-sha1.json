@@ -12,16 +12,16 @@
   "mark-iii": "bd04ccc614d27af167dd2358ca86247aef7c67db"
  },
  "core-server-kit": {
-  "mark-iii": "6fdd84c50ec0b2521b50e720032c05d10d9c2df4"
+  "mark-iii": "e963662f8e5d23440467b2ccec336408c3be7de9"
  },
  "desktop-kit": {
   "mark-iii": "57cfeb3ce2e4cacf1c2c1bf39612e3a3ecf8a76c"
  },
  "dev-kit": {
-  "mark-iii": "5b6139da71e4c95d76f86931a4b94ed57a7b7899"
+  "mark-iii": "3cd6432337f5826e03b3fd516b6735d07321c47c"
  },
  "editors-kit": {
-  "mark-iii": "efc5fec6f35ba7cb2a72d5ab1771fa9578bbd464"
+  "mark-iii": "077a21be8a0cc01443da9dacf554982f2c2801ea"
  },
  "games-kit": {
   "mark-iii": "a774d299131fe308e6531a649f9c79ee445afa1d"
@@ -42,7 +42,7 @@
   "mark-iii": "920ab4633f9b18c68bc3339e8cecfc8ab1b88258"
  },
  "lang-kit": {
-  "mark-iii": "ceae0833bf5adf69dd5bb166fa310de744460253"
+  "mark-iii": "3aa772d760c97e5fe30a10d1efe81e6434b05ccf"
  },
  "llvm-kit": {
   "mark-iii": "2aef697374f9685182330804a76c79534874dab6"
@@ -54,7 +54,7 @@
   "mark-iii": "e77dfab3779c669b59778c0d05ad03fc712bd4e4"
  },
  "net-kit": {
-  "mark-iii": "ba6c8612d2756c804522d58e2fa6221da6fc776b"
+  "mark-iii": "f597e5c9579624b6db0ba2bf8ce8cb15c4220f9a"
  },
  "perl-kit": {
   "mark-iii": "26722bece86db88293e9824f2a93a6a9836a68ad"
@@ -66,13 +66,13 @@
   "mark-iii": "7915155f2d16b0906a3f16cf1c6a1a4e642deef7"
  },
  "python-modules-kit": {
-  "mark-iii": "a0ece566bb2e383ba96933ba929fea893d8f6edb"
+  "mark-iii": "5c675b4e40bd1ee88408a6e94a81e105fa933c33"
  },
  "qt-kit": {
   "mark-iii": "2424648773842744ea731e4d63497d195fd93d25"
  },
  "ruby-kit": {
-  "mark-iii": "2e529aeb955b842f1fdc11ceb9bd237ae2ebb3a5"
+  "mark-iii": "db2e451ee3af53036267785fda15fd6a452b1be8"
  },
  "science-kit": {
   "mark-iii": "6b84cf866a2046603ddc809790d06c6234967078"
