@@ -18,7 +18,8 @@
     "xorg-kit",
     "text-kit",
     "llvm-kit",
-    "ruby-kit"
+    "ruby-kit",
+    "java-kit"
   ],
   "kit_settings": {
     "core-hw-kit": {
@@ -46,6 +47,12 @@
       "type": "auto"
     },
     "editors-kit": {
+      "stability": {
+        "mark-xl": "prime"
+      },
+      "type": "auto"
+    },
+    "java-kit": {
       "stability": {
         "mark-xl": "prime"
       },
@@ -150,6 +157,9 @@
       "mark-xl"
     ],
     "editors-kit": [
+      "mark-xl"
+    ],
+    "java-kit": [
       "mark-xl"
     ],
     "kernel-kit": [
