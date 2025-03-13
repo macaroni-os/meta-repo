@@ -9,10 +9,10 @@
   "mark-iii": "6e2582085db4a7d66978c220af2b1c810bf7c775"
  },
  "core-kit": {
-  "mark-iii": "33848289b8f8495d59d4ea1cc5b91d6453017298"
+  "mark-iii": "2fa289ad282981d1e9d1182f0e1dff23bb76d5ce"
  },
  "core-server-kit": {
-  "mark-iii": "6e0ba993e79867d0e7bee269764f04a575ab4993"
+  "mark-iii": "25cdf49688ca17afde59e871d57e2c33637d839a"
  },
  "desktop-kit": {
   "mark-iii": "df48139c22a8c2fa18153dfbdd29e62f6a29b9fa"
@@ -39,7 +39,7 @@
   "mark-iii": "4bd99eaf7aa57642f82139123c382c225fbf9d35"
  },
  "kernel-kit": {
-  "mark-iii": "d68a28d2d5c3ae5ebea2d84f041e0451ab69e679"
+  "mark-iii": "3b9950d0c48110e24f7a5fbfd89b2462a7c0c9ce"
  },
  "lang-kit": {
   "mark-iii": "3aa772d760c97e5fe30a10d1efe81e6434b05ccf"
@@ -75,7 +75,7 @@
   "mark-iii": "db2e451ee3af53036267785fda15fd6a452b1be8"
  },
  "science-kit": {
-  "mark-iii": "6b84cf866a2046603ddc809790d06c6234967078"
+  "mark-iii": "21c7dd409f2e5a33e5d6148b071bd84ab3b62f1f"
  },
  "security-kit": {
   "mark-iii": "f1deaed1b294825886a63ed27dba8c34f3bf230a"
