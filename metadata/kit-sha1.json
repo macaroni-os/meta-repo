@@ -21,7 +21,7 @@
   "mark-iii": "5722f8f92e723d624aeaae9d2c5b7e72b19b94ed"
  },
  "editors-kit": {
-  "mark-iii": "15b64daade0b23286efb7671544fe98538dd8a67"
+  "mark-iii": "82f100df4324d6996b10aded76b6344b3c8e5e9c"
  },
  "games-kit": {
   "mark-iii": "a774d299131fe308e6531a649f9c79ee445afa1d"
@@ -42,7 +42,7 @@
   "mark-iii": "3b9950d0c48110e24f7a5fbfd89b2462a7c0c9ce"
  },
  "lang-kit": {
-  "mark-iii": "3aa772d760c97e5fe30a10d1efe81e6434b05ccf"
+  "mark-iii": "240cba4ffc2128e552de044e1bde05ff2bffd78a"
  },
  "llvm-kit": {
   "mark-iii": "063b1dd3b7be81d1ec414667f20e70166c6a6c52"
@@ -54,13 +54,13 @@
   "mark-iii": "ce749a078804e330cebdfb4c092950da78274840"
  },
  "net-kit": {
-  "mark-iii": "5ca8d3ccb9b4102b550a466770aaec3c86374045"
+  "mark-iii": "c7b6afc2ac8387d313a198eade71f6597576faad"
  },
  "perl-kit": {
   "mark-iii": "26722bece86db88293e9824f2a93a6a9836a68ad"
  },
  "portage-kit": {
-  "mark-iii": "48fc350918c983f802eb7489c41b50288b761254"
+  "mark-iii": "0f10f2d9920168e992ee02f7ba65dc3eee3bb3c0"
  },
  "python-kit": {
   "mark-iii": "7915155f2d16b0906a3f16cf1c6a1a4e642deef7"
