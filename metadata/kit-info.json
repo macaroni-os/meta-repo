@@ -19,7 +19,8 @@
     "text-kit",
     "llvm-kit",
     "ruby-kit",
-    "java-kit"
+    "java-kit",
+    "php-kit"
   ],
   "kit_settings": {
     "core-hw-kit": {
@@ -89,6 +90,12 @@
       "type": "auto"
     },
     "perl-kit": {
+      "stability": {
+        "mark-xl": "prime"
+      },
+      "type": "auto"
+    },
+    "php-kit": {
       "stability": {
         "mark-xl": "prime"
       },
@@ -178,6 +185,9 @@
       "mark-xl"
     ],
     "perl-kit": [
+      "mark-xl"
+    ],
+    "php-kit": [
       "mark-xl"
     ],
     "portage-kit": [

@@ -21,7 +21,7 @@
   "mark-xl": "a665668467dbcdecb64b6c3f2238f363990b6dd1"
  },
  "lang-kit": {
-  "mark-xl": "c7f9406479dce4008dd19b716ec3266b3682f9a5"
+  "mark-xl": "b8e6138246f1279610ee0ba845df89df24862b1f"
  },
  "llvm-kit": {
   "mark-xl": "24d75b461caa383e4eef456292deea39f969733c"
@@ -34,6 +34,9 @@
  },
  "perl-kit": {
   "mark-xl": "53e01525150502492b9b960f07fa49f958d2a902"
+ },
+ "php-kit": {
+  "mark-xl": "51826c843eae36213615e5a4d1b3b4c737833a48"
  },
  "portage-kit": {
   "mark-xl": "3fa4717ecba137ece578ba7410dbad071e5d3703"
