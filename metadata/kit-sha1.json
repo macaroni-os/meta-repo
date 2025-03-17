@@ -18,7 +18,7 @@
         "mark-testing": "0eda786d70702ce7c61229a69053b3ce5aba3339"
     },
     "dev-kit": {
-        "mark-testing": "2d7306d51598775b9fe0219f432ae5726538bc71"
+        "mark-testing": "a31b218993752582e0af5973312f35f517ff50c1"
     },
     "editors-kit": {
         "mark-testing": "f24e45a15fa579c5a818398cadb6a27d020c2321"
@@ -27,7 +27,7 @@
         "mark-testing": "d5237877baa7ef107ce30e0705f9e23e18dc2655"
     },
     "gnome-kit": {
-        "mark-testing": "dd7979f6de382a30dc14ccf76ae6cd6f5273d160"
+        "mark-testing": "641c90f5efc2720fa4f3c5a8160f394085c694fb"
     },
     "haskell-kit": {
         "mark-testing": "04de641bf91cb954fae10282bb4cceabe87b48a0"
@@ -36,13 +36,13 @@
         "mark-testing": "41dbd2ab5b666c9489943879f3b67916356fd068"
     },
     "java-kit": {
-        "mark-testing": "c5cafa40522128fbf1783dd84aacf8982a2ba533"
+        "mark-testing": "8273456b1ae73894c32c2b88ff2656c3d7f804d3"
     },
     "kde-kit": {
         "mark-testing": "174f64fab1efe345a9fa3773330f3c98b763305c"
     },
     "lang-kit": {
-        "mark-testing": "9e88b4617fbe32b60bfd1048edddcff34de2e22f"
+        "mark-testing": "5f42bc81b427756a8a68d0a553787b1a14709402"
     },
     "lisp-scheme-kit": {
         "mark-testing": "e4728ab45222da2c62e33ddea58f07b0a7c95cd9"
@@ -60,7 +60,7 @@
         "mark-testing": "ee52b18f792c1e5122604ac553b292b58d3883d4"
     },
     "net-kit": {
-        "mark-testing": "ea0ee0687233e40a4148c23714689cb9b94f955e"
+        "mark-testing": "2cca4d0cd9d5e8ab43e48c24c51eea6a96220fad"
     },
     "perl-kit": {
         "mark-testing": "0199feec9940bf2c436a980e98deb454fbf177a5"
@@ -69,7 +69,7 @@
         "mark-testing": "1c4f21b983e74a6b50c199fabbc6dc7b0ed195ab"
     },
     "python-modules-kit": {
-        "mark-testing": "c1b68ef218110499b0e5428a53ef67b8e3d156f5"
+        "mark-testing": "bf052beddb6d09d9d8ed6a24703558acc50f6314"
     },
     "qt-kit": {
         "mark-testing": "691342c8854965fc37f3e0383cb9dfc4e3f6ca63"
@@ -78,13 +78,13 @@
         "mark-testing": "7f293fe4afc37158ef9692dc530adf3784c9bab2"
     },
     "science-kit": {
-        "mark-testing": "a8d81ce9252473abf1808d9b7ff9e9678d7a1c3b"
+        "mark-testing": "6388288acd2e9651ff4352a75fa4224765f70798"
     },
     "security-kit": {
         "mark-testing": "546c7d46a3131488c29fce8f60b10c581c548eee"
     },
     "text-kit": {
-        "mark-testing": "247a2540009942e70908555cd40beb4fe397048d"
+        "mark-testing": "9f2457c3ba43b3077abf61d5577ed40ef85d4a98"
     },
     "xfce-kit": {
         "mark-testing": "567167b00d9b6e3ddddeb7cedc42392cbdbca96f"
