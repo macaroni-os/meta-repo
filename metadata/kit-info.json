@@ -29,7 +29,8 @@
     "qt-kit",
     "xfce-kit",
     "xorg-kit",
-    "games-kit"
+    "games-kit",
+    "php-kit"
   ],
   "kit_settings": {
     "browser-kit": {
@@ -147,6 +148,12 @@
       "type": "auto"
     },
     "perl-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "php-kit": {
       "stability": {
         "mark-iii": "prime"
       },
@@ -272,6 +279,9 @@
       "mark-iii"
     ],
     "perl-kit": [
+      "mark-iii"
+    ],
+    "php-kit": [
       "mark-iii"
     ],
     "portage-kit": [

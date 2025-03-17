@@ -12,7 +12,7 @@
   "mark-iii": "2fa289ad282981d1e9d1182f0e1dff23bb76d5ce"
  },
  "core-server-kit": {
-  "mark-iii": "25cdf49688ca17afde59e871d57e2c33637d839a"
+  "mark-iii": "330be97346733faac05025da57c06218b102555b"
  },
  "desktop-kit": {
   "mark-iii": "df48139c22a8c2fa18153dfbdd29e62f6a29b9fa"
@@ -21,7 +21,7 @@
   "mark-iii": "5722f8f92e723d624aeaae9d2c5b7e72b19b94ed"
  },
  "editors-kit": {
-  "mark-iii": "82f100df4324d6996b10aded76b6344b3c8e5e9c"
+  "mark-iii": "7faef675cd32f1999c8e76046808c5cd9bc7fa2b"
  },
  "games-kit": {
   "mark-iii": "a774d299131fe308e6531a649f9c79ee445afa1d"
@@ -39,7 +39,7 @@
   "mark-iii": "4bd99eaf7aa57642f82139123c382c225fbf9d35"
  },
  "kernel-kit": {
-  "mark-iii": "3b9950d0c48110e24f7a5fbfd89b2462a7c0c9ce"
+  "mark-iii": "a056aba5bcd1c5ea1b24ea92477fc8ca26af0ed1"
  },
  "lang-kit": {
   "mark-iii": "240cba4ffc2128e552de044e1bde05ff2bffd78a"
@@ -48,16 +48,19 @@
   "mark-iii": "063b1dd3b7be81d1ec414667f20e70166c6a6c52"
  },
  "mark-kit": {
-  "mark-iii": "893f4834095bc9b4984db0da744f0a5c6a0abcf8"
+  "mark-iii": "80de0ed84a7fcffd7854bea4740a40ce57c10c9c"
  },
  "media-kit": {
   "mark-iii": "b4fac8a5c88af99e67b41435db6beb56a6b137bf"
  },
  "net-kit": {
-  "mark-iii": "c7b6afc2ac8387d313a198eade71f6597576faad"
+  "mark-iii": "044fd7fc9a12a2246890f001c36ca6ad2f551106"
  },
  "perl-kit": {
   "mark-iii": "26722bece86db88293e9824f2a93a6a9836a68ad"
+ },
+ "php-kit": {
+  "mark-iii": "ec6d702b788b82eab0ac16a5a8f708b6badc044a"
  },
  "portage-kit": {
   "mark-iii": "0f10f2d9920168e992ee02f7ba65dc3eee3bb3c0"
