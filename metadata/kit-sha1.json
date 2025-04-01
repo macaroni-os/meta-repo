@@ -9,10 +9,10 @@
   "mark-iii": "fa4da1fcf8c7b71d7a52ce358b5c3f1d71b4d14a"
  },
  "core-kit": {
-  "mark-iii": "3b39db54b5fe7b4f8134edaa0aa27ca99ea77164"
+  "mark-iii": "66c49e53ab7b7e27c6fcfb393439bb7fa1051f86"
  },
  "core-server-kit": {
-  "mark-iii": "ff7c4a99ba122939110860a9b57b378e08fcae92"
+  "mark-iii": "b5a32b02bed6745ead5a0e5b1d44af28b93a3346"
  },
  "desktop-kit": {
   "mark-iii": "dc8cce6fd9d27914cd434a8860bf9f140e53dd19"
@@ -72,7 +72,7 @@
   "mark-iii": "f8d4ae6e550e226975840d3f25d67e154d086241"
  },
  "qt-kit": {
-  "mark-iii": "de4b7d06efe882b85ec377a4006638d9f28fb2ce"
+  "mark-iii": "c277549cc0b07ff5a72d72b54e9cdfc8fb94a743"
  },
  "ruby-kit": {
   "mark-iii": "f11890eede5ea5274ff48f23c3d9d28eb9217b13"
@@ -90,6 +90,6 @@
   "mark-iii": "54623089a1ed75e4ad26a9ef6cb1c4e16e7d9ddf"
  },
  "xorg-kit": {
-  "mark-iii": "cca9825cc2b4df631585c89858f2614d579cca42"
+  "mark-iii": "ea2fdcb689ea41f662626d354c865f606775003c"
  }
 }
