@@ -6,19 +6,19 @@
   "mark-iii": "7740c1493c49a6f390fab0cd83696b025a144867"
  },
  "core-hw-kit": {
-  "mark-iii": "fa4da1fcf8c7b71d7a52ce358b5c3f1d71b4d14a"
+  "mark-iii": "4710d8a1cee0ee53fad7da92df1ae9537a7ef805"
  },
  "core-kit": {
-  "mark-iii": "66c49e53ab7b7e27c6fcfb393439bb7fa1051f86"
+  "mark-iii": "7af487be1d5c34e791935dc8b259e94dee1e5b7d"
  },
  "core-server-kit": {
-  "mark-iii": "b5a32b02bed6745ead5a0e5b1d44af28b93a3346"
+  "mark-iii": "6751c9ca0065366c9df8c144ef7887a7f88cf63d"
  },
  "desktop-kit": {
   "mark-iii": "dc8cce6fd9d27914cd434a8860bf9f140e53dd19"
  },
  "dev-kit": {
-  "mark-iii": "050f86356d1bce0a2e3b70d1efd8e590c520e77a"
+  "mark-iii": "7052b25f5a01ef80ec4c2055457aaf8d660ffcc9"
  },
  "editors-kit": {
   "mark-iii": "1757791eda7abd0d45884303f2d402d80afba6ca"
@@ -72,7 +72,7 @@
   "mark-iii": "f8d4ae6e550e226975840d3f25d67e154d086241"
  },
  "qt-kit": {
-  "mark-iii": "c277549cc0b07ff5a72d72b54e9cdfc8fb94a743"
+  "mark-iii": "adfe392f0189ed6b85b6248e0b8e120160a98749"
  },
  "ruby-kit": {
   "mark-iii": "f11890eede5ea5274ff48f23c3d9d28eb9217b13"
