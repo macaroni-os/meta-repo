@@ -12,7 +12,7 @@
   "mark-iii": "5083ad7073b713322f005adbb7717451264b150e"
  },
  "core-server-kit": {
-  "mark-iii": "f6e141dc291db7097759f1c6bb3c06a44bc2ef21"
+  "mark-iii": "45a1095c53119ba325f25163e0824b26c6b6844e"
  },
  "desktop-kit": {
   "mark-iii": "dc8cce6fd9d27914cd434a8860bf9f140e53dd19"
@@ -21,7 +21,7 @@
   "mark-iii": "7052b25f5a01ef80ec4c2055457aaf8d660ffcc9"
  },
  "editors-kit": {
-  "mark-iii": "1757791eda7abd0d45884303f2d402d80afba6ca"
+  "mark-iii": "07e6c14cd9eb6a9b69ffec3c8f17fd2527e14e67"
  },
  "games-kit": {
   "mark-iii": "a774d299131fe308e6531a649f9c79ee445afa1d"
@@ -51,10 +51,10 @@
   "mark-iii": "cd37b1f1b73a3c510b7f565ddbc50f535da92476"
  },
  "media-kit": {
-  "mark-iii": "35d866de34f0996d566a06f15ad775d006e0c003"
+  "mark-iii": "19684bc02b83e5107790e0979a6f9f8e48449cb6"
  },
  "net-kit": {
-  "mark-iii": "04b7bd298c5930288bc39707ac124c05793e428c"
+  "mark-iii": "fb2ff2243db45fe0c11df46b594665a2358bbeb2"
  },
  "perl-kit": {
   "mark-iii": "26722bece86db88293e9824f2a93a6a9836a68ad"
@@ -69,7 +69,7 @@
   "mark-iii": "7915155f2d16b0906a3f16cf1c6a1a4e642deef7"
  },
  "python-modules-kit": {
-  "mark-iii": "216a50d8e031ec24da3e41299f7cd63c3793396d"
+  "mark-iii": "55fd3fec7a11b2bec677e1b9c5cb36cb7ba96a7a"
  },
  "qt-kit": {
   "mark-iii": "adfe392f0189ed6b85b6248e0b8e120160a98749"
