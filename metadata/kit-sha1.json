@@ -12,7 +12,7 @@
   "mark-xl": "015a2bb3e5395304f7987cadb9e6f8fa8848cb60"
  },
  "editors-kit": {
-  "mark-xl": "ecf270e4fb50da23f26d7410b7a01b9934720a90"
+  "mark-xl": "c470edf5880646e26fd5c893a9b308cbf84d34f9"
  },
  "java-kit": {
   "mark-xl": "d4ec1b1a5ce531128b6233dbd366d15e11b1cc76"
@@ -22,6 +22,9 @@
  },
  "lang-kit": {
   "mark-xl": "0bb4f26c66d76bbaa860ae6bba7dc252b95b911b"
+ },
+ "lisp-scheme-kit": {
+  "mark-xl": "bc33661f4322083955d4dd7a3682625a22994105"
  },
  "llvm-kit": {
   "mark-xl": "24d75b461caa383e4eef456292deea39f969733c"
@@ -33,7 +36,7 @@
   "mark-xl": "447e78b011e7dadc9e840c9ea3a57b4cb9acfa47"
  },
  "perl-kit": {
-  "mark-xl": "77c1e26d3599080d9b4eb3cbef5206ffb3a4c078"
+  "mark-xl": "3b7f86240caaefcc33900a26e84a27ef8fa490d4"
  },
  "php-kit": {
   "mark-xl": "51826c843eae36213615e5a4d1b3b4c737833a48"
@@ -57,7 +60,7 @@
   "mark-xl": "3384027642a97283595f05cb4e669130c8fd1a53"
  },
  "text-kit": {
-  "mark-xl": "e867e02113213193c3c082a24522439d42bf2225"
+  "mark-xl": "3da24d17e336cee6d8eaffb845a4136a79b05d29"
  },
  "xorg-kit": {
   "mark-xl": "70eb967ea15c996d488d76c75af8c075ad30f289"

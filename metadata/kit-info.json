@@ -20,7 +20,8 @@
     "llvm-kit",
     "ruby-kit",
     "java-kit",
-    "php-kit"
+    "php-kit",
+    "lisp-scheme-kit"
   ],
   "kit_settings": {
     "core-hw-kit": {
@@ -66,6 +67,12 @@
       "type": "auto"
     },
     "lang-kit": {
+      "stability": {
+        "mark-xl": "prime"
+      },
+      "type": "auto"
+    },
+    "lisp-scheme-kit": {
       "stability": {
         "mark-xl": "prime"
       },
@@ -173,6 +180,9 @@
       "mark-xl"
     ],
     "lang-kit": [
+      "mark-xl"
+    ],
+    "lisp-scheme-kit": [
       "mark-xl"
     ],
     "llvm-kit": [
