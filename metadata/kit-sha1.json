@@ -6,7 +6,7 @@
   "mark-iii": "7740c1493c49a6f390fab0cd83696b025a144867"
  },
  "core-hw-kit": {
-  "mark-iii": "4710d8a1cee0ee53fad7da92df1ae9537a7ef805"
+  "mark-iii": "fe76ecaa050d40b910d1c976bc23c877d8519451"
  },
  "core-kit": {
   "mark-iii": "5083ad7073b713322f005adbb7717451264b150e"
@@ -18,10 +18,10 @@
   "mark-iii": "dc8cce6fd9d27914cd434a8860bf9f140e53dd19"
  },
  "dev-kit": {
-  "mark-iii": "7052b25f5a01ef80ec4c2055457aaf8d660ffcc9"
+  "mark-iii": "8326a8a43f257e6f779d141069c6608dff78ad50"
  },
  "editors-kit": {
-  "mark-iii": "07e6c14cd9eb6a9b69ffec3c8f17fd2527e14e67"
+  "mark-iii": "aa274ac5da5fdc56aea04a6bd22e24e1c279f528"
  },
  "games-kit": {
   "mark-iii": "a774d299131fe308e6531a649f9c79ee445afa1d"
@@ -44,11 +44,14 @@
  "lang-kit": {
   "mark-iii": "240cba4ffc2128e552de044e1bde05ff2bffd78a"
  },
+ "lisp-scheme-kit": {
+  "mark-xl": "bc33661f4322083955d4dd7a3682625a22994105"
+ },
  "llvm-kit": {
   "mark-iii": "063b1dd3b7be81d1ec414667f20e70166c6a6c52"
  },
  "mark-kit": {
-  "mark-iii": "cd37b1f1b73a3c510b7f565ddbc50f535da92476"
+  "mark-iii": "d2076e9ab82cbae5fc241e1f6185d0445f99222b"
  },
  "media-kit": {
   "mark-iii": "19684bc02b83e5107790e0979a6f9f8e48449cb6"

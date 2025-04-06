@@ -30,7 +30,8 @@
     "xfce-kit",
     "xorg-kit",
     "games-kit",
-    "php-kit"
+    "php-kit",
+    "lisp-scheme-kit"
   ],
   "kit_settings": {
     "browser-kit": {
@@ -120,6 +121,12 @@
     "lang-kit": {
       "stability": {
         "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
+    "lisp-scheme-kit": {
+      "stability": {
+        "mark-xl": "prime"
       },
       "type": "auto"
     },
@@ -265,6 +272,9 @@
     ],
     "lang-kit": [
       "mark-iii"
+    ],
+    "lisp-scheme-kit": [
+      "mark-xl"
     ],
     "llvm-kit": [
       "mark-iii"
