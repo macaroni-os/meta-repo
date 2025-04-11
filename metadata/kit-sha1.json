@@ -1,0 +1,68 @@
+{
+ "core-hw-kit": {
+  "mark-v": "6531fd3eb8e3bc79dadca0d7fafa8bec54918559"
+ },
+ "core-kit": {
+  "mark-v": "bd377175f20e05628a12875ea52a18a0909e6ba7"
+ },
+ "core-server-kit": {
+  "mark-v": "80ca47888ce6629f2a3e0eff11fba59507160c74"
+ },
+ "dev-kit": {
+  "mark-v": "53ba6e20f767dd858b959b62fe8f86815a59b2a1"
+ },
+ "editors-kit": {
+  "mark-v": "9fca3d7f3465db2d381ee63281b04c198c972d98"
+ },
+ "java-kit": {
+  "mark-v": "10973f2309efbe71350b53de31a87a9e98848f3f"
+ },
+ "kernel-kit": {
+  "mark-v": "b22469b510c7976450a711dc242789dd3747f8a1"
+ },
+ "lang-kit": {
+  "mark-v": "0b08b3c4abec9bf753e15486222044c9c7c3e974"
+ },
+ "lisp-scheme-kit": {
+  "mark-v": "86eb7d7b007167fc426bb2a6e6607d8600760729"
+ },
+ "llvm-kit": {
+  "mark-v": "cca2f77ef66e3c7f123026a0a74aff48cc050ba1"
+ },
+ "mark-kit": {
+  "mark-v": "237212176f4872da8dbbc24b3126a58fee9773d4"
+ },
+ "net-kit": {
+  "mark-v": "44d6419063e5bc7c44188c6af723dcb3b9e1d862"
+ },
+ "perl-kit": {
+  "mark-v": "04ac2500ca96ad6cbf6e0cfed2fe75ca8b8899dc"
+ },
+ "php-kit": {
+  "mark-v": "3e82379acf0617cec0e3853172f18d3d4d6e8123"
+ },
+ "portage-kit": {
+  "mark-v": "246a03a7264714041ad219cd42e750c230ad6b4f"
+ },
+ "python-kit": {
+  "mark-v": "0178d7118bf2cf5b052bac359d1dca024fc841c0"
+ },
+ "python-modules-kit": {
+  "mark-v": "9b9cbf3c4494f8222f6b5d99f6b28d812e2f6e47"
+ },
+ "ruby-kit": {
+  "mark-v": "2dc12ffa244d3755c4f4fa3c372596d2b664a140"
+ },
+ "science-kit": {
+  "mark-v": "f83adb5b1d5e1df852a937959abe3d5fc3460cd3"
+ },
+ "security-kit": {
+  "mark-v": "89b74cdc89f605b1041211587b8257325f2ba2b9"
+ },
+ "text-kit": {
+  "mark-v": "c714d548e559981a7aa76b08724a65a93dffc59f"
+ },
+ "xorg-kit": {
+  "mark-v": "ddc892484289b0566e7105a8785b64f3b4b2b7ec"
+ }
+}

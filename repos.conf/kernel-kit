@@ -1,0 +1,4 @@
+[kernel-kit]
+location = /var/git/meta-repo/kits/kernel-kit
+auto-sync = no
+priority = 1

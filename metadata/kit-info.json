@@ -1,0 +1,236 @@
+{
+  "kit_order": [
+    "core-kit",
+    "mark-kit",
+    "core-server-kit",
+    "core-hw-kit",
+    "dev-kit",
+    "lang-kit",
+    "editors-kit",
+    "perl-kit",
+    "python-kit",
+    "python-modules-kit",
+    "portage-kit",
+    "net-kit",
+    "kernel-kit",
+    "security-kit",
+    "science-kit",
+    "xorg-kit",
+    "text-kit",
+    "llvm-kit",
+    "ruby-kit",
+    "java-kit",
+    "php-kit",
+    "lisp-scheme-kit"
+  ],
+  "kit_settings": {
+    "core-hw-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "core-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "core-server-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "dev-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "editors-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "java-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "kernel-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "lang-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "lisp-scheme-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "llvm-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "mark-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "net-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "perl-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "php-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "portage-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "python-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "python-modules-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "ruby-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "science-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "security-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "text-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
+    "xorg-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    }
+  },
+  "release_defs": {
+    "core-hw-kit": [
+      "mark-v"
+    ],
+    "core-kit": [
+      "mark-v"
+    ],
+    "core-server-kit": [
+      "mark-v"
+    ],
+    "dev-kit": [
+      "mark-v"
+    ],
+    "editors-kit": [
+      "mark-v"
+    ],
+    "java-kit": [
+      "mark-v"
+    ],
+    "kernel-kit": [
+      "mark-v"
+    ],
+    "lang-kit": [
+      "mark-v"
+    ],
+    "lisp-scheme-kit": [
+      "mark-v"
+    ],
+    "llvm-kit": [
+      "mark-v"
+    ],
+    "mark-kit": [
+      "mark-v"
+    ],
+    "net-kit": [
+      "mark-v"
+    ],
+    "perl-kit": [
+      "mark-v"
+    ],
+    "php-kit": [
+      "mark-v"
+    ],
+    "portage-kit": [
+      "mark-v"
+    ],
+    "python-kit": [
+      "mark-v"
+    ],
+    "python-modules-kit": [
+      "mark-v"
+    ],
+    "ruby-kit": [
+      "mark-v"
+    ],
+    "science-kit": [
+      "mark-v"
+    ],
+    "security-kit": [
+      "mark-v"
+    ],
+    "text-kit": [
+      "mark-v"
+    ],
+    "xorg-kit": [
+      "mark-v"
+    ]
+  },
+  "release_info": {
+    "required": [
+      {
+        "ego": "2.7.2"
+      }
+    ],
+    "version": 11
+  }
+}
