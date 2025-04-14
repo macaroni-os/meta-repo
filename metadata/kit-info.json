@@ -126,7 +126,7 @@
     },
     "lisp-scheme-kit": {
       "stability": {
-        "mark-xl": "prime"
+        "mark-iii": "prime"
       },
       "type": "auto"
     },
@@ -274,7 +274,7 @@
       "mark-iii"
     ],
     "lisp-scheme-kit": [
-      "mark-xl"
+      "mark-iii"
     ],
     "llvm-kit": [
       "mark-iii"
