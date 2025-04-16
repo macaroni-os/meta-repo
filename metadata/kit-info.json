@@ -17,9 +17,23 @@
     "science-kit",
     "text-kit",
     "llvm-kit",
-    "ruby-kit"
+    "ruby-kit",
+    "browser-kit",
+    "core-gl-kit"
   ],
   "kit_settings": {
+    "browser-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "core-gl-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
     "core-hw-kit": {
       "stability": {
         "mark-unstable": "prime"
@@ -130,6 +144,12 @@
     }
   },
   "release_defs": {
+    "browser-kit": [
+      "mark-unstable"
+    ],
+    "core-gl-kit": [
+      "mark-unstable"
+    ],
     "core-hw-kit": [
       "mark-unstable"
     ],
