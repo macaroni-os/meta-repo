@@ -26,7 +26,8 @@
     "media-kit",
     "gnome-kit",
     "desktop-kit",
-    "xfce-kit"
+    "xfce-kit",
+    "xorg-kit"
   ],
   "kit_settings": {
     "browser-kit": {
@@ -190,6 +191,12 @@
         "mark-unstable": "prime"
       },
       "type": "auto"
+    },
+    "xorg-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
     }
   },
   "release_defs": {
@@ -272,6 +279,9 @@
       "mark-unstable"
     ],
     "xfce-kit": [
+      "mark-unstable"
+    ],
+    "xorg-kit": [
       "mark-unstable"
     ]
   },

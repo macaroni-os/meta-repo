@@ -63,7 +63,7 @@
   "mark-unstable": "1f6b1c685694c665c6a69afdbe67d83b88faabed"
  },
  "python-modules-kit": {
-  "mark-unstable": "ef455e0ff5759ab2ff3e870639a612ea97241460"
+  "mark-unstable": "53e4b7fc7b730688373fe42b36d724e2af007553"
  },
  "ruby-kit": {
   "mark-unstable": "5d7a8e10efc606549572e605ec306f05d9e6e907"
@@ -79,5 +79,8 @@
  },
  "xfce-kit": {
   "mark-unstable": "688faf4d8d672f797ae979eb7163d588612295b9"
+ },
+ "xorg-kit": {
+  "mark-unstable": "6a2f5dacb616acc9b9e6328d8b256bd443618d16"
  }
 }
