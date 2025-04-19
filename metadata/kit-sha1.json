@@ -12,7 +12,7 @@
   "mark-unstable": "e033d90a5838a58467951861607d895c657f4fd4"
  },
  "core-server-kit": {
-  "mark-unstable": "2f3d7033dd3eb2623a3fbd9d28f86fb174c25e4b"
+  "mark-unstable": "98e812b9809ca5db7fd96429b56e1d3cf3ad3ab6"
  },
  "dev-kit": {
   "mark-unstable": "66edd0a2d1440349dc99b3f43deb3adab9439cc6"
@@ -20,8 +20,17 @@
  "editors-kit": {
   "mark-unstable": "868c7391fde2694b4411a1f9ad4330e9e3037a9e"
  },
+ "games-kit": {
+  "mark-unstable": "c046f7682cfe0d591e518e89ba40bd54c432d75e"
+ },
+ "i18n-kit": {
+  "mark-unstable": "bebd32bcbbdef77903d96b38e6636bc9af36f2da"
+ },
+ "kde-kit": {
+  "mark-unstable": "3d3e5fb553e47fe35c3c47773dfa4c18ab5d518a"
+ },
  "kernel-kit": {
-  "mark-unstable": "4ea954b4fc88705d92c7d1541fa3ed22c31ec9c4"
+  "mark-unstable": "069649e22d9c034fca32ec16affae2b960ad0fb2"
  },
  "lang-kit": {
   "mark-unstable": "c43d3ba32968786d330bc6c61ddcaf8f74b5d4d3"
@@ -31,6 +40,9 @@
  },
  "mark-kit": {
   "mark-unstable": "a313cf970a19fe7be4dbf089f9171e61046d8376"
+ },
+ "media-kit": {
+  "mark-unstable": "47154e2abf3fab60461189600195be9b0b291647"
  },
  "net-kit": {
   "mark-unstable": "f0a34fb498a8f0e119e6f7ff869324e8b63c4df1"

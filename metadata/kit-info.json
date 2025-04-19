@@ -19,7 +19,11 @@
     "llvm-kit",
     "ruby-kit",
     "browser-kit",
-    "core-gl-kit"
+    "core-gl-kit",
+    "games-kit",
+    "i18n-kit",
+    "kde-kit",
+    "media-kit"
   ],
   "kit_settings": {
     "browser-kit": {
@@ -64,6 +68,24 @@
       },
       "type": "auto"
     },
+    "games-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "i18n-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "kde-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
     "kernel-kit": {
       "stability": {
         "mark-unstable": "prime"
@@ -83,6 +105,12 @@
       "type": "auto"
     },
     "mark-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "media-kit": {
       "stability": {
         "mark-unstable": "prime"
       },
@@ -165,6 +193,15 @@
     "editors-kit": [
       "mark-unstable"
     ],
+    "games-kit": [
+      "mark-unstable"
+    ],
+    "i18n-kit": [
+      "mark-unstable"
+    ],
+    "kde-kit": [
+      "mark-unstable"
+    ],
     "kernel-kit": [
       "mark-unstable"
     ],
@@ -175,6 +212,9 @@
       "mark-unstable"
     ],
     "mark-kit": [
+      "mark-unstable"
+    ],
+    "media-kit": [
       "mark-unstable"
     ],
     "net-kit": [
