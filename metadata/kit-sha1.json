@@ -12,7 +12,10 @@
   "mark-unstable": "e033d90a5838a58467951861607d895c657f4fd4"
  },
  "core-server-kit": {
-  "mark-unstable": "98e812b9809ca5db7fd96429b56e1d3cf3ad3ab6"
+  "mark-unstable": "08c0af5d4ce45385a7da9988168750471fc489a3"
+ },
+ "desktop-kit": {
+  "mark-unstable": "9f08523c6478a9a4a91337bd7261f55305666683"
  },
  "dev-kit": {
   "mark-unstable": "66edd0a2d1440349dc99b3f43deb3adab9439cc6"
@@ -22,6 +25,9 @@
  },
  "games-kit": {
   "mark-unstable": "c046f7682cfe0d591e518e89ba40bd54c432d75e"
+ },
+ "gnome-kit": {
+  "mark-unstable": "1e4d26aa1d321df306470d5313a46a2bfdf77e0c"
  },
  "i18n-kit": {
   "mark-unstable": "bebd32bcbbdef77903d96b38e6636bc9af36f2da"
@@ -70,5 +76,8 @@
  },
  "text-kit": {
   "mark-unstable": "45f83dd97a85ff1fad78900e4251a1c7669fce2f"
+ },
+ "xfce-kit": {
+  "mark-unstable": "688faf4d8d672f797ae979eb7163d588612295b9"
  }
 }

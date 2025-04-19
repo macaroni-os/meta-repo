@@ -23,7 +23,10 @@
     "games-kit",
     "i18n-kit",
     "kde-kit",
-    "media-kit"
+    "media-kit",
+    "gnome-kit",
+    "desktop-kit",
+    "xfce-kit"
   ],
   "kit_settings": {
     "browser-kit": {
@@ -56,6 +59,12 @@
       },
       "type": "auto"
     },
+    "desktop-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
     "dev-kit": {
       "stability": {
         "mark-unstable": "prime"
@@ -69,6 +78,12 @@
       "type": "auto"
     },
     "games-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "gnome-kit": {
       "stability": {
         "mark-unstable": "prime"
       },
@@ -169,6 +184,12 @@
         "mark-unstable": "prime"
       },
       "type": "auto"
+    },
+    "xfce-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
     }
   },
   "release_defs": {
@@ -187,6 +208,9 @@
     "core-server-kit": [
       "mark-unstable"
     ],
+    "desktop-kit": [
+      "mark-unstable"
+    ],
     "dev-kit": [
       "mark-unstable"
     ],
@@ -194,6 +218,9 @@
       "mark-unstable"
     ],
     "games-kit": [
+      "mark-unstable"
+    ],
+    "gnome-kit": [
       "mark-unstable"
     ],
     "i18n-kit": [
@@ -242,6 +269,9 @@
       "mark-unstable"
     ],
     "text-kit": [
+      "mark-unstable"
+    ],
+    "xfce-kit": [
       "mark-unstable"
     ]
   },
