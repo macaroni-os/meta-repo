@@ -12,13 +12,13 @@
   "mark-iii": "4816e3690c5a5079b21e8cfc6ee9273c9967990f"
  },
  "core-server-kit": {
-  "mark-iii": "05c9517bb4a0d5f4991fac9bf6bfa3598f9c0bc7"
+  "mark-iii": "203a03cb682472769bf3aa11b0b6aa2a7eda76e1"
  },
  "desktop-kit": {
-  "mark-iii": "2c63e4f919220ce2e22320cb829e4bb54634b366"
+  "mark-iii": "3a6dd5d61535ef44e006d32c549cad8520e6fe62"
  },
  "dev-kit": {
-  "mark-iii": "2b899ef8d4eab72d4eced2368f746494ceca12e4"
+  "mark-iii": "eaa5127133097873e9fa7fe642c67eb53b24142d"
  },
  "editors-kit": {
   "mark-iii": "aa274ac5da5fdc56aea04a6bd22e24e1c279f528"
@@ -54,10 +54,10 @@
   "mark-iii": "d2076e9ab82cbae5fc241e1f6185d0445f99222b"
  },
  "media-kit": {
-  "mark-iii": "529b6e879ee6619ffca71f48b54669b7ae68fbc2"
+  "mark-iii": "ce27acbc967891c898228cb68adadc309dd1fa9b"
  },
  "net-kit": {
-  "mark-iii": "d99a29a8ac883c14a44f987006577e1f91cd15be"
+  "mark-iii": "010cd837e5034b546cc9829f7b7b7e9364155b6a"
  },
  "perl-kit": {
   "mark-iii": "74accb8e04404f89d08a265fa46a93c426ca40dd"
@@ -84,7 +84,7 @@
   "mark-iii": "a8d5425ff45564a7de54e7bddd5b13fa7a51b50f"
  },
  "security-kit": {
-  "mark-iii": "6212022c989c48d545dd0ba03a5c235bd78bc748"
+  "mark-iii": "c964d91db560f5d21b90cfe378bc9e379d8750e3"
  },
  "text-kit": {
   "mark-iii": "3943c6a79286f7dc9e952ab34ed5ebe47559cc73"
