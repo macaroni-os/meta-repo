@@ -18,7 +18,7 @@
   "mark-iii": "3a6dd5d61535ef44e006d32c549cad8520e6fe62"
  },
  "dev-kit": {
-  "mark-iii": "5dfb036d7b62ef4cbaed00dcb2a590fee8df306d"
+  "mark-iii": "f8a54529e156f1320389b07377127bd4e611ad30"
  },
  "editors-kit": {
   "mark-iii": "aa274ac5da5fdc56aea04a6bd22e24e1c279f528"
@@ -33,7 +33,7 @@
   "mark-iii": "f3838d96f9cb60e1fd151bd5555690cc298d04d3"
  },
  "java-kit": {
-  "mark-iii": "d029c71996ceb005423cefdb5a2b2e8880d01637"
+  "mark-iii": "74d53c14c5ec7cd8956b660e9841f1ed16249509"
  },
  "kde-kit": {
   "mark-iii": "4bd99eaf7aa57642f82139123c382c225fbf9d35"
@@ -93,6 +93,6 @@
   "mark-iii": "54623089a1ed75e4ad26a9ef6cb1c4e16e7d9ddf"
  },
  "xorg-kit": {
-  "mark-iii": "df87a2a32f66fd4c7324f3638ed264d32b49112e"
+  "mark-iii": "1ef0338b9dc1d189ab7f05c308a4f208797c3827"
  }
 }
