@@ -28,7 +28,8 @@
     "desktop-kit",
     "xfce-kit",
     "xorg-kit",
-    "java-kit"
+    "java-kit",
+    "qt-kit"
   ],
   "kit_settings": {
     "browser-kit": {
@@ -169,6 +170,12 @@
       },
       "type": "auto"
     },
+    "qt-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
     "ruby-kit": {
       "stability": {
         "mark-unstable": "prime"
@@ -274,6 +281,9 @@
       "mark-unstable"
     ],
     "python-modules-kit": [
+      "mark-unstable"
+    ],
+    "qt-kit": [
       "mark-unstable"
     ],
     "ruby-kit": [

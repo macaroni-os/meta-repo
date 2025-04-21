@@ -1,15 +1,15 @@
 {
  "browser-kit": {
-  "mark-unstable": "e42482592ecb9feb0631482069b0c0d1bc958c15"
+  "mark-unstable": "8d7dd21a5740f755bba250fd75d69ed099f6c8bb"
  },
  "core-gl-kit": {
-  "mark-unstable": "ccdf9a370d911c659695a62aff58b559fc1b0268"
+  "mark-unstable": "e5a85cdd7119d23375de28c5860d6f6cca07a3cc"
  },
  "core-hw-kit": {
   "mark-unstable": "6b3bb0361712492e7d49cd9b92a143d167fd9c8f"
  },
  "core-kit": {
-  "mark-unstable": "234cabb6b0e4ef673839eac58fdc0eb5eb0aff93"
+  "mark-unstable": "0df90d9745f141d09e2d15114abd6359570626b9"
  },
  "core-server-kit": {
   "mark-unstable": "ce6f8541619a52c963862b64e1416705de14248f"
@@ -18,7 +18,7 @@
   "mark-unstable": "9f08523c6478a9a4a91337bd7261f55305666683"
  },
  "dev-kit": {
-  "mark-unstable": "59a32a9d2ba495690b29b653813706b25025a384"
+  "mark-unstable": "802f3982c6016f27a7925b37d8b37c337357bdab"
  },
  "editors-kit": {
   "mark-unstable": "868c7391fde2694b4411a1f9ad4330e9e3037a9e"
@@ -33,7 +33,7 @@
   "mark-unstable": "bebd32bcbbdef77903d96b38e6636bc9af36f2da"
  },
  "java-kit": {
-  "mark-unstable": "d57936d9de568b2fc4fc72a0a13c429b9689217b"
+  "mark-unstable": "e996248d9827e5979b244f735f72bae857c36cf0"
  },
  "kde-kit": {
   "mark-unstable": "921603211d7f7aa5db707005fba67e15ec4abc1d"
@@ -68,6 +68,9 @@
  "python-modules-kit": {
   "mark-unstable": "3ae794e8f3ca6e26cfd71786e9b8b361fca4d470"
  },
+ "qt-kit": {
+  "mark-unstable": "8210c53155b614dca553f2406a464ade74f2ba6c"
+ },
  "ruby-kit": {
   "mark-unstable": "6411c7c2e5d78b44a23932ffe6a0aa41fce133e1"
  },
@@ -84,6 +87,6 @@
   "mark-unstable": "688faf4d8d672f797ae979eb7163d588612295b9"
  },
  "xorg-kit": {
-  "mark-unstable": "9571ce3c58e370cf19c398e9e9915edcb888d0e9"
+  "mark-unstable": "0ee952c5ad504eb58efd96ef75d774cd07633f66"
  }
 }
