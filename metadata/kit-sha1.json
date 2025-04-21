@@ -3,7 +3,7 @@
   "mark-iii": "aa470cbd9ca7298ed30955612a89a185e93c930a"
  },
  "core-gl-kit": {
-  "mark-iii": "9c27d052a0b68ea88366122edd3fef1ac79d8c05"
+  "mark-iii": "3991603ac718634996de76c658d9dabb6c4e0712"
  },
  "core-hw-kit": {
   "mark-iii": "40fd9bcacb90d58badda3969480b2e181cc36873"
@@ -12,13 +12,13 @@
   "mark-iii": "7601cc123838617883417f23bde43415ddf8fe95"
  },
  "core-server-kit": {
-  "mark-iii": "203a03cb682472769bf3aa11b0b6aa2a7eda76e1"
+  "mark-iii": "bc2ea0beed150ac6f8bea5fec8cd398447f5152c"
  },
  "desktop-kit": {
   "mark-iii": "3a6dd5d61535ef44e006d32c549cad8520e6fe62"
  },
  "dev-kit": {
-  "mark-iii": "eaa5127133097873e9fa7fe642c67eb53b24142d"
+  "mark-iii": "5dfb036d7b62ef4cbaed00dcb2a590fee8df306d"
  },
  "editors-kit": {
   "mark-iii": "aa274ac5da5fdc56aea04a6bd22e24e1c279f528"
@@ -39,7 +39,7 @@
   "mark-iii": "4bd99eaf7aa57642f82139123c382c225fbf9d35"
  },
  "kernel-kit": {
-  "mark-iii": "89a8664bd0f2be63ad74a04408c6f4f1bf80c56d"
+  "mark-iii": "622e1973b824bf184a3b3640e0cf2e280a67eb2d"
  },
  "lang-kit": {
   "mark-iii": "f4654f10415b9e3090d9d257f36ce565a0686fea"
@@ -57,7 +57,7 @@
   "mark-iii": "c9b391db7dadd445409f6d13a0aeb5b2c7a44452"
  },
  "net-kit": {
-  "mark-iii": "fdfd069a564d895a5bad3175d42c39e3e3fa9ce3"
+  "mark-iii": "48ec19b3444443ba49b799e52fa0d5aaac75307e"
  },
  "perl-kit": {
   "mark-iii": "74accb8e04404f89d08a265fa46a93c426ca40dd"
