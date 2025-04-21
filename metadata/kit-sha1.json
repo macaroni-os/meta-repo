@@ -32,11 +32,14 @@
  "i18n-kit": {
   "mark-unstable": "bebd32bcbbdef77903d96b38e6636bc9af36f2da"
  },
+ "java-kit": {
+  "mark-unstable": "afb9ad9ff7cb8f8915ccde334c5f0044a996c51f"
+ },
  "kde-kit": {
   "mark-unstable": "921603211d7f7aa5db707005fba67e15ec4abc1d"
  },
  "kernel-kit": {
-  "mark-unstable": "069649e22d9c034fca32ec16affae2b960ad0fb2"
+  "mark-unstable": "ea91faf8bf421012b8a0408d60307f95a081eacf"
  },
  "lang-kit": {
   "mark-unstable": "e4119a69902b593c5fba92f7c154c34676b4469a"
@@ -48,10 +51,10 @@
   "mark-unstable": "a313cf970a19fe7be4dbf089f9171e61046d8376"
  },
  "media-kit": {
-  "mark-unstable": "a18e36186e586ce0a6e47f5ca0f0ddf57d7495bf"
+  "mark-unstable": "96807146ff5ea2fa89a9325a8e1de45c33a6fc8e"
  },
  "net-kit": {
-  "mark-unstable": "2d27c5dc89c3d2e966053b0ef54970ef0dc05f1d"
+  "mark-unstable": "8a6c1ac34dcb58fbba547e7028d7fa7ac39e2475"
  },
  "perl-kit": {
   "mark-unstable": "18678871075cd4ff0f86b84fba86b68d2647bf7c"
@@ -63,7 +66,7 @@
   "mark-unstable": "1f6b1c685694c665c6a69afdbe67d83b88faabed"
  },
  "python-modules-kit": {
-  "mark-unstable": "219de30a54f9ef550a2379ace2b4ffd79077524a"
+  "mark-unstable": "3ae794e8f3ca6e26cfd71786e9b8b361fca4d470"
  },
  "ruby-kit": {
   "mark-unstable": "6411c7c2e5d78b44a23932ffe6a0aa41fce133e1"
@@ -81,6 +84,6 @@
   "mark-unstable": "688faf4d8d672f797ae979eb7163d588612295b9"
  },
  "xorg-kit": {
-  "mark-unstable": "794230b05eedf29d50b720a6641fc790b407a526"
+  "mark-unstable": "9571ce3c58e370cf19c398e9e9915edcb888d0e9"
  }
 }

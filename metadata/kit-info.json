@@ -27,7 +27,8 @@
     "gnome-kit",
     "desktop-kit",
     "xfce-kit",
-    "xorg-kit"
+    "xorg-kit",
+    "java-kit"
   ],
   "kit_settings": {
     "browser-kit": {
@@ -91,6 +92,12 @@
       "type": "auto"
     },
     "i18n-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "java-kit": {
       "stability": {
         "mark-unstable": "prime"
       },
@@ -231,6 +238,9 @@
       "mark-unstable"
     ],
     "i18n-kit": [
+      "mark-unstable"
+    ],
+    "java-kit": [
       "mark-unstable"
     ],
     "kde-kit": [
