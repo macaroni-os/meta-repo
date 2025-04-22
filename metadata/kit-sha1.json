@@ -18,10 +18,10 @@
   "mark-xl": "d4ec1b1a5ce531128b6233dbd366d15e11b1cc76"
  },
  "kernel-kit": {
-  "mark-xl": "8347cc491560bb89fb12cc6358fae00c16111b37"
+  "mark-xl": "3247ea34cd8681642ddb4142d933a192f5d5dfad"
  },
  "lang-kit": {
-  "mark-xl": "b5b72ac7509010193b8378b12923e6a4211ec263"
+  "mark-xl": "aad6b51a22b6c5744dc68f05b7e018b24f2f2c0d"
  },
  "lisp-scheme-kit": {
   "mark-xl": "bc33661f4322083955d4dd7a3682625a22994105"
@@ -33,7 +33,7 @@
   "mark-xl": "7578a70063195889308b893f7b45d372f9f5ad88"
  },
  "net-kit": {
-  "mark-xl": "178f90aa76d6eb77b99304d0b88646591a5c1ffc"
+  "mark-xl": "416893055c34c8bfa6e04d7f65fcc74d84532b46"
  },
  "perl-kit": {
   "mark-xl": "3b7f86240caaefcc33900a26e84a27ef8fa490d4"
@@ -63,6 +63,6 @@
   "mark-xl": "96780c22bf35579189febbd5dfacf89ea2224d73"
  },
  "xorg-kit": {
-  "mark-xl": "aa8bedb8cbce20aea7010a61e22e92468a001e61"
+  "mark-xl": "6ab7643af15ea064e4f35d07f6f41573a7a1b93b"
  }
 }
