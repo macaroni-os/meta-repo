@@ -24,7 +24,7 @@
   "mark-v": "334bf7162bde2e149fad6a85ff925b938a0520a8"
  },
  "lisp-scheme-kit": {
-  "mark-v": "bea2821a6548fb1edfee704feea7fa11ad60b07e"
+  "mark-v": "cdef76a5ebf729ba4e110a72908fa58de482aada"
  },
  "llvm-kit": {
   "mark-v": "ce41b8818f876121994f7cc537de4d58ae0c5a5f"
@@ -63,6 +63,6 @@
   "mark-v": "cbe72cd5da2820a8e5ad3b3dd462723fec403947"
  },
  "xorg-kit": {
-  "mark-v": "3b8674ab6c00b5a1c6121cff8fdc3a153a4bb1f8"
+  "mark-v": "739a159ec372777ed87c511ea0783d634e33732c"
  }
 }
