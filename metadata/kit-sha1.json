@@ -6,7 +6,7 @@
   "mark-xl": "89a36c3ff574d3ec199767c32d215f1822d4d15a"
  },
  "core-server-kit": {
-  "mark-xl": "0f66f327aa89e0dcf44d0f50153649072894021e"
+  "mark-xl": "266191760c26b9ff2acc8088b2b5caa302110f46"
  },
  "dev-kit": {
   "mark-xl": "e973eb5b97cf61b3b3d84130ba24430084483843"
@@ -15,13 +15,13 @@
   "mark-xl": "1df9b81a1632b5657c77eae4b0066fc4f79ccbb1"
  },
  "java-kit": {
-  "mark-xl": "d4ec1b1a5ce531128b6233dbd366d15e11b1cc76"
+  "mark-xl": "496708cdb83f54870931af009fb0efabbf408214"
  },
  "kernel-kit": {
   "mark-xl": "ea9d5fa64acbad090d8a62699f09a800ea2c6b51"
  },
  "lang-kit": {
-  "mark-xl": "2837e710f831bd9deb80db82faacb3ebd4255bfa"
+  "mark-xl": "2e9e1afefc254645dc999c3251f475798931e39d"
  },
  "lisp-scheme-kit": {
   "mark-xl": "bc33661f4322083955d4dd7a3682625a22994105"
@@ -48,7 +48,7 @@
   "mark-xl": "1621a677c6819b017801fdb02c7ec4da32fc5de4"
  },
  "python-modules-kit": {
-  "mark-xl": "be9b927233f89fbf044eb78773d31901c1f84184"
+  "mark-xl": "75d5f0c41dcf5908bda4aee4f9bac3f3fcdf0ecb"
  },
  "ruby-kit": {
   "mark-xl": "bcf016a4ebb47484486142b9c9a870a0f5dce082"
