@@ -18,10 +18,10 @@
   "mark-unstable": "9f08523c6478a9a4a91337bd7261f55305666683"
  },
  "dev-kit": {
-  "mark-unstable": "7d5a932c9fb66724db2876339f1a483d7ef83491"
+  "mark-unstable": "ab4d9d398cc23af75a06b19c58faa678334173fc"
  },
  "editors-kit": {
-  "mark-unstable": "d2f819f6c2b6bdfbc975ab4d8b2a0ecb4d408eea"
+  "mark-unstable": "0606479af4f1b82420bf427d73d04541ca125616"
  },
  "games-kit": {
   "mark-unstable": "c046f7682cfe0d591e518e89ba40bd54c432d75e"
@@ -66,7 +66,7 @@
   "mark-unstable": "1f6b1c685694c665c6a69afdbe67d83b88faabed"
  },
  "python-modules-kit": {
-  "mark-unstable": "40c8dff88eb7e2800fb8fdf7fcd8a28698297571"
+  "mark-unstable": "3033bbfb5f79d8ca59c569ef3aea6299abda7d0d"
  },
  "qt-kit": {
   "mark-unstable": "b662da6f62cc2364943b1764c9f09ca287f8dd8c"
