@@ -6,19 +6,19 @@
   "mark-iii": "396087539876ecb4bf116899987580dab8230827"
  },
  "core-hw-kit": {
-  "mark-iii": "2374d4de87c588e2317bae6a866af3532df4162e"
+  "mark-iii": "224d75b71c2c7b9b439f1ae924ad2d2ad258f700"
  },
  "core-kit": {
   "mark-iii": "74214193aec9cbde76ab739d627789b4c460cfa9"
  },
  "core-server-kit": {
-  "mark-iii": "b2146236f97e135cd70e9d1ba0333cb0fe4d6743"
+  "mark-iii": "334b740df08290cc112f16e0eea640edbb468f0b"
  },
  "desktop-kit": {
-  "mark-iii": "629c82e6ac14ccff93ad865caf91efc5fe632b00"
+  "mark-iii": "ea3bb9d98477d5c5374d24392f1b76623798c43a"
  },
  "dev-kit": {
-  "mark-iii": "137c61e977002e5ce6128f52fd033ee141be0ccf"
+  "mark-iii": "691829d4434674aecdd2aedb8f3f584bc2e0aea3"
  },
  "editors-kit": {
   "mark-iii": "aa274ac5da5fdc56aea04a6bd22e24e1c279f528"
@@ -27,7 +27,7 @@
   "mark-iii": "63a792b89ed2372713d80d5ee308cd7d883a83cd"
  },
  "gnome-kit": {
-  "mark-iii": "76e126ae0accd8c4e6650a7abda3826a708aa4e9"
+  "mark-iii": "4c4494eae7fac8c3acb09259b4a03d7f873f561f"
  },
  "i18n-kit": {
   "mark-iii": "f3838d96f9cb60e1fd151bd5555690cc298d04d3"
@@ -39,7 +39,7 @@
   "mark-iii": "5806a33f0991e090cdb8baf57182dcbf8ccbf483"
  },
  "kernel-kit": {
-  "mark-iii": "a67b5a16497b115c50c15094c5426762f6a1e786"
+  "mark-iii": "0667566c8ac22bee87c0e3b3dfec5df4290cace8"
  },
  "lang-kit": {
   "mark-iii": "7e7dff7b540eb7682cfdbe6e2c15d409c0cd7b87"
@@ -51,13 +51,13 @@
   "mark-iii": "30d38cb768b0ce71c5e99eb9dbf2145629d91728"
  },
  "mark-kit": {
-  "mark-iii": "c0dc1a246adeb543c36d3aecbe6a1a1ac6c2ae31"
+  "mark-iii": "ad85b6370944bbf400b3393609af37f191e23f68"
  },
  "media-kit": {
-  "mark-iii": "2c3be465668cd5fa6e6f679203469190f7b237c6"
+  "mark-iii": "e077fa9748251bea4eeb22471042c77243fc68d3"
  },
  "net-kit": {
-  "mark-iii": "351bacf9ee7d75d88bb209b1e06c28ebab1425c1"
+  "mark-iii": "935ccd43ce91b88f176d9e215fe75cdff47bcccb"
  },
  "perl-kit": {
   "mark-iii": "07ca11d87343d9da90f52694eac9d3e0f8566d0d"
@@ -87,7 +87,7 @@
   "mark-iii": "9b2aa15d896f8f3e327451f2b64f5f09891e65de"
  },
  "text-kit": {
-  "mark-iii": "40c50330d6785867938c01880470833a7721bd75"
+  "mark-iii": "58444c9894c5a317288d845222ba2f82579cd696"
  },
  "xfce-kit": {
   "mark-iii": "54623089a1ed75e4ad26a9ef6cb1c4e16e7d9ddf"
