@@ -9,7 +9,7 @@
   "mark-xl": "eea94fff9417b33b3765b8355f08e37bd79d13b5"
  },
  "dev-kit": {
-  "mark-xl": "b99103d75f5906c497351f772eb29e3bbca530c1"
+  "mark-xl": "fa15db83e8de80ea35613c5eb283f9cebae19e31"
  },
  "editors-kit": {
   "mark-xl": "e2403303858a5b8598635750ee2e5c25881d8eed"
@@ -18,10 +18,10 @@
   "mark-xl": "2fd3178e39a45d1726fdacbc03c878126070084b"
  },
  "kernel-kit": {
-  "mark-xl": "6c038d977e6910a5e964543a3477bcb3f6b50d59"
+  "mark-xl": "4e6efa991aa38dd960ccd356d3d02ed398546d00"
  },
  "lang-kit": {
-  "mark-xl": "97aebacfced1fb0b1bcec9ac9d9b43469011d6b7"
+  "mark-xl": "81f9a899ea7a534cf924e1331325f7d905e57029"
  },
  "lisp-scheme-kit": {
   "mark-xl": "bc33661f4322083955d4dd7a3682625a22994105"
@@ -30,10 +30,10 @@
   "mark-xl": "cd17e94481d5e237fe7c153e3bb8cc9d3d1a6cf6"
  },
  "mark-kit": {
-  "mark-xl": "2d8fc7fba67610e68f3417021a0b1e3c585236a6"
+  "mark-xl": "f24e6417fd4ed65b8e7ec5268d7752bfd27262c8"
  },
  "net-kit": {
-  "mark-xl": "e4f50f4800f44101ae86889103f704a42ebe5738"
+  "mark-xl": "da29277db65b8063d7c3632da7f6d4fe38cf869e"
  },
  "perl-kit": {
   "mark-xl": "938448498f2c2421f7fa1a6c2c369814a87a7351"
@@ -60,7 +60,7 @@
   "mark-xl": "eb8f4e15ab516b070643c1a433cbc1851523b703"
  },
  "text-kit": {
-  "mark-xl": "32cc8e0670d7a6211820d4e43dfda0c6e89de13f"
+  "mark-xl": "61ff122aef1fbae29cef32b60446e88729d57980"
  },
  "xorg-kit": {
   "mark-xl": "55aa2e688b79941559620b6fd7b58148e0a525ce"
