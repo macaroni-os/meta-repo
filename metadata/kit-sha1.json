@@ -12,13 +12,13 @@
   "mark-unstable": "786fc950b5382baf48e17c5ad43c399a731afd84"
  },
  "core-server-kit": {
-  "mark-unstable": "0828c662076528ba1ac3f72a15a4b7426df8c925"
+  "mark-unstable": "9ba52f852b7d87b70134c39ba06a602f7af299cd"
  },
  "desktop-kit": {
-  "mark-unstable": "a4d9d17c1c459882f0cb98651b5b4e57095ae647"
+  "mark-unstable": "b3afc8203ed96900375d426e3f1f00b42718862b"
  },
  "dev-kit": {
-  "mark-unstable": "062732e3efba779f1a5d493fa0a4d31f5060c9d4"
+  "mark-unstable": "2fb2867883cb5d7bd83f6781ac7c68242cefd1af"
  },
  "editors-kit": {
   "mark-unstable": "1d96446fedf102398c90e702e28aa912bcdfc356"
@@ -66,7 +66,7 @@
   "mark-unstable": "1f6b1c685694c665c6a69afdbe67d83b88faabed"
  },
  "python-modules-kit": {
-  "mark-unstable": "ca40ad5aaf1e68d1a8c4b70cc3cb91e9b9245c4e"
+  "mark-unstable": "ff22c31fd16bca7796b4a012fb3978e81dc13291"
  },
  "qt-kit": {
   "mark-unstable": "2f1d8ced141eb7fc6d4ff6a2e0e253cf93f00ba8"
@@ -75,7 +75,7 @@
   "mark-unstable": "88f7686f01fd707bbbf03a7e04906a904146773d"
  },
  "science-kit": {
-  "mark-unstable": "4aadc9001f762ddaf763c7ea55ce36ca17097d92"
+  "mark-unstable": "eb2279c90c7b2f1694147e7079111350b5cce95d"
  },
  "security-kit": {
   "mark-unstable": "be328399209f7f516165f7c3042f72ec7e5cd25b"
