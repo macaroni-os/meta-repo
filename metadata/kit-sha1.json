@@ -3,7 +3,7 @@
   "mark-iii": "7c59c69606cf32d7f8426d1ddd96d715455c7773"
  },
  "core-gl-kit": {
-  "mark-iii": "14bada2302e5b38bf1c4702806c965c702425597"
+  "mark-iii": "dc86b8592a232fc70952cc761a2249306d189e3c"
  },
  "core-hw-kit": {
   "mark-iii": "6a4a5cf3802d40fdbb86ea03161b1f73543d596e"
@@ -12,13 +12,13 @@
   "mark-iii": "94bdc15006a620d3d600585591869801d714753f"
  },
  "core-server-kit": {
-  "mark-iii": "7b75ba24495d62cdbb0c5cdaf0fba042c93afb9b"
+  "mark-iii": "bf7055d8b97b85778013c37936c097cfa35de19f"
  },
  "desktop-kit": {
-  "mark-iii": "945bd502a8b1f6defe3f9963e2677e554a232d1a"
+  "mark-iii": "80d44b7ae62ba63b8e1094705a1884570b727f01"
  },
  "dev-kit": {
-  "mark-iii": "da18f46f664a1745ac5a00f3a8bf3765879e2548"
+  "mark-iii": "43c12d0b0ba5612bf2f3f27f7804d7de66d7923f"
  },
  "editors-kit": {
   "mark-iii": "c4014efd5c9faf1b017999904559006b57434b53"
@@ -36,7 +36,7 @@
   "mark-iii": "42184cf6d508303ce3424497e5b719c5125f2b01"
  },
  "kde-kit": {
-  "mark-iii": "8d29de77d6c941ed003af585d344aa9f2fc01d53"
+  "mark-iii": "7ee2bcb56f35cf00bdc19bdb2d35589e2c7d7a5a"
  },
  "kernel-kit": {
   "mark-iii": "0667566c8ac22bee87c0e3b3dfec5df4290cace8"
@@ -54,10 +54,10 @@
   "mark-iii": "069843bc402032f0b5b650b8c1315f57c107961e"
  },
  "media-kit": {
-  "mark-iii": "8021887227cae9d73f9379f33415379306dfb2eb"
+  "mark-iii": "9379e4e79de461586aa67b98a01666adf240a6f5"
  },
  "net-kit": {
-  "mark-iii": "bf47eeeb25ada9d9ad556c97886e947bf75424c4"
+  "mark-iii": "ac2ad753526a1475ea6f15355961813b8c44963c"
  },
  "perl-kit": {
   "mark-iii": "07ca11d87343d9da90f52694eac9d3e0f8566d0d"
@@ -75,19 +75,19 @@
   "mark-iii": "94f9f7c6ef88f088a79e9c26c450ddc4243bcca0"
  },
  "qt-kit": {
-  "mark-iii": "0e714086b072ed6dbf30f38b22e63eba16c9e2a2"
+  "mark-iii": "03233f695cdc5164b85fe40e51374037d35cbf77"
  },
  "ruby-kit": {
   "mark-iii": "e252d8726f1539750ee0e3ff11425e754343964f"
  },
  "science-kit": {
-  "mark-iii": "6a6317b6a793c5fb41682615e16314bc7d915a83"
+  "mark-iii": "37dede6137dc1bc83b4e1b847b6f64a52975c0f3"
  },
  "security-kit": {
-  "mark-iii": "6e54742eda94ebc6e778d0675aeb4f2ac5f4a1c6"
+  "mark-iii": "972ba4d614c5abca1f80d1027cb0b4963746241b"
  },
  "text-kit": {
-  "mark-iii": "b944b1a48d75d756068f8c44a1cdad9cb4bc787d"
+  "mark-iii": "ae5bd367c3fb078486b466ec416d8b837402c1bd"
  },
  "xfce-kit": {
   "mark-iii": "54623089a1ed75e4ad26a9ef6cb1c4e16e7d9ddf"
