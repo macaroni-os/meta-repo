@@ -1,0 +1,336 @@
+{
+  "kit_order": [
+    "core-kit",
+    "browser-kit",
+    "mark-kit",
+    "core-server-kit",
+    "core-hw-kit",
+    "core-gl-kit",
+    "desktop-kit",
+    "dev-kit",
+    "lang-kit",
+    "editors-kit",
+    "gnome-kit",
+    "i18n-kit",
+    "java-kit",
+    "kde-kit",
+    "perl-kit",
+    "python-kit",
+    "python-modules-kit",
+    "portage-kit",
+    "media-kit",
+    "net-kit",
+    "kernel-kit",
+    "security-kit",
+    "science-kit",
+    "text-kit",
+    "llvm-kit",
+    "ruby-kit",
+    "qt-kit",
+    "xfce-kit",
+    "xorg-kit",
+    "games-kit",
+    "php-kit",
+    "lisp-scheme-kit"
+  ],
+  "kit_settings": {
+    "browser-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "core-gl-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "core-hw-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "core-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "core-server-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "desktop-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "dev-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "editors-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "games-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "gnome-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "i18n-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "java-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "kde-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "kernel-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "lang-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "lisp-scheme-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "llvm-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "mark-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "media-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "net-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "perl-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "php-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "portage-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "python-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "python-modules-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "qt-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "ruby-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "science-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "security-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "text-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "xfce-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "xorg-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    }
+  },
+  "release_defs": {
+    "browser-kit": [
+      "mark-i"
+    ],
+    "core-gl-kit": [
+      "mark-i"
+    ],
+    "core-hw-kit": [
+      "mark-i"
+    ],
+    "core-kit": [
+      "mark-i"
+    ],
+    "core-server-kit": [
+      "mark-i"
+    ],
+    "desktop-kit": [
+      "mark-i"
+    ],
+    "dev-kit": [
+      "mark-i"
+    ],
+    "editors-kit": [
+      "mark-i"
+    ],
+    "games-kit": [
+      "mark-i"
+    ],
+    "gnome-kit": [
+      "mark-i"
+    ],
+    "i18n-kit": [
+      "mark-i"
+    ],
+    "java-kit": [
+      "mark-i"
+    ],
+    "kde-kit": [
+      "mark-i"
+    ],
+    "kernel-kit": [
+      "mark-i"
+    ],
+    "lang-kit": [
+      "mark-i"
+    ],
+    "lisp-scheme-kit": [
+      "mark-i"
+    ],
+    "llvm-kit": [
+      "mark-i"
+    ],
+    "mark-kit": [
+      "mark-i"
+    ],
+    "media-kit": [
+      "mark-i"
+    ],
+    "net-kit": [
+      "mark-i"
+    ],
+    "perl-kit": [
+      "mark-i"
+    ],
+    "php-kit": [
+      "mark-i"
+    ],
+    "portage-kit": [
+      "mark-i"
+    ],
+    "python-kit": [
+      "mark-i"
+    ],
+    "python-modules-kit": [
+      "mark-i"
+    ],
+    "qt-kit": [
+      "mark-i"
+    ],
+    "ruby-kit": [
+      "mark-i"
+    ],
+    "science-kit": [
+      "mark-i"
+    ],
+    "security-kit": [
+      "mark-i"
+    ],
+    "text-kit": [
+      "mark-i"
+    ],
+    "xfce-kit": [
+      "mark-i"
+    ],
+    "xorg-kit": [
+      "mark-i"
+    ]
+  },
+  "release_info": {
+    "required": [
+      {
+        "ego": "2.7.2"
+      }
+    ],
+    "version": 11
+  }
+}
