@@ -1,0 +1,336 @@
+{
+  "kit_order": [
+    "core-kit",
+    "browser-kit",
+    "mark-kit",
+    "core-server-kit",
+    "core-hw-kit",
+    "core-gl-kit",
+    "desktop-kit",
+    "dev-kit",
+    "lang-kit",
+    "editors-kit",
+    "gnome-kit",
+    "i18n-kit",
+    "java-kit",
+    "kde-kit",
+    "perl-kit",
+    "python-kit",
+    "python-modules-kit",
+    "portage-kit",
+    "media-kit",
+    "net-kit",
+    "kernel-kit",
+    "security-kit",
+    "science-kit",
+    "text-kit",
+    "llvm-kit",
+    "ruby-kit",
+    "qt-kit",
+    "xfce-kit",
+    "xorg-kit",
+    "games-kit",
+    "php-kit",
+    "lisp-scheme-kit"
+  ],
+  "kit_settings": {
+    "browser-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "core-gl-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "core-hw-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "core-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "core-server-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "desktop-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "dev-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "editors-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "games-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "gnome-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "i18n-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "java-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "kde-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "kernel-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "lang-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "lisp-scheme-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "llvm-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "mark-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "media-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "net-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "perl-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "php-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "portage-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "python-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "python-modules-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "qt-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "ruby-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "science-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "security-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "text-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "xfce-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
+    "xorg-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    }
+  },
+  "release_defs": {
+    "browser-kit": [
+      "mark-31"
+    ],
+    "core-gl-kit": [
+      "mark-31"
+    ],
+    "core-hw-kit": [
+      "mark-31"
+    ],
+    "core-kit": [
+      "mark-31"
+    ],
+    "core-server-kit": [
+      "mark-31"
+    ],
+    "desktop-kit": [
+      "mark-31"
+    ],
+    "dev-kit": [
+      "mark-31"
+    ],
+    "editors-kit": [
+      "mark-31"
+    ],
+    "games-kit": [
+      "mark-31"
+    ],
+    "gnome-kit": [
+      "mark-31"
+    ],
+    "i18n-kit": [
+      "mark-31"
+    ],
+    "java-kit": [
+      "mark-31"
+    ],
+    "kde-kit": [
+      "mark-31"
+    ],
+    "kernel-kit": [
+      "mark-31"
+    ],
+    "lang-kit": [
+      "mark-31"
+    ],
+    "lisp-scheme-kit": [
+      "mark-31"
+    ],
+    "llvm-kit": [
+      "mark-31"
+    ],
+    "mark-kit": [
+      "mark-31"
+    ],
+    "media-kit": [
+      "mark-31"
+    ],
+    "net-kit": [
+      "mark-31"
+    ],
+    "perl-kit": [
+      "mark-31"
+    ],
+    "php-kit": [
+      "mark-31"
+    ],
+    "portage-kit": [
+      "mark-31"
+    ],
+    "python-kit": [
+      "mark-31"
+    ],
+    "python-modules-kit": [
+      "mark-31"
+    ],
+    "qt-kit": [
+      "mark-31"
+    ],
+    "ruby-kit": [
+      "mark-31"
+    ],
+    "science-kit": [
+      "mark-31"
+    ],
+    "security-kit": [
+      "mark-31"
+    ],
+    "text-kit": [
+      "mark-31"
+    ],
+    "xfce-kit": [
+      "mark-31"
+    ],
+    "xorg-kit": [
+      "mark-31"
+    ]
+  },
+  "release_info": {
+    "required": [
+      {
+        "ego": "2.7.2"
+      }
+    ],
+    "version": 11
+  }
+}
