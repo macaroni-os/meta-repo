@@ -6,13 +6,13 @@
   "mark-iii": "dc86b8592a232fc70952cc761a2249306d189e3c"
  },
  "core-hw-kit": {
-  "mark-iii": "6a4a5cf3802d40fdbb86ea03161b1f73543d596e"
+  "mark-iii": "d20953cbf5e528a30b24af0392cd076f96fd9950"
  },
  "core-kit": {
-  "mark-iii": "2c631cf643a330ed68fa8d1ccd2f7afefb41100b"
+  "mark-iii": "bcc754da76a7d0d02107a66b323bb931ea6b6985"
  },
  "core-server-kit": {
-  "mark-iii": "bf7055d8b97b85778013c37936c097cfa35de19f"
+  "mark-iii": "91840b5e0cc5adcc19874ff5abe7ab68ea77a8d8"
  },
  "desktop-kit": {
   "mark-iii": "80d44b7ae62ba63b8e1094705a1884570b727f01"
@@ -21,7 +21,7 @@
   "mark-iii": "43c12d0b0ba5612bf2f3f27f7804d7de66d7923f"
  },
  "editors-kit": {
-  "mark-iii": "c4014efd5c9faf1b017999904559006b57434b53"
+  "mark-iii": "5be5c348e1503799e34cfe2374411b69e5d1e623"
  },
  "games-kit": {
   "mark-iii": "63a792b89ed2372713d80d5ee308cd7d883a83cd"
@@ -42,7 +42,7 @@
   "mark-iii": "0667566c8ac22bee87c0e3b3dfec5df4290cace8"
  },
  "lang-kit": {
-  "mark-iii": "7e7dff7b540eb7682cfdbe6e2c15d409c0cd7b87"
+  "mark-iii": "a2f08268f93b5684f953fe21413123cf0a9b0f07"
  },
  "lisp-scheme-kit": {
   "mark-iii": "d8d286e4143b2810246c78509d2c2cb0e9b17a73"
@@ -72,10 +72,10 @@
   "mark-iii": "eda9e7b12f251736e8b6e76164efe72236be921a"
  },
  "python-modules-kit": {
-  "mark-iii": "94f9f7c6ef88f088a79e9c26c450ddc4243bcca0"
+  "mark-iii": "24bd15371a309745cc9bef570091f414ea729dd6"
  },
  "qt-kit": {
-  "mark-iii": "03233f695cdc5164b85fe40e51374037d35cbf77"
+  "mark-iii": "15732f39503444753d0a5e6076c4d984ad73539f"
  },
  "ruby-kit": {
   "mark-iii": "e252d8726f1539750ee0e3ff11425e754343964f"
@@ -84,7 +84,7 @@
   "mark-iii": "37dede6137dc1bc83b4e1b847b6f64a52975c0f3"
  },
  "security-kit": {
-  "mark-iii": "67b9174d8e95e212e2a01fdf5641e1091d912c76"
+  "mark-iii": "b30370ea9c48dc125a1139b325c00e2101c29482"
  },
  "text-kit": {
   "mark-iii": "ae5bd367c3fb078486b466ec416d8b837402c1bd"
