@@ -3,7 +3,7 @@
   "mark-unstable": "5ec8a03604afc4e3e22b4d5bb6097b411dd130aa"
  },
  "core-gl-kit": {
-  "mark-unstable": "02e7aa8915f21075eeef0fb2bd88ec9447bb4c29"
+  "mark-unstable": "223bd019503a0b09a2810d2b4a23b37371033256"
  },
  "core-hw-kit": {
   "mark-unstable": "aebf5a5d48450ca2f8380e98784fa815bf21614e"
@@ -27,7 +27,7 @@
   "mark-unstable": "abe73cba27f45b6278453a140462f194fc9d4ee6"
  },
  "gnome-kit": {
-  "mark-unstable": "a6bea9fb856247374aa878aba968dd24af01c706"
+  "mark-unstable": "f543651a2456597abf6001493b7cd38347777456"
  },
  "i18n-kit": {
   "mark-unstable": "bebd32bcbbdef77903d96b38e6636bc9af36f2da"
