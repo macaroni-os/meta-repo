@@ -1,6 +1,6 @@
 {
  "browser-kit": {
-  "mark-iii": "7c59c69606cf32d7f8426d1ddd96d715455c7773"
+  "mark-iii": "03102d61269c431739f11b5cf1c48471ef2be2b1"
  },
  "core-gl-kit": {
   "mark-iii": "1939875d39d2e20fef746a0668bbbca6c1f43872"
@@ -18,13 +18,13 @@
   "mark-iii": "80d44b7ae62ba63b8e1094705a1884570b727f01"
  },
  "dev-kit": {
-  "mark-iii": "43c12d0b0ba5612bf2f3f27f7804d7de66d7923f"
+  "mark-iii": "fb761f137e84036b139aab1a76970cf995b7bb26"
  },
  "editors-kit": {
   "mark-iii": "5be5c348e1503799e34cfe2374411b69e5d1e623"
  },
  "games-kit": {
-  "mark-iii": "63a792b89ed2372713d80d5ee308cd7d883a83cd"
+  "mark-iii": "ea0a525e1908b41ef59c5bc6bda1ec6595361599"
  },
  "gnome-kit": {
   "mark-iii": "557ff5791c043820fa7521370779d959065f96c5"
@@ -75,7 +75,7 @@
   "mark-iii": "24bd15371a309745cc9bef570091f414ea729dd6"
  },
  "qt-kit": {
-  "mark-iii": "15732f39503444753d0a5e6076c4d984ad73539f"
+  "mark-iii": "91369cf2a71ab4d388f41efac91bdce3b499c87b"
  },
  "ruby-kit": {
   "mark-iii": "e252d8726f1539750ee0e3ff11425e754343964f"
