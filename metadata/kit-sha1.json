@@ -1,6 +1,6 @@
 {
  "browser-kit": {
-  "mark-31": "21d8b88962d13b56096206fbc3dce3b4bba10518"
+  "mark-31": "bacc046e34d35bc85d77780754c275b481b3f5f7"
  },
  "core-gl-kit": {
   "mark-31": "f5c420e22c6fa4f87a4c0561cd5867c3cc08ba8e"
@@ -9,7 +9,7 @@
   "mark-31": "4590fed6cf974747e905f063d5445e72ef640175"
  },
  "core-kit": {
-  "mark-31": "90aa65397755c9ea6bcab00c79c7e0c121fb4bea"
+  "mark-31": "bc26c50ffc5b4a865c9fe8f51b34fb3f39bf919d"
  },
  "core-server-kit": {
   "mark-31": "059788a62e2f705507381875e6c6629f5a489139"
@@ -27,7 +27,7 @@
   "mark-31": "054e529039cf9ebd147b07553f76b8be7228df6e"
  },
  "gnome-kit": {
-  "mark-31": "6ab12f862b1ea52b98d2d3012ca6cd07cb79b392"
+  "mark-31": "759ebd7d584e460298bf4947a34eacc0721ec0ca"
  },
  "i18n-kit": {
   "mark-31": "db23a47ea7608cce0fa83006c2ff9d9b0541ed13"
@@ -36,13 +36,13 @@
   "mark-31": "7f2190ca1884795dd6bdef908ecb9b731788b98f"
  },
  "kde-kit": {
-  "mark-31": "309bdfe6840935a56d5146e09140d3ed7df02549"
+  "mark-31": "002d79f5d93a3b3298924fa367c1dcbfd2a5f81a"
  },
  "kernel-kit": {
   "mark-31": "9581577b3ccb8edd839628b94b77a3c3a6df633f"
  },
  "lang-kit": {
-  "mark-31": "a1ce01a1020afad3916c3fb5d3025db61991440c"
+  "mark-31": "c685c099bb83faa38023cb1f0e1dee19848ef047"
  },
  "lisp-scheme-kit": {
   "mark-31": "13cc81d43117d3decbed3d57434521cdef20903c"
@@ -51,7 +51,7 @@
   "mark-31": "d8b74357e41404df2adb9a0b7e6e83e074bd4bf3"
  },
  "mark-kit": {
-  "mark-31": "3662745547b0dcd142fe234e388fc52b82cc889b"
+  "mark-31": "bdc69015880ef5e8e227e259ab8806067ed6580e"
  },
  "media-kit": {
   "mark-31": "e2945ce3ff8911bb421dd21465f6d701d6ba8c27"
@@ -84,7 +84,7 @@
   "mark-31": "de6d03a9bd48afcdd36d324ffb9fe6dfab28b7b2"
  },
  "security-kit": {
-  "mark-31": "966be28e51f9222f692137c07c0f577276cea057"
+  "mark-31": "7ec66d48747a5a2d23bdbc244c00c6de6698c351"
  },
  "text-kit": {
   "mark-31": "90a4d20bc3909d3b0e7c5b9cb3858b6bdfe6b73f"
