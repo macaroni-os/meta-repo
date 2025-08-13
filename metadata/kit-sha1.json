@@ -1,9 +1,9 @@
 {
  "browser-kit": {
-  "mark-31": "bacc046e34d35bc85d77780754c275b481b3f5f7"
+  "mark-31": "7786ab4daa3ca88367aff5383932119eee552e1a"
  },
  "core-gl-kit": {
-  "mark-31": "f5c420e22c6fa4f87a4c0561cd5867c3cc08ba8e"
+  "mark-31": "182128d4a71d3316b3c95ae75df24245ac878eab"
  },
  "core-hw-kit": {
   "mark-31": "4590fed6cf974747e905f063d5445e72ef640175"
@@ -12,7 +12,7 @@
   "mark-31": "bc26c50ffc5b4a865c9fe8f51b34fb3f39bf919d"
  },
  "core-server-kit": {
-  "mark-31": "059788a62e2f705507381875e6c6629f5a489139"
+  "mark-31": "ed671664533709e4a757e4f45f110c02a7de3e98"
  },
  "desktop-kit": {
   "mark-31": "0614c955db2c5a3d652316dd1cb0ab60a04128eb"
@@ -51,7 +51,7 @@
   "mark-31": "d8b74357e41404df2adb9a0b7e6e83e074bd4bf3"
  },
  "mark-kit": {
-  "mark-31": "bdc69015880ef5e8e227e259ab8806067ed6580e"
+  "mark-31": "aa2680bded38a04ae9462f74cc5de83ad1ece6e3"
  },
  "media-kit": {
   "mark-31": "e2945ce3ff8911bb421dd21465f6d701d6ba8c27"
