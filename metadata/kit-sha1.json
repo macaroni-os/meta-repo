@@ -12,10 +12,10 @@
   "mark-iii": "97ec65af1e58c1fd558fd07f39c2f351d7a42a85"
  },
  "core-server-kit": {
-  "mark-iii": "1ea2728bba8e893dbb52a7a1883b9ba2936b7895"
+  "mark-iii": "ad6a94353083032de4be443db4c25ccc3f205b37"
  },
  "desktop-kit": {
-  "mark-iii": "d220936b06bee354e4fb183c60064db03053780a"
+  "mark-iii": "bd62d5f1669956f19ef215744b4e0d83c7502ed8"
  },
  "dev-kit": {
   "mark-iii": "bcc7bc70c400b7806fef9f7e503fd3f7990f92e6"
@@ -42,7 +42,7 @@
   "mark-iii": "2d394e0dfa1b4a49f2192a4bb102f6e2e5a4ef22"
  },
  "lang-kit": {
-  "mark-iii": "483932d168bd3e1ba07db91ed397aa89fe1ad595"
+  "mark-iii": "98de659d5008b688dcf7cdfda4688e2fae8e3f08"
  },
  "lisp-scheme-kit": {
   "mark-iii": "d8d286e4143b2810246c78509d2c2cb0e9b17a73"
@@ -54,10 +54,10 @@
   "mark-iii": "2fbc20d56aed8fd30409822ecf7a3d826e89bce4"
  },
  "media-kit": {
-  "mark-iii": "9101aaaddb689c4c047754eb472a51f4a81afafc"
+  "mark-iii": "bbb4441b7188c84cb8b69bb8fbbaa3050f1fb1c3"
  },
  "net-kit": {
-  "mark-iii": "1f6359e4acd8dd184d3012c3132ceb1a50813017"
+  "mark-iii": "9f8ab2377d6387f9c6381c2a2cdc45c8fad2e3e9"
  },
  "perl-kit": {
   "mark-iii": "cb61e0a66ff5037878e6f55b79916ad2f679ae25"
@@ -72,10 +72,10 @@
   "mark-iii": "e8525d3c8e0839e92d8db57973bafaca338bb828"
  },
  "python-modules-kit": {
-  "mark-iii": "e0d478044601bd2c89e1848714d3160801f270d1"
+  "mark-iii": "5f20a51c0aa0f8166f74afd130737b5762a9a912"
  },
  "qt-kit": {
-  "mark-iii": "e07585c6740f04e80ffe5849bfbd9abeb8fddf3c"
+  "mark-iii": "a8f4894b75d20af10cc90bf16604428e67873fb4"
  },
  "ruby-kit": {
   "mark-iii": "238c694937c44207a4a7591afdd5020e2c20a6b5"
