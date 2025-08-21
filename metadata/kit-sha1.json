@@ -12,13 +12,13 @@
   "mark-iii": "e755d17b8e805c8dffd374ddaad785d6e6d1b559"
  },
  "core-server-kit": {
-  "mark-iii": "ad6a94353083032de4be443db4c25ccc3f205b37"
+  "mark-iii": "8059e9800947293f5fd7280d334fb0aa611d7f98"
  },
  "desktop-kit": {
   "mark-iii": "402944f70d19b890e8178fa98a57e769e04634b3"
  },
  "dev-kit": {
-  "mark-iii": "bcc7bc70c400b7806fef9f7e503fd3f7990f92e6"
+  "mark-iii": "71e98675482f86b69fd2a684ab7b7447e0bcbb4d"
  },
  "editors-kit": {
   "mark-iii": "00f83aad3189bec2cb713f167b7b8dd46f4bba90"
@@ -27,7 +27,7 @@
   "mark-iii": "7842b71b86032c17aac4fdacd466f4d282c4f62b"
  },
  "gnome-kit": {
-  "mark-iii": "09ed551c7a0ccc9131e5ac9d1d32901d430a45a7"
+  "mark-iii": "b8cdcc495933ccb335e0a826256294348583a199"
  },
  "i18n-kit": {
   "mark-iii": "6491d0fc925f964bf0108fb11f5c6090435a0c08"
