@@ -1,4 +1,7 @@
 {
+ "ai-kit": {
+  "mark-unstable": "db01d4a449e33101b62bd531f4a0456655a89b78"
+ },
  "browser-kit": {
   "mark-unstable": "26fc22b2f25e2733b96f5f852137d6ef9aeeb572"
  },
@@ -22,6 +25,9 @@
  },
  "editors-kit": {
   "mark-unstable": "6f246245c724cd10d1f143bde9d968bdd64038af"
+ },
+ "forensics-kit": {
+  "mark-unstable": "3deecca96944bce7db4104542d6b7fb4fe479726"
  },
  "games-kit": {
   "mark-unstable": "3e636e330d1f63958cefa6cdf6712e97948ddbcb"
@@ -48,7 +54,7 @@
   "mark-unstable": "257d7af4bc2567fab9c079490417d718fcacdfe0"
  },
  "mark-kit": {
-  "mark-unstable": "fde8ffbfc9840ff1869e499a0b79160954170dd5"
+  "mark-unstable": "3b37238f3acde54831b84b459cad6d19521cf9e3"
  },
  "media-kit": {
   "mark-unstable": "2ac9cd280e52d463366447c9ee29ce92f09b2c59"
@@ -61,6 +67,9 @@
  },
  "portage-kit": {
   "mark-unstable": "8475c7d6b78b3bf6121743ef6b518793d32c0dcf"
+ },
+ "python-build-tools-kit": {
+  "mark-unstable": "84825b3ec8b05c8a325d7c34da0be513e0830dc2"
  },
  "python-kit": {
   "mark-unstable": "2f895b437d5475acbeaa3f92a985c12cc6399d4d"
@@ -85,6 +94,9 @@
  },
  "xfce-kit": {
   "mark-unstable": "41905e4e564ab501725ae8a8027b9e39545e2682"
+ },
+ "xlibre-kit": {
+  "mark-unstable": "3dcae900e4c92183f69de2ace0b46844c185662e"
  },
  "xorg-kit": {
   "mark-unstable": "c0a4b649b8a51b7f410a7035cd40b287ef20c02c"

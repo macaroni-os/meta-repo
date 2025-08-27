@@ -29,9 +29,19 @@
     "xfce-kit",
     "xorg-kit",
     "java-kit",
-    "qt-kit"
+    "qt-kit",
+    "xlibre-kit",
+    "forensics-kit",
+    "ai-kit",
+    "python-build-tools-kit"
   ],
   "kit_settings": {
+    "ai-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
     "browser-kit": {
       "stability": {
         "mark-unstable": "prime"
@@ -75,6 +85,12 @@
       "type": "auto"
     },
     "editors-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
+    "forensics-kit": {
       "stability": {
         "mark-unstable": "prime"
       },
@@ -158,6 +174,12 @@
       },
       "type": "auto"
     },
+    "python-build-tools-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
     "python-kit": {
       "stability": {
         "mark-unstable": "prime"
@@ -206,6 +228,12 @@
       },
       "type": "auto"
     },
+    "xlibre-kit": {
+      "stability": {
+        "mark-unstable": "prime"
+      },
+      "type": "auto"
+    },
     "xorg-kit": {
       "stability": {
         "mark-unstable": "prime"
@@ -214,6 +242,9 @@
     }
   },
   "release_defs": {
+    "ai-kit": [
+      "mark-unstable"
+    ],
     "browser-kit": [
       "mark-unstable"
     ],
@@ -236,6 +267,9 @@
       "mark-unstable"
     ],
     "editors-kit": [
+      "mark-unstable"
+    ],
+    "forensics-kit": [
       "mark-unstable"
     ],
     "games-kit": [
@@ -277,6 +311,9 @@
     "portage-kit": [
       "mark-unstable"
     ],
+    "python-build-tools-kit": [
+      "mark-unstable"
+    ],
     "python-kit": [
       "mark-unstable"
     ],
@@ -299,6 +336,9 @@
       "mark-unstable"
     ],
     "xfce-kit": [
+      "mark-unstable"
+    ],
+    "xlibre-kit": [
       "mark-unstable"
     ],
     "xorg-kit": [

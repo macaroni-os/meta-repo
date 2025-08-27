@@ -1,0 +1,4 @@
+[xlibre-kit]
+location = /var/git/meta-repo/kits/xlibre-kit
+auto-sync = no
+priority = 1
