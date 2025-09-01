@@ -1,4 +1,7 @@
 {
+ "ai-kit": {
+  "mark-iii": "e4a383d24efa09664bbe9b2e9360a9311b067f53"
+ },
  "browser-kit": {
   "mark-iii": "f2e55b2448cedee320f7cd3f276988fd2da62097"
  },
@@ -15,13 +18,16 @@
   "mark-iii": "9146bfbc17002c6afa27042784711346e350f790"
  },
  "desktop-kit": {
-  "mark-iii": "27962564d7cac53f6c929c3bbd9232c899ae79ba"
+  "mark-iii": "7f50fc84a6383ddda06daf791726fcb46b09f56b"
  },
  "dev-kit": {
   "mark-iii": "7e0fe6a7342765531a7d85baa550c2f16877c37b"
  },
  "editors-kit": {
   "mark-iii": "00f83aad3189bec2cb713f167b7b8dd46f4bba90"
+ },
+ "forensics-kit": {
+  "mark-iii": "f67b806571f69ede8890495d6c53859278e8f732"
  },
  "games-kit": {
   "mark-iii": "7842b71b86032c17aac4fdacd466f4d282c4f62b"
