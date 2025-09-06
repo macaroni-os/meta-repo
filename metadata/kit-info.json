@@ -21,9 +21,17 @@
     "ruby-kit",
     "java-kit",
     "php-kit",
-    "lisp-scheme-kit"
+    "lisp-scheme-kit",
+    "ai-kit",
+    "forensics-kit"
   ],
   "kit_settings": {
+    "ai-kit": {
+      "stability": {
+        "mark-xl": "prime"
+      },
+      "type": "auto"
+    },
     "core-hw-kit": {
       "stability": {
         "mark-xl": "prime"
@@ -49,6 +57,12 @@
       "type": "auto"
     },
     "editors-kit": {
+      "stability": {
+        "mark-xl": "prime"
+      },
+      "type": "auto"
+    },
+    "forensics-kit": {
       "stability": {
         "mark-xl": "prime"
       },
@@ -158,6 +172,9 @@
     }
   },
   "release_defs": {
+    "ai-kit": [
+      "mark-xl"
+    ],
     "core-hw-kit": [
       "mark-xl"
     ],
@@ -171,6 +188,9 @@
       "mark-xl"
     ],
     "editors-kit": [
+      "mark-xl"
+    ],
+    "forensics-kit": [
       "mark-xl"
     ],
     "java-kit": [

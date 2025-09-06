@@ -1,4 +1,7 @@
 {
+ "ai-kit": {
+  "mark-xl": "a7bbf99a4a9d342e4c69b0391733c17e6cf7b94e"
+ },
  "core-hw-kit": {
   "mark-xl": "7c3fa8a17f41413f0cea1b1ea387f7a3548b7147"
  },
@@ -13,6 +16,9 @@
  },
  "editors-kit": {
   "mark-xl": "9c7c4d33d932ce9a6cd314ce40d74021ffaaee14"
+ },
+ "forensics-kit": {
+  "mark-xl": "4b6a5240da6fc6d09830864b67570b326e9c837d"
  },
  "java-kit": {
   "mark-xl": "f048db8931e18b0d4bdc30a8961e756c042d4edb"

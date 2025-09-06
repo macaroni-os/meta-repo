@@ -1,0 +1,4 @@
+[ai-kit]
+location = /var/git/meta-repo/kits/ai-kit
+auto-sync = no
+priority = 1
