@@ -9,7 +9,7 @@
   "mark-xl": "f4a2c84d771c405537ffe7e84e270e6f34685572"
  },
  "core-server-kit": {
-  "mark-xl": "ab57f8c44bc04379a4a48bf09140b6e08fc9eea7"
+  "mark-xl": "ddff9dbff8de0d0c5edeb7165fb3b9584b0b8128"
  },
  "dev-kit": {
   "mark-xl": "63b2571fdab282efdfce1041f191bbad7a099b1d"
@@ -24,10 +24,10 @@
   "mark-xl": "f048db8931e18b0d4bdc30a8961e756c042d4edb"
  },
  "kernel-kit": {
-  "mark-xl": "7e9e519912fcfe7ab04dce2c05bf6d25fb720ddc"
+  "mark-xl": "b0bf6e6c0cd836ceda2d42451059c8f193a99075"
  },
  "lang-kit": {
-  "mark-xl": "332511b0c4387474abb9f68006f93e7f0c6b7801"
+  "mark-xl": "9b0cf8b6470fdeb0d420b462ae4e793d9e9dc713"
  },
  "lisp-scheme-kit": {
   "mark-xl": "bc33661f4322083955d4dd7a3682625a22994105"
@@ -39,7 +39,7 @@
   "mark-xl": "58b4a8f1fa8f0853beebb565f52163fa1fd0992b"
  },
  "net-kit": {
-  "mark-xl": "7d6fe950876b60deaa06026f9147a48ccb4f8aae"
+  "mark-xl": "46dadceb64e45580ff285ec541ec426bfcb9cc64"
  },
  "perl-kit": {
   "mark-xl": "20e12ee36abd2dd9ec4133c005e554f15d35c90a"
