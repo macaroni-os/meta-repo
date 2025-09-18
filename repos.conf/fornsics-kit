@@ -1,0 +1,4 @@
+[fornsics-kit]
+location = /var/git/meta-repo/kits/fornsics-kit
+auto-sync = no
+priority = 1

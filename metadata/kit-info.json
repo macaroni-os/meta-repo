@@ -31,9 +31,17 @@
     "xorg-kit",
     "games-kit",
     "php-kit",
-    "lisp-scheme-kit"
+    "lisp-scheme-kit",
+    "ai-kit",
+    "fornsics-kit"
   ],
   "kit_settings": {
+    "ai-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
     "browser-kit": {
       "stability": {
         "mark-i": "prime"
@@ -77,6 +85,12 @@
       "type": "auto"
     },
     "editors-kit": {
+      "stability": {
+        "mark-i": "prime"
+      },
+      "type": "auto"
+    },
+    "fornsics-kit": {
       "stability": {
         "mark-i": "prime"
       },
@@ -228,6 +242,9 @@
     }
   },
   "release_defs": {
+    "ai-kit": [
+      "mark-i"
+    ],
     "browser-kit": [
       "mark-i"
     ],
@@ -250,6 +267,9 @@
       "mark-i"
     ],
     "editors-kit": [
+      "mark-i"
+    ],
+    "fornsics-kit": [
       "mark-i"
     ],
     "games-kit": [
