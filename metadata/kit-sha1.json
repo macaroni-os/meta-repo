@@ -1,6 +1,6 @@
 {
  "ai-kit": {
-  "mark-i": "34b4ecf11f8043c1c0dedb1dba75f8ab32bc996c"
+  "mark-i": "49149c58d5a907907ff6b07a1d7fc77a28a3a6c9"
  },
  "browser-kit": {
   "mark-i": "08cd47370074c984493be9f1c1d0f3a0ed018eac"
@@ -26,7 +26,7 @@
  "editors-kit": {
   "mark-i": "bc3519cccdd02e9bdeec2e2e2065fd885f589732"
  },
- "fornsics-kit": {
+ "forensics-kit": {
   "mark-i": "54fecfa93dd7567d86b0e1d6e94dde883e5cf9da"
  },
  "games-kit": {

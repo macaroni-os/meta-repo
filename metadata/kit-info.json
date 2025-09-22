@@ -33,7 +33,7 @@
     "php-kit",
     "lisp-scheme-kit",
     "ai-kit",
-    "fornsics-kit"
+    "forensics-kit"
   ],
   "kit_settings": {
     "ai-kit": {
@@ -90,7 +90,7 @@
       },
       "type": "auto"
     },
-    "fornsics-kit": {
+    "forensics-kit": {
       "stability": {
         "mark-i": "prime"
       },
@@ -269,7 +269,7 @@
     "editors-kit": [
       "mark-i"
     ],
-    "fornsics-kit": [
+    "forensics-kit": [
       "mark-i"
     ],
     "games-kit": [
