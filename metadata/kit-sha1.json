@@ -1,6 +1,6 @@
 {
  "ai-kit": {
-  "mark-unstable": "a5e839d9b113bba8e61a72f6e52a91eb8686b1c0"
+  "mark-unstable": "90b9053da8bda715c51ae3bf65176b6bb5f9bd4c"
  },
  "browser-kit": {
   "mark-unstable": "a489be2e00b861dab62c67b9b1f53d4d2af03385"
@@ -18,7 +18,7 @@
   "mark-unstable": "44762667cbb3bcf14dbd63ca4f84afee59e65673"
  },
  "desktop-kit": {
-  "mark-unstable": "fa6577d6ec167a70ab3968d0dd9613fc224c78f8"
+  "mark-unstable": "525bf4359bfd6de1f3bd20d34def8e7212d778b4"
  },
  "dev-kit": {
   "mark-unstable": "5d93782fc05972d75e278316f2414b505298e40b"
@@ -45,7 +45,7 @@
   "mark-unstable": "b9b05117f95faa244ee40ddce4eddc4773df3a9f"
  },
  "kernel-kit": {
-  "mark-unstable": "f2fd759b54babd58515461fce6388a94874c0e55"
+  "mark-unstable": "7ef26e3790ccfd0d708efa46b1e1016cdeeb8112"
  },
  "lang-kit": {
   "mark-unstable": "c39f014c17e9203171304716be5a592c69fa2e71"
