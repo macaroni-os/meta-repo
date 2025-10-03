@@ -68,11 +68,14 @@
  "portage-kit": {
   "mark-31": "cf5605cb7a1dfc61cbeb8243b8d8ddfc21223b68"
  },
+ "python-build-tools-kit": {
+  "mark-31": "506d67f688e03381c9213327f04bd412f9fca2a9"
+ },
  "python-kit": {
   "mark-31": "f0d21d77c2b8568e0b8bcf1aa5280875af2a48bb"
  },
  "python-modules-kit": {
-  "mark-31": "cd2dbaaf381e77db1f44609284d47d9be386c069"
+  "mark-31": "93917f08fc0b730c9082018878eeb4f2eb707394"
  },
  "qt-kit": {
   "mark-31": "dab21810efb97a1df6acc92209f8ee9d93d4776c"

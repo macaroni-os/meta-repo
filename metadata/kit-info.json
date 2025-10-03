@@ -31,7 +31,8 @@
     "xorg-kit",
     "games-kit",
     "php-kit",
-    "lisp-scheme-kit"
+    "lisp-scheme-kit",
+    "python-build-tools-kit"
   ],
   "kit_settings": {
     "browser-kit": {
@@ -172,6 +173,12 @@
       },
       "type": "auto"
     },
+    "python-build-tools-kit": {
+      "stability": {
+        "mark-31": "prime"
+      },
+      "type": "auto"
+    },
     "python-kit": {
       "stability": {
         "mark-31": "prime"
@@ -295,6 +302,9 @@
       "mark-31"
     ],
     "portage-kit": [
+      "mark-31"
+    ],
+    "python-build-tools-kit": [
       "mark-31"
     ],
     "python-kit": [

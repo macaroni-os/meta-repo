@@ -1,0 +1,4 @@
+[python-build-tools-kit]
+location = /var/git/meta-repo/kits/python-build-tools-kit
+auto-sync = no
+priority = 1
