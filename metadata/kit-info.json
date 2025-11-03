@@ -21,9 +21,17 @@
     "ruby-kit",
     "java-kit",
     "php-kit",
-    "lisp-scheme-kit"
+    "lisp-scheme-kit",
+    "python-build-tools-kit",
+    "ai-kit"
   ],
   "kit_settings": {
+    "ai-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
     "core-hw-kit": {
       "stability": {
         "mark-v": "prime"
@@ -114,6 +122,12 @@
       },
       "type": "auto"
     },
+    "python-build-tools-kit": {
+      "stability": {
+        "mark-v": "prime"
+      },
+      "type": "auto"
+    },
     "python-kit": {
       "stability": {
         "mark-v": "prime"
@@ -158,6 +172,9 @@
     }
   },
   "release_defs": {
+    "ai-kit": [
+      "mark-v"
+    ],
     "core-hw-kit": [
       "mark-v"
     ],
@@ -201,6 +218,9 @@
       "mark-v"
     ],
     "portage-kit": [
+      "mark-v"
+    ],
+    "python-build-tools-kit": [
       "mark-v"
     ],
     "python-kit": [
