@@ -1,9 +1,9 @@
 {
  "ai-kit": {
-  "mark-iii": "73f6fd5ce6c2a3e91a1882b6894c2d8e900d7208"
+  "mark-iii": "47bf28447b6c79e34f0cf0d15b5a076ecef33f22"
  },
  "browser-kit": {
-  "mark-iii": "b6832a1cda7a512b3334962a65d2782942e621ca"
+  "mark-iii": "b51dbe2c2a6c07faa95be22bfb601f7334828fa0"
  },
  "core-gl-kit": {
   "mark-iii": "b04da1da140495a6af4e85baa266222f25f38ce5"
@@ -15,7 +15,7 @@
   "mark-iii": "36095a30377de78876f557d107520fcdaef7d2ca"
  },
  "core-server-kit": {
-  "mark-iii": "ed3d7d53f40170399a09ad1ce3bfe089fead7b05"
+  "mark-iii": "1ddfc35254b125a3113c7b0c768af29270c14178"
  },
  "desktop-kit": {
   "mark-iii": "9466d8c5b10e14c940741bbddc593e6b70d2f657"
@@ -48,7 +48,7 @@
   "mark-iii": "1b789c43f22f63f6a552a547d7544f464547ae3f"
  },
  "lang-kit": {
-  "mark-iii": "673de83cb1fe6f01528243ccee5499475f89e377"
+  "mark-iii": "b70209f5c420440a31b37c84c1dc1ec83860f593"
  },
  "lisp-scheme-kit": {
   "mark-iii": "d8d286e4143b2810246c78509d2c2cb0e9b17a73"
@@ -81,7 +81,7 @@
   "mark-iii": "93d2cf44cea3ce928a30572cc312f10008d1257d"
  },
  "qt-kit": {
-  "mark-iii": "fc413ba275357ff927731a166d02841aa71ad734"
+  "mark-iii": "1ebce3c553eac52cf6b321c90eed8da92a09b03e"
  },
  "ruby-kit": {
   "mark-iii": "238c694937c44207a4a7591afdd5020e2c20a6b5"
