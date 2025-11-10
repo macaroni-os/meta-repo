@@ -1,9 +1,9 @@
 {
  "ai-kit": {
-  "mark-iii": "47bf28447b6c79e34f0cf0d15b5a076ecef33f22"
+  "mark-iii": "d9199757972720131cda70e7c4e1813828d0d2ac"
  },
  "browser-kit": {
-  "mark-iii": "b51dbe2c2a6c07faa95be22bfb601f7334828fa0"
+  "mark-iii": "5b73d28e02f825d3a85c4c05fd2c5ae42f5fa2f8"
  },
  "core-gl-kit": {
   "mark-iii": "b04da1da140495a6af4e85baa266222f25f38ce5"
@@ -12,7 +12,7 @@
   "mark-iii": "61da4a0a8983296b9cd3f32d517cc4fb9b87494d"
  },
  "core-kit": {
-  "mark-iii": "36095a30377de78876f557d107520fcdaef7d2ca"
+  "mark-iii": "5bb6962393d1da97acb70ec7be8366322ea135ce"
  },
  "core-server-kit": {
   "mark-iii": "c323b84ff5f766275ec2a6aec3f87718352bea1c"
@@ -81,7 +81,7 @@
   "mark-iii": "3cc26b7cf1a77473e8b42d2a6e96a652d954e6bc"
  },
  "qt-kit": {
-  "mark-iii": "f739ea63416790c5b2f999bc2e0de7f0bd1ab27f"
+  "mark-iii": "f1099ed9c258e10daf212af80e968df383f0a693"
  },
  "ruby-kit": {
   "mark-iii": "238c694937c44207a4a7591afdd5020e2c20a6b5"
