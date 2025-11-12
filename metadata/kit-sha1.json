@@ -6,7 +6,7 @@
   "mark-unstable": "2ccc20f34d474515fe2802d03b29bac8d047b22a"
  },
  "core-gl-kit": {
-  "mark-unstable": "8d5fcb1e55173351e337a0ef5c2d59c429823b9c"
+  "mark-unstable": "aaecea76c5a7650b44efc7bef003374d0dc2b4cb"
  },
  "core-hw-kit": {
   "mark-unstable": "ff25898d59b12c2d603fc6d7ee389adba98613bd"
@@ -75,7 +75,7 @@
   "mark-unstable": "2f895b437d5475acbeaa3f92a985c12cc6399d4d"
  },
  "python-modules-kit": {
-  "mark-unstable": "3a7fd76d0be82b27b4a402630071e85353652647"
+  "mark-unstable": "b632255e1565dbf48736411eeb4f25f1d73bb4ed"
  },
  "qt-kit": {
   "mark-unstable": "e16f858f9cf8c4ee72695ff9de4f52eadafde646"
@@ -99,6 +99,6 @@
   "mark-unstable": "3dcae900e4c92183f69de2ace0b46844c185662e"
  },
  "xorg-kit": {
-  "mark-unstable": "0d2c627e44e3c360493a1f9a1dec99e8eb311454"
+  "mark-unstable": "3135bd3d21cd3e2292667cd225509e178c994d6b"
  }
 }
