@@ -15,13 +15,13 @@
   "mark-iii": "5bb6962393d1da97acb70ec7be8366322ea135ce"
  },
  "core-server-kit": {
-  "mark-iii": "e95d6480ace0bb3a496e8a5fa4fc863f646d96a7"
+  "mark-iii": "e102869c5c733d0bba6cbe83fefaf2c5518ee269"
  },
  "desktop-kit": {
-  "mark-iii": "9abd957e87ab02a54bc60af6de14348c4c4be5d6"
+  "mark-iii": "3f8169b59757bd64dbc3c9d0b66299baf020283c"
  },
  "dev-kit": {
-  "mark-iii": "824894a5ea0be92c9eb83afd39d840f0c6fad32d"
+  "mark-iii": "6ee2740f1806ead75067853c51c311207704c0d0"
  },
  "editors-kit": {
   "mark-iii": "00f83aad3189bec2cb713f167b7b8dd46f4bba90"
@@ -63,7 +63,7 @@
   "mark-iii": "9d733aa479c927d47c79f5a19d3df2e70953d351"
  },
  "net-kit": {
-  "mark-iii": "7fee62157da295f471e9892f1bd1e9469ff68cd4"
+  "mark-iii": "03470bc93e5e7cf11f0133942edb276db65b8373"
  },
  "perl-kit": {
   "mark-iii": "cb61e0a66ff5037878e6f55b79916ad2f679ae25"
@@ -78,7 +78,7 @@
   "mark-iii": "e8525d3c8e0839e92d8db57973bafaca338bb828"
  },
  "python-modules-kit": {
-  "mark-iii": "4bdd6cccce52efa2b47038d73bd49f376c778e7a"
+  "mark-iii": "411017927fe401e8aa75f7514dddaeee9e60db08"
  },
  "qt-kit": {
   "mark-iii": "f1099ed9c258e10daf212af80e968df383f0a693"
