@@ -1,9 +1,9 @@
 {
  "ai-kit": {
-  "mark-iii": "af029c143ea4897d04b8b1e6dded66cbe4294174"
+  "mark-iii": "4ff44ca5cd4b641d87a61e2c9839efcf29a72315"
  },
  "browser-kit": {
-  "mark-iii": "185eabc90ec33d0371abb3adb231b844ef87605e"
+  "mark-iii": "e46d4e4966d10a123aa6a8f0f794ee460c15a1d4"
  },
  "core-gl-kit": {
   "mark-iii": "b04da1da140495a6af4e85baa266222f25f38ce5"
@@ -48,7 +48,7 @@
   "mark-iii": "bf0197de15b37af31133dd1150879e255680f584"
  },
  "lang-kit": {
-  "mark-iii": "d66edae0f0d34e17f7c02aa2d79e81eef69a4d41"
+  "mark-iii": "1dbe15cce2b374652184e7f30c2c9140681aa4d4"
  },
  "lisp-scheme-kit": {
   "mark-iii": "d8d286e4143b2810246c78509d2c2cb0e9b17a73"
