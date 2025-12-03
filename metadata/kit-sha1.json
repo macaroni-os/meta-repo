@@ -1,6 +1,6 @@
 {
  "ai-kit": {
-  "mark-xl": "31f2bd760ae5e946e96854138f89479aa7dc7c4f"
+  "mark-xl": "f2493c662b3e91ca5d857a52941cc8cf0a8a7a36"
  },
  "core-hw-kit": {
   "mark-xl": "61cf0660e36e97c256639556cadd33439774058e"
@@ -27,7 +27,7 @@
   "mark-xl": "cb53a02dbbfbade7d7fd5d7e720407a3966630dc"
  },
  "lang-kit": {
-  "mark-xl": "936a9d3f6649e51ce6acb70ec1b1e115ae13e533"
+  "mark-xl": "13b3265b5868789357048efa518adda62d29d27e"
  },
  "lisp-scheme-kit": {
   "mark-xl": "bc33661f4322083955d4dd7a3682625a22994105"
