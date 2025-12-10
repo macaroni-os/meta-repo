@@ -15,10 +15,10 @@
   "mark-iii": "5bb6962393d1da97acb70ec7be8366322ea135ce"
  },
  "core-server-kit": {
-  "mark-iii": "3b3573048f32c4080894b061611672067fab5bee"
+  "mark-iii": "dff02a2e0448b2afb833f61a3ba43a3ea3f01782"
  },
  "desktop-kit": {
-  "mark-iii": "02acfdea9dbd4883209810adddd66236402f3f1f"
+  "mark-iii": "272099f9430a25ce569e891d54cce529dcd6529c"
  },
  "dev-kit": {
   "mark-iii": "6ee2740f1806ead75067853c51c311207704c0d0"
@@ -45,10 +45,10 @@
   "mark-iii": "fe6b9bc5a86c66ed70f28915af14255268ea0b21"
  },
  "kernel-kit": {
-  "mark-iii": "38ac5443ea106df997adba97c5ce8d35e7dcd12d"
+  "mark-iii": "7bfd46f36937e1388ea57d2636a416eb14297cf0"
  },
  "lang-kit": {
-  "mark-iii": "0322d9ee524dec6c5b15830626a4c644dd76ae44"
+  "mark-iii": "0edb2dc0197a164e219b584d40de1f7620ec0623"
  },
  "lisp-scheme-kit": {
   "mark-iii": "d8d286e4143b2810246c78509d2c2cb0e9b17a73"
