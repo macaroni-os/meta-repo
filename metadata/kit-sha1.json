@@ -12,13 +12,13 @@
   "mark-31": "e95277676d6371fa41c46b1a6044a9a8522c1193"
  },
  "core-server-kit": {
-  "mark-31": "57c15018d6b556a3dd670098584801ca0f56719c"
+  "mark-31": "ec920c9c3ce2fd5db1947d1b0d967bedf3ad4954"
  },
  "desktop-kit": {
   "mark-31": "aa808589bebb6495f9881df4cbdc27874917c521"
  },
  "dev-kit": {
-  "mark-31": "e3689007da5a23fa338f7a9c7f92e58609f4d587"
+  "mark-31": "dfa13dc302907c8883b231b586842ab55aa71582"
  },
  "editors-kit": {
   "mark-31": "326d6df2337b3c5a1fb99dc1186a016f669c37c6"
@@ -42,7 +42,7 @@
   "mark-31": "ff2042ad68e846ce56dafc17d4ca2dd2f8cfc39d"
  },
  "lang-kit": {
-  "mark-31": "958a1765f5cf14249e0f674301f776ce839ed29c"
+  "mark-31": "ac60c9d9fc8433237ae44a9bfbb88caf8945f7e6"
  },
  "lisp-scheme-kit": {
   "mark-31": "4dc002277c7302c219c40b6a649ecdab7859cced"
@@ -51,10 +51,10 @@
   "mark-31": "0b0b0f265a16d6177b3e9091ddcb06712bc46a16"
  },
  "mark-kit": {
-  "mark-31": "5106c3be3195d68910ce491ffd785cd58fa5422e"
+  "mark-31": "d30fd3f69f332d07425ad3a52e1721331d045568"
  },
  "media-kit": {
-  "mark-31": "82fb75a5b562f908eefb74d3f660fa1c6f54bbb0"
+  "mark-31": "6d980efb3c13af58235a4437227828660705b3c4"
  },
  "net-kit": {
   "mark-31": "eb118dbfbfa0055ce04b0f07a6fe8e5363a0331f"
@@ -75,7 +75,7 @@
   "mark-31": "666d5ffa8bea1e0825884d3a523cae33cd738bf1"
  },
  "python-modules-kit": {
-  "mark-31": "6013acc72a7458b491d5650b4670573bce84de26"
+  "mark-31": "12af00f76e7af96b7ea3ec0f2bffae3e31bcbeee"
  },
  "qt-kit": {
   "mark-31": "c91612108537d6ccd4635d9ce084a5a695cf7084"
