@@ -33,7 +33,7 @@
   "mark-unstable": "3e636e330d1f63958cefa6cdf6712e97948ddbcb"
  },
  "gnome-kit": {
-  "mark-unstable": "f6e9b2826476001285dd214cf0ae143a79069844"
+  "mark-unstable": "5315caf8c3f6398298a0e48c9e5f6365cad8405d"
  },
  "i18n-kit": {
   "mark-unstable": "191fd33913c6fa99b10937089c1e83377cee8e14"
@@ -87,7 +87,7 @@
   "mark-unstable": "06472db2da19205555bdbf3b2ec1b6b81f1153d8"
  },
  "security-kit": {
-  "mark-unstable": "ac07f361ac14b25631499c90997e6c22bd8c5ae6"
+  "mark-unstable": "6f6e46cd3fa51910a22c6296401221904bbd361d"
  },
  "text-kit": {
   "mark-unstable": "873454abe06ea0f3a76b6400aed9217eaccd66ac"
