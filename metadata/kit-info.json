@@ -33,7 +33,8 @@
     "php-kit",
     "lisp-scheme-kit",
     "ai-kit",
-    "forensics-kit"
+    "forensics-kit",
+    "python-build-tools-kit"
   ],
   "kit_settings": {
     "ai-kit": {
@@ -186,6 +187,12 @@
       },
       "type": "auto"
     },
+    "python-build-tools-kit": {
+      "stability": {
+        "mark-iii": "prime"
+      },
+      "type": "auto"
+    },
     "python-kit": {
       "stability": {
         "mark-iii": "prime"
@@ -315,6 +322,9 @@
       "mark-iii"
     ],
     "portage-kit": [
+      "mark-iii"
+    ],
+    "python-build-tools-kit": [
       "mark-iii"
     ],
     "python-kit": [
