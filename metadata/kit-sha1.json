@@ -33,7 +33,7 @@
   "mark-iii": "7842b71b86032c17aac4fdacd466f4d282c4f62b"
  },
  "gnome-kit": {
-  "mark-iii": "b8cdcc495933ccb335e0a826256294348583a199"
+  "mark-iii": "662dffea854382f8236f523327a0cac00f043482"
  },
  "i18n-kit": {
   "mark-iii": "2f9e99a0572ca4388f726ecb49a52dfc2b85e325"
@@ -96,12 +96,12 @@
   "mark-iii": "88a0b762843e7aa28b788735f2117a77927749d4"
  },
  "text-kit": {
-  "mark-iii": "2542614587cdd3d79c73663b07392d9a647fe242"
+  "mark-iii": "a344c8fbae1fda6ef47945cd2c42b06d67fab869"
  },
  "xfce-kit": {
   "mark-iii": "54623089a1ed75e4ad26a9ef6cb1c4e16e7d9ddf"
  },
  "xorg-kit": {
-  "mark-iii": "996961311d8b0766dd6d04e6bec15fee52cd8d01"
+  "mark-iii": "5a08e5df16481984cb4d680a04eb4b5c3efbef7d"
  }
 }
