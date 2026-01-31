@@ -6,7 +6,7 @@
   "mark-unstable": "1a7df6ab00f58b3474166f643f6c1e45198d1e33"
  },
  "core-gl-kit": {
-  "mark-unstable": "8cdecae16e439adf9a6b3b3e8274324ead7daff6"
+  "mark-unstable": "71f9189d8fb0403e415d507819a7763b593811e3"
  },
  "core-hw-kit": {
   "mark-unstable": "9b23f4201a0f5a761ee430f24f94f3a5754419d5"
@@ -42,7 +42,7 @@
   "mark-unstable": "11bc4d5a814cab21c6082a0706cc77c627cac983"
  },
  "kde-kit": {
-  "mark-unstable": "4630d2c9be8532590e37707a03f3db6769b5a9f6"
+  "mark-unstable": "8696afb17c27f4174d6875d0d01f1ff52edf0129"
  },
  "kernel-kit": {
   "mark-unstable": "296e694dd8ea92dca46155a8ce18766b4eadcfea"
