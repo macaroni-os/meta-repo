@@ -15,7 +15,7 @@
   "mark-iii": "fed68c13dfa9d5ff508898d9b4857eb699c713c5"
  },
  "core-server-kit": {
-  "mark-iii": "220d7efdda6d3b52abb99e078e6d300907e9b75c"
+  "mark-iii": "10ca029f98d68daabf3ab1b6ca127fb1a2775d71"
  },
  "desktop-kit": {
   "mark-iii": "2838cf8abf4332bbcad4aa320f5b8257d21f80dd"
@@ -102,6 +102,6 @@
   "mark-iii": "54623089a1ed75e4ad26a9ef6cb1c4e16e7d9ddf"
  },
  "xorg-kit": {
-  "mark-iii": "380be9c839846654d8b40665d17b8bbdc923beb9"
+  "mark-iii": "2f09bcbaa87435c63084b94721da3b4f9551eb8e"
  }
 }
