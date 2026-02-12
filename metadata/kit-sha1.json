@@ -12,16 +12,16 @@
   "mark-iii": "b7dabd4d16161f0a799e0abeba244c963e256a83"
  },
  "core-kit": {
-  "mark-iii": "f82a55b04a9207dd4eb8ee224a27a42e02b2a37b"
+  "mark-iii": "74fb23bc3b3211fd4234a7d0756fbcbd81f70e5b"
  },
  "core-server-kit": {
-  "mark-iii": "a6cac91c1ab66d1be5a682be9eed12c7008a87b8"
+  "mark-iii": "3a5eef85fa97f92c996aac7211eb37c7475e52f8"
  },
  "desktop-kit": {
-  "mark-iii": "2838cf8abf4332bbcad4aa320f5b8257d21f80dd"
+  "mark-iii": "6d14dc138e985079c1c82d84fc457a1381a29cfb"
  },
  "dev-kit": {
-  "mark-iii": "50f351af782895b037247761202e0104b34842fb"
+  "mark-iii": "3dd988117129cdbb840474eff482ea2f29bd970c"
  },
  "editors-kit": {
   "mark-iii": "00f83aad3189bec2cb713f167b7b8dd46f4bba90"
@@ -45,10 +45,10 @@
   "mark-iii": "3276c008c2146f3d3498f3d203fbbcd6275544d2"
  },
  "kernel-kit": {
-  "mark-iii": "1b759dc7638bbdc18a12f4f2d7bb3a2664885b53"
+  "mark-iii": "b545dbfcdb6a22ff9605f66963d2cd2a18df0aaf"
  },
  "lang-kit": {
-  "mark-iii": "c50159274ab1ed21cb337918ed04cd7dd5ea3b56"
+  "mark-iii": "1d42733fc8f3ebca078fa0f4c5ba2e10fc6e0a39"
  },
  "lisp-scheme-kit": {
   "mark-iii": "d8d286e4143b2810246c78509d2c2cb0e9b17a73"
