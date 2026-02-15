@@ -1,6 +1,6 @@
 {
  "ai-kit": {
-  "mark-xl": "f1e72829ceb9af871c057ab16e6229e85655baa2"
+  "mark-xl": "c26d762e7e34459f61172863d81a1cf65788f647"
  },
  "core-hw-kit": {
   "mark-xl": "61cf0660e36e97c256639556cadd33439774058e"
@@ -9,7 +9,7 @@
   "mark-xl": "55bd064def09567f955795a356e46f2e10223d80"
  },
  "core-server-kit": {
-  "mark-xl": "acac0e2c18f97b64c72724351421d1d1098e94d0"
+  "mark-xl": "c5cc2697705ab0079937f926cf556c1353d707aa"
  },
  "dev-kit": {
   "mark-xl": "7c942b1edd6c271d363a865d26af624816286988"
@@ -36,7 +36,7 @@
   "mark-xl": "27f8f35bd746174bfabc8d025763568f692377d6"
  },
  "mark-kit": {
-  "mark-xl": "857c82261bdbfecd0ad7a0db6d4648850a732404"
+  "mark-xl": "d2042d8d2c4b33c0e00c79f4fbc4e645986fbb83"
  },
  "net-kit": {
   "mark-xl": "bd94c428f692b9725ac05f4d3db01583286dedd9"
