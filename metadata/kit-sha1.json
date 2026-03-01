@@ -3,10 +3,10 @@
   "mark-iii": "353cd660e6e95acb55c070de1414ae118fb0d1fc"
  },
  "browser-kit": {
-  "mark-iii": "7c7bf94a691d5005742714d45b86290bad4c2340"
+  "mark-iii": "43f86082badb36833e875bfd12384a76a2164565"
  },
  "core-gl-kit": {
-  "mark-iii": "bedd26a345da614f635c778687cd2305167cf063"
+  "mark-iii": "e480db7e613f1cb8bafa4c55f1daae63c683383e"
  },
  "core-hw-kit": {
   "mark-iii": "516f957b4c60b7921a80cfa5db36678f27c8860f"
@@ -33,7 +33,7 @@
   "mark-iii": "7842b71b86032c17aac4fdacd466f4d282c4f62b"
  },
  "gnome-kit": {
-  "mark-iii": "5b022b8beca0511911298b51753c9a74a62e2a7d"
+  "mark-iii": "cd594b0b7ef5918d788a1147181d7f4e63064cb2"
  },
  "i18n-kit": {
   "mark-iii": "ee690012948195810f51893a1c103ce2aa9e2ba8"
@@ -102,6 +102,6 @@
   "mark-iii": "54623089a1ed75e4ad26a9ef6cb1c4e16e7d9ddf"
  },
  "xorg-kit": {
-  "mark-iii": "970eacc92cb28df7912bf581599ddfe8625017d3"
+  "mark-iii": "06215317ef42e4f53cce4b064e0aeed76f48846e"
  }
 }
