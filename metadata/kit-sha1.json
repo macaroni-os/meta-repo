@@ -45,10 +45,10 @@
   "mark-iii": "209ab2ebb5acc272e516ca03b8fb1cc0ac342953"
  },
  "kernel-kit": {
-  "mark-iii": "ea1919c48e36a90a30f9ff354a9ce5abbbc282bb"
+  "mark-iii": "49cd143157fb678b65f5c69aab0dbbe6c68244d9"
  },
  "lang-kit": {
-  "mark-iii": "de04ba0fc52820ec5e2d162a4c5aac2b10b03290"
+  "mark-iii": "c32bbb4ceef1310233cbc5fa975cc2b9035cf6e3"
  },
  "lisp-scheme-kit": {
   "mark-iii": "d8d286e4143b2810246c78509d2c2cb0e9b17a73"
@@ -75,7 +75,7 @@
   "mark-iii": "f2e20777eab3c92bb9e0d9f067a5815325d064d2"
  },
  "python-build-tools-kit": {
-  "mark-iii": "acfa828fa1df7557a357bc5e77c9d94c923ce439"
+  "mark-iii": "b63c42a09319099152f543289e7f3c046dfda0a0"
  },
  "python-kit": {
   "mark-iii": "e8525d3c8e0839e92d8db57973bafaca338bb828"
