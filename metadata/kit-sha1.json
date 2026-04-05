@@ -1,9 +1,9 @@
 {
  "ai-kit": {
-  "mark-iii": "b82dfb1f9e3960844c7839c5c5df2ead1cafb010"
+  "mark-iii": "52c4aa3e445cddb0fd554f0eb8dbd65238b7b720"
  },
  "browser-kit": {
-  "mark-iii": "f9ee2aff9d8f8b75ec7a4708cb87800407106d12"
+  "mark-iii": "7e52d946db64ca8b9e918b670767ea7f24231336"
  },
  "core-gl-kit": {
   "mark-iii": "85c88d775478300d920c4a8cffb4d0de0050d157"
@@ -15,7 +15,7 @@
   "mark-iii": "9044b3e797e47e4f3e271c45bf389efc11806d53"
  },
  "core-server-kit": {
-  "mark-iii": "02030094f7d50b5ee09646f993fca9e186d2ff4b"
+  "mark-iii": "55c54150c05005c4b53aa0a5e49b13274854e618"
  },
  "desktop-kit": {
   "mark-iii": "b8dc5088f0b027a045c0ff670e6cc2c1b4de68bd"
@@ -33,13 +33,13 @@
   "mark-iii": "7842b71b86032c17aac4fdacd466f4d282c4f62b"
  },
  "gnome-kit": {
-  "mark-iii": "8b914d3edfe535a69178933b5b4a787f0205e603"
+  "mark-iii": "1463d78e0dbfb45989c0b98c56b5188afeec84c1"
  },
  "i18n-kit": {
   "mark-iii": "e5198ae0645dac0232bbe41f16fd0c9de407d039"
  },
  "java-kit": {
-  "mark-iii": "a21ea0c54dc1646c7f62d9a6433765368645086b"
+  "mark-iii": "ba9f9ea5600b1ebcb6c4b148fa430fb4a83c9002"
  },
  "kde-kit": {
   "mark-iii": "f294f2ab5df35f36635e48b7391207bc5d6d0365"
@@ -48,7 +48,7 @@
   "mark-iii": "bc935fbf76e5930b8df901dd2773edbccbb46070"
  },
  "lang-kit": {
-  "mark-iii": "d145306038f5ba436b7aa171874233fc6999f914"
+  "mark-iii": "9a1e214ae50eddf1605479f211510b55ccf05ca6"
  },
  "lisp-scheme-kit": {
   "mark-iii": "d8d286e4143b2810246c78509d2c2cb0e9b17a73"
@@ -60,7 +60,7 @@
   "mark-iii": "6badbf1eb8bb8d01c724a1f4b8a628e8c729f545"
  },
  "media-kit": {
-  "mark-iii": "9a20d016614284b308fe14b4215595968549179d"
+  "mark-iii": "a4c21bcfe1b61783d68db7572bd94b9c19e246ef"
  },
  "net-kit": {
   "mark-iii": "31aac5602a9e070d6c5c47457367c6ac1afbcece"
@@ -81,7 +81,7 @@
   "mark-iii": "24f1697e71ee8e28a95379698b68a2df9082d55f"
  },
  "python-modules-kit": {
-  "mark-iii": "78878fd23942e5e7048b5c41965a14ff59701e86"
+  "mark-iii": "b3067fbce9da2701de2e4eb582f17c3e75cdf3c7"
  },
  "qt-kit": {
   "mark-iii": "76ead4da2dfc4c16e4b416ad2b258b966c1e3c65"
