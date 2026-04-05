@@ -1,6 +1,6 @@
 {
  "ai-kit": {
-  "mark-xl": "3be266d288183ca640f291f0f7db380f0bc178b3"
+  "mark-xl": "864ed0543e70e091b920064e95f5bcd05a34c7d6"
  },
  "core-hw-kit": {
   "mark-xl": "61cf0660e36e97c256639556cadd33439774058e"
@@ -9,7 +9,7 @@
   "mark-xl": "656c240618f849dff82557646b4262566da2b473"
  },
  "core-server-kit": {
-  "mark-xl": "79ea3425e762da203e2884fa1ead83ba24089bbe"
+  "mark-xl": "fcc98c16c299336a094ef85d562681536ca754bf"
  },
  "dev-kit": {
   "mark-xl": "9a34fe7ea072dde208c507b0a4cdd6cb62dbb668"
@@ -72,6 +72,6 @@
   "mark-xl": "37217cb0fb83d5d9c776ec4004861b10cd07ce8d"
  },
  "xorg-kit": {
-  "mark-xl": "e9c7ca679f3ec3c9d42433d95c5bae26f274311f"
+  "mark-xl": "14dcd130a6fb1e027a50663aa7251092c91a2eeb"
  }
 }
