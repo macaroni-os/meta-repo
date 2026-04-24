@@ -12,7 +12,7 @@
   "mark-iii": "516f957b4c60b7921a80cfa5db36678f27c8860f"
  },
  "core-kit": {
-  "mark-iii": "9044b3e797e47e4f3e271c45bf389efc11806d53"
+  "mark-iii": "78ae68ba449a8caf1b315a487776d16860155c22"
  },
  "core-server-kit": {
   "mark-iii": "a1817d11a56fc7cd895d1cd2f285d3aad13257c4"
@@ -33,7 +33,7 @@
   "mark-iii": "7842b71b86032c17aac4fdacd466f4d282c4f62b"
  },
  "gnome-kit": {
-  "mark-iii": "1463d78e0dbfb45989c0b98c56b5188afeec84c1"
+  "mark-iii": "64e0bd143530aa5f5a72bad4d1816d9337c73cdf"
  },
  "i18n-kit": {
   "mark-iii": "e5198ae0645dac0232bbe41f16fd0c9de407d039"
@@ -45,7 +45,7 @@
   "mark-iii": "816cffe48b95224f96785f59c8bc14ebdd158488"
  },
  "kernel-kit": {
-  "mark-iii": "3cd12c1e6d8fc1368e33c6abdd91c0864aafb8b8"
+  "mark-iii": "786f96639cb53a3cdae1ff16265cc540858349e7"
  },
  "lang-kit": {
   "mark-iii": "9a1e214ae50eddf1605479f211510b55ccf05ca6"
@@ -63,7 +63,7 @@
   "mark-iii": "23a39191c772e657d82aa3bb717823bd6fa3d2cf"
  },
  "net-kit": {
-  "mark-iii": "b1a0b0529ea10ce3f5b018d1b8999aaf1b8950fc"
+  "mark-iii": "bc5da7d4666b4047ed2b8c4eeeb1259b2642d63c"
  },
  "perl-kit": {
   "mark-iii": "cb61e0a66ff5037878e6f55b79916ad2f679ae25"
