@@ -1,6 +1,6 @@
 {
  "ai-kit": {
-  "mark-xl": "57a571faf4f4de478798ab0bb70b79671b0ccde6"
+  "mark-xl": "2d9699157bdbb8c75093ed4b1ead737e8e2230cb"
  },
  "core-hw-kit": {
   "mark-xl": "61cf0660e36e97c256639556cadd33439774058e"
@@ -72,6 +72,6 @@
   "mark-xl": "0448348b01061a53e55023fbd5fb4a2f8454517c"
  },
  "xorg-kit": {
-  "mark-xl": "120fe80d2542d1f9cd151fe48c05ede61f580aa2"
+  "mark-xl": "42918e775bcff1bcdd4409c68e68027c7655aa13"
  }
 }
