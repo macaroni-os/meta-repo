@@ -1,6 +1,6 @@
 {
  "browser-kit": {
-  "mark-31": "b4158c802ae2ff2f47f9dc3f5187505b675cba67"
+  "mark-31": "47a26c47edc8702a83a932868c28a12a0afd3ae0"
  },
  "core-gl-kit": {
   "mark-31": "80f250b3452582f3f0d4689ab39adbfd3046063e"
@@ -12,13 +12,13 @@
   "mark-31": "fc6e6d9d65e0232ae6fc0a8e4ea5d9e7efea42d6"
  },
  "core-server-kit": {
-  "mark-31": "f1396217b9c8a4f94264b171ebbec7a692fff11f"
+  "mark-31": "e0723e0e73cec559a885b314ada88a397437b664"
  },
  "desktop-kit": {
-  "mark-31": "6d7943ec0181e880c8b228c77cf8705bacf61a2c"
+  "mark-31": "5f99759f4d4f3a6c2d81c84cffb8f7a1a8659dd6"
  },
  "dev-kit": {
-  "mark-31": "c615e93af115fd5141384ef3c5c83fbb574e4422"
+  "mark-31": "9e162ed0fdcac23cf9269d456e941e7844e95dd4"
  },
  "editors-kit": {
   "mark-31": "326d6df2337b3c5a1fb99dc1186a016f669c37c6"
@@ -42,7 +42,7 @@
   "mark-31": "b02b7119c91a263fd0f183809fe5fed63700ed71"
  },
  "lang-kit": {
-  "mark-31": "0ff6f6c7563444c581aeb8c412a39045e2e4f784"
+  "mark-31": "519734f3c0328be251de3f35942ad2b6bf7902ac"
  },
  "lisp-scheme-kit": {
   "mark-31": "4dc002277c7302c219c40b6a649ecdab7859cced"
@@ -57,7 +57,7 @@
   "mark-31": "f62dc3a5e66e39b96360c580949fe103ac584714"
  },
  "net-kit": {
-  "mark-31": "c22b4089f29703f55dac6892289825be2773b4ad"
+  "mark-31": "5a2483fbf5ceb8f54ab29518bbb90deed9b08628"
  },
  "perl-kit": {
   "mark-31": "277a8916e6a0b67fdfaa2dfe4fb1b124e83948dc"
@@ -69,13 +69,13 @@
   "mark-31": "6ff1183820c4c03ffed80740dc7fd1c93e784cf3"
  },
  "python-build-tools-kit": {
-  "mark-31": "1959804134ccfc038e60e9280b443758e4347b38"
+  "mark-31": "70b87952cb58c7c34a2752dac7409fb98123a203"
  },
  "python-kit": {
   "mark-31": "081d7c83a90cdcf82f75a4c4129ad2a5b4d8eef9"
  },
  "python-modules-kit": {
-  "mark-31": "de7b84e03fc9112cb6e8030dbb0da618b6f18bfb"
+  "mark-31": "5b921dafdde04682ea16852260d32346ceba5ceb"
  },
  "qt-kit": {
   "mark-31": "c874ced2e7e5c4b9603f0b44350b489e3ebb03fb"
