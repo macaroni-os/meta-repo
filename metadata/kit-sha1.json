@@ -1,6 +1,6 @@
 {
  "browser-kit": {
-  "mark-31": "e291b208178b538fc7734952a34459c963638e91"
+  "mark-31": "0e69ed744d151a4f571927be42e6cea6912df98b"
  },
  "core-gl-kit": {
   "mark-31": "80f250b3452582f3f0d4689ab39adbfd3046063e"
@@ -18,7 +18,7 @@
   "mark-31": "ca16ad66e7add5cb51f7038f0b1338df1c7ead9c"
  },
  "dev-kit": {
-  "mark-31": "5b3fdab6af9fdfa2a147add4810e20d5d37139b6"
+  "mark-31": "1f00fea02485d37c63c7f0ec25a084af70ed4d00"
  },
  "editors-kit": {
   "mark-31": "326d6df2337b3c5a1fb99dc1186a016f669c37c6"
@@ -69,7 +69,7 @@
   "mark-31": "6ff1183820c4c03ffed80740dc7fd1c93e784cf3"
  },
  "python-build-tools-kit": {
-  "mark-31": "8af00f7c7879e3b70f51602b4163db73d2416f0a"
+  "mark-31": "cf3320fcf7a20e622621b5c17f9ec9c574cc870d"
  },
  "python-kit": {
   "mark-31": "081d7c83a90cdcf82f75a4c4129ad2a5b4d8eef9"
