@@ -35,7 +35,7 @@ release:
     * [text-kit - {{ .Tag }}](https://github.com/macaroni-os/text-kit/releases/tag/{{ .Tag }})
     * [llvm-kit - {{ .Tag }}](https://github.com/macaroni-os/llvm-kit/releases/tag/{{ .Tag }})
     * [ruby-kit - {{ .Tag }}](https://github.com/macaroni-os/ruby-kit/releases/tag/{{ .Tag }})
-    * [java-kit - {{ .Tag }]](https://github.com/macaroni-os/java-kit/releases/tag/{{ .Tag }})
+    * [java-kit - {{ .Tag }}]](https://github.com/macaroni-os/java-kit/releases/tag/{{ .Tag }})
     * [php-kit - {{ .Tag }}](https://github.com/macaroni-os/php-kit/releases/tag/{{ .Tag }})
     * [lisp-scheme-kit - {{ .Tag }}](https://github.com/macaroni-os/lisp-scheme-kit/releases/tag/{{ .Tag }})
     * [python-build-tools-kit - {{ .Tag }}](https://github.com/macaroni-os/python-build-tools-kit/releases/tag/{{ .Tag }})
