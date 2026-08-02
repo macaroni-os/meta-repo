@@ -14,7 +14,33 @@ release:
 
     Enjoy!
 
-    Any user that wants to support our work for Macaroni could do this through the Github [Sponsor](https://github.com/sponsors/geaaru).
+    Any user that wants to support our work for Macaroni could do this through the Github [Sponsor](https://github.com/sponsors/geaaru) or [Liberapay](https://liberapay.com/geaaru/).
+
+    Kits tags:
+    * [core-kit - {{ .Tag }}](https://github.com/macaroni-os/core-kit/releases/tag/{{ .Tag }})
+    * [core-server-kit - {{ .Tag }}](https://github.com/macaroni-os/core-server-kit/releases/tag/{{ .Tag }})
+    * [core-hw-kit - {{ .Tag }}](https://github.com/macaroni-os/core-hw-kit/releases/tag/{{ .Tag }})
+    * [dev-kit - {{ .Tag }}](https://github.com/macaroni-os/dev-kit/releases/tag/{{ .Tag }})
+    * [lang-kit - {{ .Tag }}](https://github.com/macaroni-os/lang-kit/releases/tag/{{ .Tag }})
+    * [editors-kit - {{ .Tag }}](https://github.com/macaroni-os/editors-kit/releases/tag/{{ .Tag }})
+    * [perl-kit - {{ .Tag }}](https://github.com/macaroni-os/perl-kit/releases/tag/{{ .Tag }})
+    * [python-modules-kit - {{ .Tag }}](https://github.com/macaroni-os/python-modules-kit/releases/tag/{{ .Tag }})
+    * [python-kit - {{ .Tag }}](https://github.com/macaroni-os/python-kit/releases/tag/{{ .Tag }})
+    * [portage-kit - {{ .Tag }}](https://github.com/macaroni-os/portage-kit/releases/tag/{{ .Tag }})
+    * [net-kit - {{ .Tag }}](https://github.com/macaroni-os/net-kit/releases/tag/{{ .Tag }})
+    * [kernel-kit - {{ .Tag }}](https://github.com/macaroni-os/kernel-kit/releases/tag/{{ .Tag }})
+    * [security-kit - {{ .Tag }}](https://github.com/macaroni-os/security-kit/releases/tag/{{ .Tag }})
+    * [science-kit - {{ .Tag }}](https://github.com/macaroni-os/science-kit/releases/tag/{{ .Tag }})
+    * [xorg-kit - {{ .Tag }}](https://github.com/macaroni-os/xorg-kit/releases/tag/{{ .Tag }})
+    * [text-kit - {{ .Tag }}](https://github.com/macaroni-os/text-kit/releases/tag/{{ .Tag }})
+    * [llvm-kit - {{ .Tag }}](https://github.com/macaroni-os/llvm-kit/releases/tag/{{ .Tag }})
+    * [ruby-kit - {{ .Tag }}](https://github.com/macaroni-os/ruby-kit/releases/tag/{{ .Tag }})
+    * [java-kit - {{ .Tag }]](https://github.com/macaroni-os/java-kit/releases/tag/{{ .Tag }})
+    * [php-kit - {{ .Tag }}](https://github.com/macaroni-os/php-kit/releases/tag/{{ .Tag }})
+    * [lisp-scheme-kit - {{ .Tag }}](https://github.com/macaroni-os/lisp-scheme-kit/releases/tag/{{ .Tag }})
+    * [python-build-tools-kit - {{ .Tag }}](https://github.com/macaroni-os/python-build-tools-kit/releases/tag/{{ .Tag }})
+    * [ai-kit - {{ .Tag }}](https://github.com/macaroni-os/ai-kit/releases/tag/{{ .Tag }})
+
 
 changelog:
   sort: asc
