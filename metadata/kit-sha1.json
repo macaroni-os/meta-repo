@@ -1,6 +1,6 @@
 {
  "ai-kit": {
-  "mark-iii": "874426e2b11a7b0358f9ded5cec56faa14e108cf"
+  "mark-iii": "b2f3551b29a372f90f956a0485dd8602fda04550"
  },
  "browser-kit": {
   "mark-iii": "e4548d98c6ac04f78a9cf17a21f9226f84eb34ac"
@@ -18,10 +18,10 @@
   "mark-iii": "197a411ba06328da522bb66ff0899adae2face95"
  },
  "desktop-kit": {
-  "mark-iii": "3f2c826077369dfbe07a4163776b9216c2500ded"
+  "mark-iii": "4f924281e4b7aab4f3ee8ccf7a884949633a3cd5"
  },
  "dev-kit": {
-  "mark-iii": "2dbbf6d87cc28c7d7afc1a9b3530f4c878b8a142"
+  "mark-iii": "68954a0087ca4a3c237867999130f933bf5f89d2"
  },
  "editors-kit": {
   "mark-iii": "00f83aad3189bec2cb713f167b7b8dd46f4bba90"
