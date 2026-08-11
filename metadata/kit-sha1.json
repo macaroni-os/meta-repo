@@ -18,7 +18,7 @@
   "mark-unstable": "1b549da9ca8c646ea32f00a4571da6dcfe460d1d"
  },
  "desktop-kit": {
-  "mark-unstable": "c2dc87f623d9e9ca7872dd90db72f1354d171dae"
+  "mark-unstable": "b2d5e7b9cb4021b7dfbbe006066d5290d859c3fb"
  },
  "dev-kit": {
   "mark-unstable": "e1dfdac54fc27331542bbda5f51054da5bf9b90d"
@@ -75,7 +75,7 @@
   "mark-unstable": "e7245cbff868635153911256a877ddb1ba9d7db1"
  },
  "python-modules-kit": {
-  "mark-unstable": "d4c81e37eaaaf41c6aa31d2e9aa07ecb0ba4231a"
+  "mark-unstable": "f34f573f934765358aecdc1e41a9d58e4296f21d"
  },
  "qt-kit": {
   "mark-unstable": "deafad4e538d16597de55e8e35a56e3547754d22"
