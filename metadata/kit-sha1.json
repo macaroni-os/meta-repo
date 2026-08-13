@@ -42,7 +42,7 @@
   "mark-unstable": "8bb14beef0cfc31058abc38d9cfd6b65740a76ab"
  },
  "kde-kit": {
-  "mark-unstable": "619ea9d910ff16042d47dba5b8032db014da2046"
+  "mark-unstable": "a48eb4b1885e9a35038619feca7a282cfa344b48"
  },
  "kernel-kit": {
   "mark-unstable": "900c94822bc4edc9cfd4c1a86d2b8179aa47fefa"
@@ -78,7 +78,7 @@
   "mark-unstable": "a27924840a8b26ad9acb0edf20d5cd39d18881fc"
  },
  "qt-kit": {
-  "mark-unstable": "a8e33e6ba9bca711d907cf7da1d92fb5f970b0e5"
+  "mark-unstable": "5e8b4b779e7888aade845dafe8b9114f5531e203"
  },
  "ruby-kit": {
   "mark-unstable": "2f7091fedd99567ee84b80d52753ccb31f706d03"
