@@ -6,13 +6,13 @@
   "mark-xl": "a3c5fea4e0efe24d23077b72a06bf60a92bd2c02"
  },
  "core-kit": {
-  "mark-xl": "65cec05c8e5e89ebbc3e497326e87b5947c93bf8"
+  "mark-xl": "c77813b4751cb9d22d21bfe958cd0022245062ec"
  },
  "core-server-kit": {
-  "mark-xl": "bf905d634c1f178ad90233f73fdededb0124df38"
+  "mark-xl": "69801b431d1a56ca4f6b249987c38f35f3135a30"
  },
  "dev-kit": {
-  "mark-xl": "481d1c4a3155c1df1a6b868b341d21ae21b0b34b"
+  "mark-xl": "b884816754e8bd4a4edef8173d14d4e41f50bb47"
  },
  "editors-kit": {
   "mark-xl": "9c7c4d33d932ce9a6cd314ce40d74021ffaaee14"
@@ -27,7 +27,7 @@
   "mark-xl": "db7831a1f545d6abd81251e6073e144f57b93b6b"
  },
  "lang-kit": {
-  "mark-xl": "af9aa033f7018b5fa2065c1c6d2087d75dfb1c6f"
+  "mark-xl": "1ab7bded427c0634855b1af0506140b6e9342f8d"
  },
  "lisp-scheme-kit": {
   "mark-xl": "fa862193806ea12a358588676a950b8078493a75"
