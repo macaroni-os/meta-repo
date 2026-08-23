@@ -1,9 +1,9 @@
 {
  "ai-kit": {
-  "mark-iii": "ad28358bd7c15d967414f96d7a8dc841586f17d9"
+  "mark-iii": "b75d14195ec129d6e88fb3aa76ff6e1b255ba333"
  },
  "browser-kit": {
-  "mark-iii": "ef7e7f3983fdbbb2f53637ce6f00519ef2b86492"
+  "mark-iii": "a54cd35da46ed9f7403a88488c7d96b455fee7b6"
  },
  "core-gl-kit": {
   "mark-iii": "5c8d3d10f1932c9791507202d90df0d7220de0a8"
@@ -57,7 +57,7 @@
   "mark-iii": "4c369a2e81e8001915c2bcf64cee002685e525e1"
  },
  "mark-kit": {
-  "mark-iii": "0fb937f80e808f39605117510a52ee9185f4aa4d"
+  "mark-iii": "0180a23be0775da0f588d6d259e77e363fed9fe2"
  },
  "media-kit": {
   "mark-iii": "464da6c5af2cd0b54baefeefb322ded88d208043"
@@ -96,7 +96,7 @@
   "mark-iii": "8dfcc9a472a9dc1e08a289981b406106cf5b3abe"
  },
  "text-kit": {
-  "mark-iii": "3b259b18e0da1801db19a88b84597d9729df52d5"
+  "mark-iii": "ca6b2c50f7435bb4de751a7af792a58a7f1a79b9"
  },
  "xfce-kit": {
   "mark-iii": "54623089a1ed75e4ad26a9ef6cb1c4e16e7d9ddf"
