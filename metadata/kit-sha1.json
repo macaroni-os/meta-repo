@@ -9,13 +9,13 @@
   "mark-31": "65f3dc27835d0ab9bb86036cbbf6366b1e92d07c"
  },
  "core-kit": {
-  "mark-31": "5f1b06464f74e7f2d8413f1cd05fe339d9cf1e37"
+  "mark-31": "2dd9a2ded13b623bf978932aad4445f7aebd1152"
  },
  "core-server-kit": {
-  "mark-31": "44f7b6dc2d63b5ab775ffd480a86d7647d2d3d0e"
+  "mark-31": "73477ce9b942c9ba408a444ae9e825d6fd4cc4fe"
  },
  "desktop-kit": {
-  "mark-31": "5c36de82d5077333be5809e39677e563ab5c6a3b"
+  "mark-31": "ea97dbb807ad5c5a3ccf09db0b04d1a8d21ada78"
  },
  "dev-kit": {
   "mark-31": "18a3841996137757240d4fad7fe613a5fee5ef4c"
@@ -39,10 +39,10 @@
   "mark-31": "1c42e55ce9a60d2d357cda194ceb887ba525c4ad"
  },
  "kernel-kit": {
-  "mark-31": "45264f5bd5905eca65f26989a96fba1ba368010f"
+  "mark-31": "85a6fb2779777a2ae23369ffe61388cce97311e1"
  },
  "lang-kit": {
-  "mark-31": "9bf7861e340fbc513401407252eec1c502ee8e6c"
+  "mark-31": "af7b7f826b824c6a3aef179e4c9789421fe2b8d2"
  },
  "lisp-scheme-kit": {
   "mark-31": "1408b686accacba2a9ab9bfb86d512823e1b268e"
@@ -69,7 +69,7 @@
   "mark-31": "6ff1183820c4c03ffed80740dc7fd1c93e784cf3"
  },
  "python-build-tools-kit": {
-  "mark-31": "385e69bd45f36dcfe67a3bdb9d4e1a23fa455d84"
+  "mark-31": "5b6d7b2dddf385b8d64ad47d982a0f2b8edf6ab9"
  },
  "python-kit": {
   "mark-31": "081d7c83a90cdcf82f75a4c4129ad2a5b4d8eef9"
