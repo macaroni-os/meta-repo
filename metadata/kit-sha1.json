@@ -6,13 +6,13 @@
   "mark-xl": "a3c5fea4e0efe24d23077b72a06bf60a92bd2c02"
  },
  "core-kit": {
-  "mark-xl": "e0c1831d5e89b21de0483f6935d31019d98dd8e5"
+  "mark-xl": "80a00a66047754d9007dbd2fdfea58a8292943e9"
  },
  "core-server-kit": {
   "mark-xl": "e03774f5408e8c14eb445119f81842d6e6661f9a"
  },
  "dev-kit": {
-  "mark-xl": "37b5e7e154077c2b347c7922a97dd6a0e9a9d8ec"
+  "mark-xl": "26abb34a7ac69c86d81cce1e6800ec2d4e02b758"
  },
  "editors-kit": {
   "mark-xl": "9c7c4d33d932ce9a6cd314ce40d74021ffaaee14"
@@ -24,10 +24,10 @@
   "mark-xl": "c9957743669662ad49b0ba1061a82d27a278b101"
  },
  "kernel-kit": {
-  "mark-xl": "374bcf8165ea3a28abecdd85341399b35b024218"
+  "mark-xl": "159df302dcf1ae640c8a629a2d6211a20b11e974"
  },
  "lang-kit": {
-  "mark-xl": "0713d466dd9c13292e96728121ce85dd0a2845e7"
+  "mark-xl": "b58f342809e6a3a0a6fcd1a7e0a0ea6db2c521ce"
  },
  "lisp-scheme-kit": {
   "mark-xl": "fa862193806ea12a358588676a950b8078493a75"
