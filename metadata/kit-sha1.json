@@ -12,7 +12,7 @@
   "mark-31": "2629b544c839b38d964a5e82ff7f62867c996799"
  },
  "core-server-kit": {
-  "mark-31": "13425f271bca32a230654d611e9f5a50e15c5e26"
+  "mark-31": "f554ba919bc692bcd5d03da7e39698d6bc037c02"
  },
  "desktop-kit": {
   "mark-31": "1fa363fd3fa8da95c4804b61c6efe26f44fa99a1"
@@ -69,13 +69,13 @@
   "mark-31": "6ff1183820c4c03ffed80740dc7fd1c93e784cf3"
  },
  "python-build-tools-kit": {
-  "mark-31": "53ccd02ae2458efca9a4e8ac8bc2866f5f86ccd4"
+  "mark-31": "ac53605e56ec2ce60511fb47a0604f11431a0053"
  },
  "python-kit": {
   "mark-31": "081d7c83a90cdcf82f75a4c4129ad2a5b4d8eef9"
  },
  "python-modules-kit": {
-  "mark-31": "c4910af7f07e2b5e3f1c71caf87d4605fde5f4c9"
+  "mark-31": "8831dbd434930dc8cab4ae13107ede7178f82903"
  },
  "qt-kit": {
   "mark-31": "fa1abc33a6d6d52ae848966176f116032f7aa36e"
@@ -90,7 +90,7 @@
   "mark-31": "2a1c48941f1395973623490c03fb2014218cec09"
  },
  "text-kit": {
-  "mark-31": "c80451c3fff1c19f42a31d013a4de84ebbc27dfe"
+  "mark-31": "9c7ae3c0f5811c4ff66b9ec0dbd60dcd7c78a295"
  },
  "xfce-kit": {
   "mark-31": "945addca3a1b45731c279a611db9f383f7ab0243"
