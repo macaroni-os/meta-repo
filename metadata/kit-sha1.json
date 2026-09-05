@@ -9,7 +9,7 @@
   "mark-31": "65f3dc27835d0ab9bb86036cbbf6366b1e92d07c"
  },
  "core-kit": {
-  "mark-31": "2629b544c839b38d964a5e82ff7f62867c996799"
+  "mark-31": "4bade9c3670928c0f79f7fbef6be62ae9198aa06"
  },
  "core-server-kit": {
   "mark-31": "f554ba919bc692bcd5d03da7e39698d6bc037c02"
@@ -27,7 +27,7 @@
   "mark-31": "ffed778d23ed9bf8db85c4bd8edc63162859e8f7"
  },
  "gnome-kit": {
-  "mark-31": "a9a82949ec32ce60fbcbc2f84291b1a547783012"
+  "mark-31": "55050401736bc2489a46310fdbec2699e7bbf116"
  },
  "i18n-kit": {
   "mark-31": "14608916d64eb77938b0dd304bff3698350ac594"
@@ -87,7 +87,7 @@
   "mark-31": "a71fc4e1b533a52a1a7dce5734f1b7c657faf88b"
  },
  "security-kit": {
-  "mark-31": "2a1c48941f1395973623490c03fb2014218cec09"
+  "mark-31": "4e7a922ddb75ee7b5258eee54ba6b9537d549a73"
  },
  "text-kit": {
   "mark-31": "9c7ae3c0f5811c4ff66b9ec0dbd60dcd7c78a295"
