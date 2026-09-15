@@ -1,9 +1,9 @@
 {
  "ai-kit": {
-  "mark-iii": "9b3ea45c24dced3ae79ddd48e785a80e3dfe40b0"
+  "mark-iii": "bc4e49f1a5c8f7b2b8e12beed6cd7bf0716c597a"
  },
  "browser-kit": {
-  "mark-iii": "62fc0a1b1d658dc4146b4897bf7df9762e55bef3"
+  "mark-iii": "08ded6a11e215db1780813c87dd85854a23ad044"
  },
  "core-gl-kit": {
   "mark-iii": "5207acb95d3d8954f7f2a9fddd6c0a7665ccfa00"
@@ -99,7 +99,7 @@
   "mark-iii": "ca6b2c50f7435bb4de751a7af792a58a7f1a79b9"
  },
  "xfce-kit": {
-  "mark-iii": "54623089a1ed75e4ad26a9ef6cb1c4e16e7d9ddf"
+  "mark-iii": "bdf11b5de6af1fb6fdb5d7b1088d249e5db7d7fc"
  },
  "xorg-kit": {
   "mark-iii": "73195f9897dda3838b6780f871e458c5508be088"
