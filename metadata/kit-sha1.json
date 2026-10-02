@@ -6,13 +6,13 @@
   "mark-31": "ddee9e4fde5d04c966f0edcc824516fc0e93aebd"
  },
  "core-hw-kit": {
-  "mark-31": "90afc7004bd23fe8aacec568231cdd80f1f34a96"
+  "mark-31": "296e6c5be90c0f6b8bfba328bb492f3c38a2877f"
  },
  "core-kit": {
   "mark-31": "21b7eebaa4719963077359715464ca0281574874"
  },
  "core-server-kit": {
-  "mark-31": "b4bbb93de5cbf8bf980282c01c330703bc5f4be2"
+  "mark-31": "b6af6801cb57fe970879e529f74931d854789edf"
  },
  "desktop-kit": {
   "mark-31": "370b2a2ddc9d432e3527b5fe4e383adc5e0c9fc7"
@@ -39,10 +39,10 @@
   "mark-31": "5a830afc2c07bcb5a88e204e27b150641b0d42f2"
  },
  "kernel-kit": {
-  "mark-31": "fece2198466754aafb0b2e88e4c18488e55aefbc"
+  "mark-31": "bc7479f17136ced0c83a376d1836d4fa7492656d"
  },
  "lang-kit": {
-  "mark-31": "9ae3188f8cc4f4ef91b448c485fcc8416de119d0"
+  "mark-31": "741e8a01543cb4acda247717545ba66c672830a2"
  },
  "lisp-scheme-kit": {
   "mark-31": "1408b686accacba2a9ab9bfb86d512823e1b268e"
@@ -69,13 +69,13 @@
   "mark-31": "6ff1183820c4c03ffed80740dc7fd1c93e784cf3"
  },
  "python-build-tools-kit": {
-  "mark-31": "46668c79fbdffefcf6efa20798de160066fe4ecd"
+  "mark-31": "ed210fa7e8895f28649f100379706e9f2ece06ce"
  },
  "python-kit": {
   "mark-31": "a68c9b52608bc7451b2d065ef593fbe2c398692f"
  },
  "python-modules-kit": {
-  "mark-31": "6f1ab2e7db2e014bf1e2c2dcbde3e97999b6e13a"
+  "mark-31": "f4a0e176b7cded34e84fe12ee57fa81b80e47958"
  },
  "qt-kit": {
   "mark-31": "fa1abc33a6d6d52ae848966176f116032f7aa36e"
