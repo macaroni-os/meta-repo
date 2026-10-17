@@ -1,6 +1,6 @@
 {
  "browser-kit": {
-  "mark-31": "f728a70ad83aa0a576c5ed24b2b4cd8095c68d5b"
+  "mark-31": "f60b7b0c03595981858e5af676e5821f510ee9f5"
  },
  "core-gl-kit": {
   "mark-31": "ddee9e4fde5d04c966f0edcc824516fc0e93aebd"
@@ -9,10 +9,10 @@
   "mark-31": "a051e58dc4ffd4816b1c15e6243007010cd1ef82"
  },
  "core-kit": {
-  "mark-31": "49b39b14db3ccf3b5004ecd7c55467bbb4ed1fc1"
+  "mark-31": "f351960e0c91b161ffcfab5538363bbb58c5aa84"
  },
  "core-server-kit": {
-  "mark-31": "60a18ba7deee2a52dc8b0ce12e78eccaf5452bea"
+  "mark-31": "048afbc4f3c155fd4bfc3b1c739d4d6b05679988"
  },
  "desktop-kit": {
   "mark-31": "f8d3d10eff22d59967d612c4a8d28b985cda13af"
@@ -39,10 +39,10 @@
   "mark-31": "5a830afc2c07bcb5a88e204e27b150641b0d42f2"
  },
  "kernel-kit": {
-  "mark-31": "3f90251c44daa5bbb082c154767ba30765e0344e"
+  "mark-31": "a824ad607a6afb7ce315c2533e7d658292b9d1c5"
  },
  "lang-kit": {
-  "mark-31": "0ef91d9a96ea65388551a4a71ade7f903e7655b1"
+  "mark-31": "098a3fe6f1495fc906bf9045a097326fafdb57d3"
  },
  "lisp-scheme-kit": {
   "mark-31": "1408b686accacba2a9ab9bfb86d512823e1b268e"
@@ -75,7 +75,7 @@
   "mark-31": "a68c9b52608bc7451b2d065ef593fbe2c398692f"
  },
  "python-modules-kit": {
-  "mark-31": "c57c07b24bec5dfba8e932d63704038c68bdde69"
+  "mark-31": "8594ffab97bd29cba8953c52a111bd08ad13f31d"
  },
  "qt-kit": {
   "mark-31": "fa1abc33a6d6d52ae848966176f116032f7aa36e"
