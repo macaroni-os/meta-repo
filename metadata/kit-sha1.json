@@ -1,9 +1,9 @@
 {
  "ai-kit": {
-  "mark-iii": "5387f367bbf81b37456d00c3f5cadcf65450a774"
+  "mark-iii": "bf238b1db99ef1c4572e7b6d74384cf3f3f8d778"
  },
  "browser-kit": {
-  "mark-iii": "3f4550eede3e7ed6d480217e5e93f060695d4c11"
+  "mark-iii": "3f66f147e41756b8bbdcd4f958e88059c440ff33"
  },
  "core-gl-kit": {
   "mark-iii": "5207acb95d3d8954f7f2a9fddd6c0a7665ccfa00"
@@ -15,7 +15,7 @@
   "mark-iii": "c535e8a99823f9df4cf5fde8fbf1a7935929f138"
  },
  "core-server-kit": {
-  "mark-iii": "1d2d837491fe6804df5c1a89c668a53ec2ca5416"
+  "mark-iii": "835aad709c4b743b147f309205c6e5d4f4c89b8a"
  },
  "desktop-kit": {
   "mark-iii": "9bdbd88d188406d6863cf084359516463e9f4c48"
@@ -48,7 +48,7 @@
   "mark-iii": "32b573bd6230efa164d1989a64571c959468dfa4"
  },
  "lang-kit": {
-  "mark-iii": "cbcbdc394f14d5e26157bf195356f0fa54d710fc"
+  "mark-iii": "fefb1c6c4f086bc3537431a789ae3e3151473ee0"
  },
  "lisp-scheme-kit": {
   "mark-iii": "160c35060628271f0ade4f7f69a31a74b266e117"
@@ -57,10 +57,10 @@
   "mark-iii": "4c369a2e81e8001915c2bcf64cee002685e525e1"
  },
  "mark-kit": {
-  "mark-iii": "89daf916809f2e01a490433b253fef76aadc6b08"
+  "mark-iii": "9ef2dbfc8791b8bdd0ac779288ec497855e3f585"
  },
  "media-kit": {
-  "mark-iii": "3e774fae0027a48d51a0f9ed85d8ebfda1b4f7ec"
+  "mark-iii": "84dbb048b05fc0bedf566383530d81556e2a824a"
  },
  "net-kit": {
   "mark-iii": "58fca30fe2adf2dadfb9ca15cfecf197b2a7c57b"
