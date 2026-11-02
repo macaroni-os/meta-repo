@@ -1,9 +1,9 @@
 {
  "ai-kit": {
-  "mark-iii": "069f800a3929745116bcd4e06558bc36d64a3f40"
+  "mark-iii": "ca4e0a83d5a75eb94e557ad325cf882c85e2d5d5"
  },
  "browser-kit": {
-  "mark-iii": "15f49742c8a39a2961f94fad0f3c0b909edb39ca"
+  "mark-iii": "da1a538d14fe09e87f5be471d4903b17377004ca"
  },
  "core-gl-kit": {
   "mark-iii": "5207acb95d3d8954f7f2a9fddd6c0a7665ccfa00"
@@ -12,16 +12,16 @@
   "mark-iii": "516f957b4c60b7921a80cfa5db36678f27c8860f"
  },
  "core-kit": {
-  "mark-iii": "209af1e31579cd4108359d20441f53691d1e1cd7"
+  "mark-iii": "5755033211ed463770a7562d36866d0ec3c05aa9"
  },
  "core-server-kit": {
-  "mark-iii": "a837c1c68d10b7972f8e6d21a64b8ddbf262b66c"
+  "mark-iii": "90f68f3cbabac14fcf7e016459af7100e161efc1"
  },
  "desktop-kit": {
   "mark-iii": "1c9adbb29cfc5f807d227db42d327d5bb3d8aa1d"
  },
  "dev-kit": {
-  "mark-iii": "fbb65432054bb40ffedac5e1eadb757010a0beba"
+  "mark-iii": "9366123144ecb6ba569b13ef7a208e3c9ec7081a"
  },
  "editors-kit": {
   "mark-iii": "00f83aad3189bec2cb713f167b7b8dd46f4bba90"
@@ -57,13 +57,13 @@
   "mark-iii": "4c369a2e81e8001915c2bcf64cee002685e525e1"
  },
  "mark-kit": {
-  "mark-iii": "b20a66bc543b9c13c2105aaa120760b3abce1c50"
+  "mark-iii": "68e66da6a3b47ee0441f87104ee1e0cdfba5d5f8"
  },
  "media-kit": {
   "mark-iii": "84dbb048b05fc0bedf566383530d81556e2a824a"
  },
  "net-kit": {
-  "mark-iii": "092ef63cd9687efbce977784743df5eb281db728"
+  "mark-iii": "412efd49746fae5b9f606af2bf8c505c2d0fe96c"
  },
  "perl-kit": {
   "mark-iii": "904bd76a7258d2d7f14fc2b2352ad1cfd2b05cc3"
@@ -81,7 +81,7 @@
   "mark-iii": "24f1697e71ee8e28a95379698b68a2df9082d55f"
  },
  "python-modules-kit": {
-  "mark-iii": "ebe88ba03575c692455951666ceca4fc0b9a704e"
+  "mark-iii": "12759a5f51bb738a68d25a2b610bfc808d577362"
  },
  "qt-kit": {
   "mark-iii": "5e1af679319c81dba39c7801255ebbec8946d408"
